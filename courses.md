@@ -463,7 +463,7 @@ Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)<br/>
 ---
 
 # DataCamp
-## Learning Paths Completed
+## Career Tracks Completed
 
 ### [Data Analyst with PythonData Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/6f6925c3d15bd2a2aff4360046df0fc0ae8d4d06)
 - Duration: 66h
