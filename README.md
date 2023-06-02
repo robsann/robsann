@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Robson!
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">
 
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
