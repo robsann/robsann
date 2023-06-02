@@ -3,6 +3,8 @@
 ### Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 ---
+### [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
+---
 ### Cybersecurity Projects
 #### Azure Sentinel (SIEM) Attack Map
 - Configured an exposed Windows 10 VM in Azure to monitor failed RDP login attempts from Global Attackers using Azure Sentinel (SIEM).
