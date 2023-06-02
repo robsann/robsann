@@ -1,5 +1,10 @@
 # Linkedin
 
+## Statistics
+- 25 Learning Paths Completed
+- 199 Courses Completed
+- 372+ hours of learning
+
 ## Learning Paths Completed
 
 ### [Prepare for the CompTIA IT Fundamentals+ (ITF+) (FC0-U61) Exam](https://www.linkedin.com/learning/certificates/9710289cfe31e2beb371c19f15ac3a32d71f5474b0d17e4c561581e8980af722?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
@@ -310,9 +315,10 @@
 
 # TryHackMe
 ## Statistics
-- 8 Learning Paths Complete
-- 30 Modules Complete
-- 172 Rooms Complete
+- 8 Learning Paths Completed
+- 30 Modules Completed
+- 172 Rooms Completed
+- 370+ hours of learning
 
 ## Learning Paths Completed
 ### [Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png)
@@ -464,6 +470,8 @@ Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)<br/>
 
 # DataCamp
 ## Career Tracks Completed
+- 2 Career Tracks Completed
+- 129+ hours of learning
 
 ### [Data Analyst with PythonData Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/6f6925c3d15bd2a2aff4360046df0fc0ae8d4d06)
 - Duration: 66h
