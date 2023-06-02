@@ -1,4 +1,5 @@
 ### Hi, I'm Robson!
+I'm a self-taught Cybersecurity learner with interest in cyber defence topics such as Network Security, Endpoint Protection, Vulnerability Management, Incident Response, Threat Intelligence, Threat Hunting, Malware Analysis, and Web Application Security.
 ---
 ### Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
