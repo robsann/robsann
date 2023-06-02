@@ -28,6 +28,26 @@
     9\. CompTIA A+ (220-1001) Cert Prep 9: Portable Computing<br/>
     10\. CompTIA A+ (220-1001) Cert Prep 10: Printers<br/>
 
+### [Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
+- Duration: 9h19m
+- Courses:<br/>
+    1\. System Hardware<br/>
+    2\. Disk Systems<br/>
+    3\. Manage Users and Software<br/>
+    4\. Server Infrastructure and Services<br/>
+    5\. GUI and Remote Access<br/>
+    6\. Create, Modify, and Redirect Files<br/>
+    7\. File Security<br/>
+    8\. Mandatory Access Control<br/>
+    9\. System Security<br/>
+    10\. Linux Firewalls<br/>
+    11\. System Logging<br/>
+    12\. Backup, Restore, and Compress Files<br/>
+    13\. System Monitoring<br/>
+    14\. Version Control<br/>
+    15\. Automation and Scripting<br/>
+    16\. System Orchestration<br/>
+
 ### [Prepare for the CompTIA Network+ (N10-008) Exam](https://www.linkedin.com/learning/certificates/2061447662389771c0a8a631508ff913d362c3f95ecef54e7affb80eda1301d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
 - Duration: 21h39m
 - Courses:<br/>
@@ -91,26 +111,6 @@
     2\. CASP+ (CAS-004) Cert Prep: 2 Security Operations<br/>
     3\. CASP+ (CAS-004) Cert Prep: 3 Security Engineering and Cryptography<br/>
     4\. CASP+ (CAS-004) Cert Prep: 4 Governance, Risk, and Compliance<br/>
-
-### [Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
-- Duration: 9h19m
-- Courses:<br/>
-    1\. System Hardware<br/>
-    2\. Disk Systems<br/>
-    3\. Manage Users and Software<br/>
-    4\. Server Infrastructure and Services<br/>
-    5\. GUI and Remote Access<br/>
-    6\. Create, Modify, and Redirect Files<br/>
-    7\. File Security<br/>
-    8\. Mandatory Access Control<br/>
-    9\. System Security<br/>
-    10\. Linux Firewalls<br/>
-    11\. System Logging<br/>
-    12\. Backup, Restore, and Compress Files<br/>
-    13\. System Monitoring<br/>
-    14\. Version Control<br/>
-    15\. Automation and Scripting<br/>
-    16\. System Orchestration<br/>
 
 ### [Become a Cybersecurity Professional](https://www.linkedin.com/learning/certificates/8c945450d841fadc5b9205aa0dd4a4d104cbbf11af38f3d65aa40222be5381ed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
 - Duration: 6h28m
