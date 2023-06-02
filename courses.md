@@ -290,18 +290,19 @@
 
 ## Single Courses Completed
 
+- [Unix Essential Training](https://www.linkedin.com/learning/certificates/ac449b51a77fe47120197387d9128eb9c27de191cece1070ed729f2d6fdb55a5) (2h38m)
 - [Linux System Engineer: Authentication with LDAP and Kerberos](https://www.linkedin.com/learning/certificates/b86f392165d96b126cff1ab2f50ad261759a36593a723cf55913b92b6bbc0a70) (1h30m)
 - [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/certificates/dd5f54d3fbc65cdbaee4b50bfc15bc21f5a78655d4f4e9031fdcb44e518fa7f8) (1h4m)
+- [Linux: Bash Shell and Scripts](https://www.linkedin.com/learning/certificates/9ab94414970f017510cf96a2a9211aa0f21d6d711417736e8bb2c1d2378221d6) (2h46m)
+- [Learning Zsh](https://www.linkedin.com/learning/certificates/ad900f64ebe0ea56187c3c146ec3aa81810abe38af4d10be27c7ae7babadebb4) (1h44m)
+- [Learning Vim](https://www.linkedin.com/learning/certificates/7f4deacda22cbe4a8d8d8abdf96095915c367168852678bb6af242ecbaf8af42) (1h16m)
+- [Learning Regular Expressions](https://www.linkedin.com/learning/certificates/c30e5936f0e50d0ea1cc33242e4af532e970d96990392d085d65e9fe2a5481d8) (3h18m)
+- [Python for Security](https://www.linkedin.com/learning/certificates/22fa679d1e3736b09f816eeaa09df75aa0c5fa2bd7510f887acd0b198405a439) (5h44m)
+- [Ethical Hacking with JavaScript](https://www.linkedin.com/learning/certificates/6a106c3a6fd861ef610f402cf40800ab5bea487919fc6b1fdec19db05221be62) (32m)
 - [Learning Splunk (2018)](https://www.linkedin.com/learning/certificates/dd600eae661becf8c71d355ca9c8e0a578f9f4c29af9d0770f083ab2bfad1230) (1h34m)
 - [Android App Penetration Testing](https://www.linkedin.com/learning/certificates/4ae5852dee7f0dd7870b237830379343e1ca4fd793cef76293171ec41b3337ef) (1h35m)
-- [Learning Zsh](https://www.linkedin.com/learning/certificates/ad900f64ebe0ea56187c3c146ec3aa81810abe38af4d10be27c7ae7babadebb4) (1h44m)
-- [Unix Essential Training](https://www.linkedin.com/learning/certificates/ac449b51a77fe47120197387d9128eb9c27de191cece1070ed729f2d6fdb55a5) (2h38m)
+- [Understanding Zero Trust](https://www.linkedin.com/learning/certificates/b5260f64292aeb516d8b57eaac3ddd79fefb4001cb4ac39fcc263c3598b21ccc) (52m)
 - [Learning VirtualBox](https://www.linkedin.com/learning/certificates/366a5cde0fde2a6e402388a09d27f49993f4daed2675f08b358b4f36d07fe42f) (1h50m)
-- [Ethical Hacking with JavaScript](https://www.linkedin.com/learning/certificates/6a106c3a6fd861ef610f402cf40800ab5bea487919fc6b1fdec19db05221be62) (32m)
-- [Learning Vim](https://www.linkedin.com/learning/certificates/7f4deacda22cbe4a8d8d8abdf96095915c367168852678bb6af242ecbaf8af42) (1h16m)
-- [Python for Security](https://www.linkedin.com/learning/certificates/22fa679d1e3736b09f816eeaa09df75aa0c5fa2bd7510f887acd0b198405a439) (5h44m)
-- [Learning Regular Expressions](https://www.linkedin.com/learning/certificates/c30e5936f0e50d0ea1cc33242e4af532e970d96990392d085d65e9fe2a5481d8) (3h18m)
-- [Linux: Bash Shell and Scripts](https://www.linkedin.com/learning/certificates/9ab94414970f017510cf96a2a9211aa0f21d6d711417736e8bb2c1d2378221d6) (2h46m)
 - [Learning Selenium](https://www.linkedin.com/learning/certificates/736d3d102d52644a9fdd92c721e514e648ea20306c7a0c2940f47b5d19bc3b3e) (1h15m)
 - [Test Automation Foundations](https://www.linkedin.com/learning/certificates/c5ffdd8d2f049902d6c8e88c4cf7eb55989e9629a342773a5f1bcef0e3034bdc) (1h9m)
 - [Understanding Manual Testing](https://www.linkedin.com/learning/certificates/f37287ce380fdb4f968ebf9242eb39416ddc54c87605d0f6976cf805069a3153) (38m)
@@ -309,7 +310,6 @@
 - [Learning Spring with Spring Boot](https://www.linkedin.com/learning/certificates/000088a27b4ad5a6808871f1ef6268e682624b0cc21403667e2fa9d9c955a30b) (2h13m)
 - [Java Essential Training: Objects and APIs](https://www.linkedin.com/learning/certificates/5aa37e2725a0ae5a0e98030ec260e6d102a87230b8c30af66991d1a97e7324ce) (2h8m)
 - [Java Essential Training: Syntax and Structure](https://www.linkedin.com/learning/certificates/1a785f81846e07f49257e965c919917981c6174157856961cce568fc6cec3319) (2h31m)
-- [Understanding Zero Trust](https://www.linkedin.com/learning/certificates/b5260f64292aeb516d8b57eaac3ddd79fefb4001cb4ac39fcc263c3598b21ccc) (52m)
 
 ---
 
