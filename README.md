@@ -1,13 +1,20 @@
-### Hi, I'm Robson!
+# Hi, I'm Robson!
+
 I'm a self-taught Cybersecurity learner with interest in cyber defence topics such as Network Security, Endpoint Protection, Vulnerability Management, Incident Response, Threat Intelligence, Threat Hunting, Malware Analysis, and Web Application Security.
+
 ---
-### Badges & Skills
+
+# Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
+
 ---
-### [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
+
+# [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
+
 ---
-### Cybersecurity Projects
-#### Azure Sentinel (SIEM) Attack Map
+
+# Cybersecurity Projects
+## Azure Sentinel (SIEM) Attack Map
 - Configured an exposed Windows 10 VM in Azure to monitor failed RDP login attempts from Global Attackers using Azure Sentinel (SIEM).
 - Configured a Windows 10 VM with Firewall disabled and RDP (3389) port open and used a custom PowerShell script to extract metadata from Windows Event Viewer and forward it to a 3rd party API to get geolocation data.
 - Configured a custom log in Log Analytics workspaces on Azure to ingest custom logs containing geographic information (latitude, longitude, state, and country) and extracted fields to map geo data into Azure Sentinel.
