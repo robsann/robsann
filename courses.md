@@ -1,6 +1,6 @@
 # Linkedin
 
-## Learning Paths
+## Learning Paths Completed
 
 ### [Prepare for the CompTIA IT Fundamentals+ (ITF+) (FC0-U61) Exam](https://www.linkedin.com/learning/certificates/9710289cfe31e2beb371c19f15ac3a32d71f5474b0d17e4c561581e8980af722?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
 - Durations: 4h51m
@@ -283,7 +283,7 @@
     4\. DevOps Foundations: Monitoring and Observability<br/>
     5\. DevOps Foundations: Your First Project<br/>
 
-## Single Courses
+## Single Courses Completed
 
 - [Linux System Engineer: Authentication with LDAP and Kerberos](https://www.linkedin.com/learning/certificates/b86f392165d96b126cff1ab2f50ad261759a36593a723cf55913b92b6bbc0a70) (1h30m)
 - [Linux: Multitasking at the Command Line](https://www.linkedin.com/learning/certificates/dd5f54d3fbc65cdbaee4b50bfc15bc21f5a78655d4f4e9031fdcb44e518fa7f8) (1h4m)
@@ -306,7 +306,7 @@
 - [Java Essential Training: Syntax and Structure](https://www.linkedin.com/learning/certificates/1a785f81846e07f49257e965c919917981c6174157856961cce568fc6cec3319) (2h31m)
 - [Understanding Zero Trust](https://www.linkedin.com/learning/certificates/b5260f64292aeb516d8b57eaac3ddd79fefb4001cb4ac39fcc263c3598b21ccc) (52m)
 
-
+---
 
 # TryHackMe
 ## Statistics
@@ -314,7 +314,7 @@
 - 30 Modules Complete
 - 172 Rooms Complete
 
-## Learning Paths
+## Learning Paths Completed
 ### [Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png)
 - Duration: 48h
 - Courses: <br/>
@@ -398,7 +398,7 @@
 Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)<br/>
 
 
-## Modules
+## Modules Completed
 - **Burp Suite**
     - Burp Suite is the industry standard tool for web application hacking, and is essential in any web penetration test.
 - **Metasploit**
@@ -460,7 +460,12 @@ Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)<br/>
 - **Scripting for Pentesters**
     - Learn to use PowerShell and Python in different stages of a penetration test and take your pentesting craft to the next level.
 
+---
 
 # DataCamp
-## Data Analyst with PythonData Analyst with Python
-## Python Programmer
+## Learning Paths Completed
+
+### [Data Analyst with PythonData Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/6f6925c3d15bd2a2aff4360046df0fc0ae8d4d06)
+- Duration: 66h
+### [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/a5707ea2d47900454be8029f0d7581e13f67e068)
+- Duration: 63h
