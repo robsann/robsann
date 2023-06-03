@@ -26,7 +26,7 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 - Generate C2 payload, execute payload from Target machine, and start C2 session.
 - Create Detection & Response Rules in LimaCharlie (EDR) to detect:
     - LSASS access
-    - Shadow copies deletion using vssadmin.exe
+    - Shadow Copies deletion using vssadmin.exe
 
 ## Threat Hunting with ElasticStack
 - Virtual DHCP Server on VirtualBox.
