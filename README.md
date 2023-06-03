@@ -43,6 +43,15 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 - Third Scenario: EICAR Malware Test.
 - Fourth Scenario: MITRE ATT&CK.
 
+## Lab Pentesting & Security (IDS/IPS)
+- Network IDS/IPS setup using Snort in Ubuntu.
+- NMAP scan detection using Snort.
+    - Identify NMAP Ping Scan, TCP Scan, XMAS Scan, FIN Scan, NULL Scan, and UDP Scan.
+- Attack detection by SQLi using WPSCan & Wordpress and using Burp Suite & SQLmap.
+- Attack detection by Backdoor using Empire and using Katana.
+- Attack detection by Rogue DHCP & Rogue Routing.
+- Attack detection by ICMP Redirect.
+
 
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
