@@ -14,13 +14,13 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 ---
 
 # Cybersecurity Projects
-## Azure Sentinel (SIEM) Attack Map
+## [Azure Sentinel (SIEM) Attack Map](https://github.com/robsann/AzureSentinelSIEMAttackMap/blob/main/README.md)
 - Configured an exposed Windows 10 VM in Azure to monitor failed RDP login attempts from Global Attackers using Azure Sentinel (SIEM).
 - Configured a Windows 10 VM with Firewall disabled and RDP (3389) port open and used a custom PowerShell script to extract metadata from Windows Event Viewer and forward it to a 3rd party API to get geolocation data.
 - Configured a custom log in Log Analytics workspaces on Azure to ingest custom logs containing geographic information (latitude, longitude, state, and country) and extracted fields to map geo data into Azure Sentinel.
 - Configured Azure Sentinel (SIEM) workbook to display global attack data (failed RDP login attempts) on the world map according to physical location and magnitude (count) of attacks.
 
-## LimaCharlie (EDR) Telemetry
+## [LimaCharlie (EDR) Telemetry](https://github.com/robsann/LimaCharlieEDRTelemetry/blob/main/README.md)
 - Windows 11 (Target) with Virus & Threat Prodection disabled, Sysmon and LimaCharlie (EDR) Sensor installed.
 - Ubuntu Server (Attack) with Sliver, a Command & Control (C2) framework by BishopFox.
 - Generate C2 payload, execute payload from Target machine, and start C2 session.
