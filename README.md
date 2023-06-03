@@ -28,6 +28,20 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
     - LSASS access
     - Shadow copies deletion using vssadmin.exe
 
+## Threat Hunting with ElasticStack
+- Virtual DHCP Server on VirtualBox.
+    - Ubuntu VM (ElasticHost)
+    - Windows VM (Victim)
+- Elastic Stack Installation on Ubuntu:
+    - Elastic Search, Kibana, and Elastic-agent Installation.
+    - Enabling the detection engine and Fleet.
+    - Filebeat Installation and Enabling ThreatIntel module.
+- First Scenario: Collecting Data From Windows 10 using beats:
+    - WinLogBeat, PacktBeat and NPcap Installation.
+- Second Scenario: Collecting Data From Windows 10 using Sysmon and Elastic-Agents:
+    - Configuring Sysmon and Elastic Agents.
+- Third Scenario: EICAR Malware Test.
+- Fourth Scenario: MITRE ATT&CK.
 
 
 <!--
