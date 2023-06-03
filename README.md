@@ -43,7 +43,7 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 - Third Scenario: EICAR Malware Test.
 - Fourth Scenario: MITRE ATT&CK.
 
-## Lab Pentesting & Security (IDS/IPS)
+## Lab Pentesting & Network Security (IDS/IPS)
 - Network IDS/IPS setup using Snort in Ubuntu.
 - NMAP scan detection using Snort.
     - Identify NMAP Ping Scan, TCP Scan, XMAS Scan, FIN Scan, NULL Scan, and UDP Scan.
