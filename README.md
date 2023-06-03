@@ -24,7 +24,7 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 - Windows 11 (Victim) with Virus & Threat Prodection disabled, Sysmon and LimaCharlie (EDR) Sensor installed.
 - Ubuntu Server (Attack) with Sliver, a Command & Control (C2) framework by BishopFox.
 - Generate C2 payload, execute payload from Victim machine, and start C2 session.
-- Create Detection & Response (D&R) Rules in LimaCharlie (EDR) to detect:
+- Create Detection & Response Rules in LimaCharlie (EDR) to detect:
     - LSASS access
     - Shadow copies deletion using vssadmin.exe
 
