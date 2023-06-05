@@ -13,7 +13,7 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 
 ---
 
-# Cybersecurity Projects
+# Cybersecurity Projects & Labs
 ## [Azure Sentinel (SIEM) Attack Map](https://github.com/robsann/AzureSentinelSIEMAttackMap)
 - Configured an exposed Windows 10 VM in Azure to monitor failed RDP login attempts from Global Attackers using Microsoft Sentinel (SIEM).
 - Windows 10 VM has Firewall disabled and RDP port (3389) open. A custom PowerShell script extracted failed login events from the Event Viewer's Security Log, forwarded them to a third-party API to get geolocation data, and generated a log file with geolocation and event data.
