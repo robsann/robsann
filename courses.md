@@ -1,10 +1,13 @@
-# Linkedin
+# Statistics
+| Linkdin Learning            | TryHackMe                  | DataCamp                  |
+|-----------------------------|----------------------------|---------------------------|
+| 25 Learning Paths Completed | 8 Learning Paths Completed | 2 Career Tracks Completed |
+| 200 Courses Completed       | 30 Modules Completed       | 1 Skill Track Completed   |
+| -                           | 172 Rooms Completed        | 3 Projects Completed      |
+| -                           | -                          | 35 Courses Completed      |
+| 374+ hours of learning      | 370+ hours of learning     | 140+ hours of learning    |
 
-## Statistics
-- 25 Learning Paths Completed
-- 199 Courses Completed
-- 372+ hours of learning
-
+# Linkedin Learning
 ## Learning Paths Completed
 
 ### [Prepare for the CompTIA IT Fundamentals+ (ITF+) (FC0-U61) Exam](https://www.linkedin.com/learning/certificates/9710289cfe31e2beb371c19f15ac3a32d71f5474b0d17e4c561581e8980af722?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
@@ -299,6 +302,7 @@
 - [Learning Regular Expressions](https://www.linkedin.com/learning/certificates/c30e5936f0e50d0ea1cc33242e4af532e970d96990392d085d65e9fe2a5481d8) (3h18m)
 - [Python for Security](https://www.linkedin.com/learning/certificates/22fa679d1e3736b09f816eeaa09df75aa0c5fa2bd7510f887acd0b198405a439) (5h44m)
 - [Ethical Hacking with JavaScript](https://www.linkedin.com/learning/certificates/6a106c3a6fd861ef610f402cf40800ab5bea487919fc6b1fdec19db05221be62) (32m)
+- [Learning the Elastic Stack](https://www.linkedin.com/learning/certificates/af8fff75917c5436f6370f28ddcbd93a6f775b8d38f3fbee82ba247e7c4399e3) (1h50m)
 - [Learning Splunk (2018)](https://www.linkedin.com/learning/certificates/dd600eae661becf8c71d355ca9c8e0a578f9f4c29af9d0770f083ab2bfad1230) (1h34m)
 - [Android App Penetration Testing](https://www.linkedin.com/learning/certificates/4ae5852dee7f0dd7870b237830379343e1ca4fd793cef76293171ec41b3337ef) (1h35m)
 - [Understanding Zero Trust](https://www.linkedin.com/learning/certificates/b5260f64292aeb516d8b57eaac3ddd79fefb4001cb4ac39fcc263c3598b21ccc) (52m)
@@ -314,13 +318,8 @@
 ---
 
 # TryHackMe
-## Statistics
-- 8 Learning Paths Completed
-- 30 Modules Completed
-- 172 Rooms Completed
-- 370+ hours of learning
-
 ## Learning Paths Completed
+
 ### [Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png)
 - Duration: 48h
 - Courses: <br/>
@@ -405,75 +404,78 @@ Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)<br/>
 
 
 ## Modules Completed
-- **Burp Suite**
+- [Burp Suite](https://tryhackme.com/module/learn-burp-suite)
     - Burp Suite is the industry standard tool for web application hacking, and is essential in any web penetration test.
-- **Metasploit**
+- [Metasploit](https://tryhackme.com/module/metasploit)
     - Metasploit is the most widely used exploitation framework. Learn how to use it and unlock its full potential.
-- **Introduction to Web Hacking**
+- [Introduction to Web Hacking](https://tryhackme.com/module/intro-to-web-hacking)
     - Get hands-on, learn about and exploit some of the most popular web application vulnerabilities seen in the industry today.
-- **Network Security**
+- [Network Security](https://tryhackme.com/module/network-security)
     - Learn the basics of passive and active network reconnaissance. Understand how common protocols work and their attack vectors.
-- **Nmap**
+- [Nmap](https://tryhackme.com/module/nmap)
     - Learn how to leverage the Nmap network scanner to discover live hosts and open ports using basic and advanced scan options.
-- **Initial Access**
+- [Initial Access](https://tryhackme.com/module/red-team-initial-access)
     - Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.
-- **Phishing**
+- [Phishing](https://tryhackme.com/module/phishing)
     - Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques.
-- **Red Team Fundamentals**
+- [Red Team Fundamentals](https://tryhackme.com/module/red-team-fundamentals)
     - Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.
-- **Introduction to Offensive Security**
+- [Introduction to Offensive Security](https://tryhackme.com/module/introduction-to-offensive-security)
     - Understand what Offensive Security entails, and practice breaking into computer systems by exploiting applications and networks.
-- **Introduction to Defensive Security**
+- [Introduction to Defensive Security](https://tryhackme.com/module/introduction-to-defensive-security)
     - Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live cyber attack.
-- **Linux Fundamentals**
+- [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
     - Many servers and security tools use Linux. Learn how to use the Linux operating system, a critical skill in cyber security.
-- **How The Web Works**
+- [How The Web Works](https://tryhackme.com/module/how-the-web-works)
     - To become a better hacker it's vital to understand the underlying functions of the world wide web and what makes it work.
-- **Introduction to Pentesting**
+- [Introduction to Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting)
     - Understand what a penetration test involves, including testing techniques and methodologies every pentester should know.
-- **Privilege Escalation**
+- [Privilege Escalation](https://tryhackme.com/module/privilege-escalation)
     - Learn the fundamental techniques that will allow you to elevate account privileges in Linux and windows systems.
-- **Network Exploitation Basics**
+- [Network Exploitation Basics](https://tryhackme.com/module/intro-to-networking)
     - Understand, enumerate and attack various networking services in real-world environments.
-- **Vulnerability Research**
+- [Vulnerability Research](https://tryhackme.com/module/vulnerability-research)
     Familiarise yourself with the skills, research methods, and resources used to exploit vulnerable applications and systems.
-- **Cyber Security Awareness**
+- [Cyber Security Awareness](https://tryhackme.com/module/cyber-security-awareness)
     - Become cyber aware and protect yourself from common security attacks by working through interactive real-world scenarios.
-- **Web Hacking Fundamentals**
+- [Web Hacking Fundamentals](https://tryhackme.com/module/web-hacking-1)
     - Understand the core security issues with web applications, and learn how to exploit them using industry tools and techniques.
-- **Cryptography**
+- [Cryptography](https://tryhackme.com/module/cryptography)
     - Cryptography is essential in security. Learn how its used to preserve integrity and confidentiality of sensitive information.
-- **Introduction to Cyber Security**
+- [Introduction to Cyber Security](https://tryhackme.com/module/introduction-to-cyber-security)
     - Understand what is offensive and defensive security, and learn about careers available in cyber.
-- **Windows Exploitation Basics**
+- [Windows Exploitation Basics](https://tryhackme.com/module/hacking-windows-1)
     - Hacking Windows is often daunting. Grasp the fundamentals of core Windows concepts and Active Directory vulnerabilities.
-- **Shells and Privilege Escalation**
+- [Shells and Privilege Escalation](https://tryhackme.com/module/privilege-escalation-and-shells)
     - Once you have initial access on a machine, learn how to escalate your account privileges to root.
-- **Basic Computer Exploitotion**
+- [Basic Computer Exploitotion](https://tryhackme.com/module/basic-computer-exploitation)
     - Strengthen your skills by exploiting a range of different applications and services, from networking to web to privilege escalation.
-- **Threat and Vulnerability Management**
+- [Threat and Vulnerability Management](https://tryhackme.com/module/threat-and-vulnerability-management)
     - Identify how attackers are developing their techniques to use in your defensive strategy.
-- **Security Operations & Monitoring**
+- [Security Operations & Monitoring](https://tryhackme.com/module/security-operations-and-monitoring)
     - Learn how to configure and utilise tooling to ensure that suspicious activity is quickly identified and dealt with in your environment.
-- **Threat Emulation**
+- [Threat Emulation](https://tryhackme.com/module/threat-emulation)
     - The best way to understand how attackers work is to get hands on experience with their techniques.
-- **Malware Analysis**
+- [Malware Analysis](https://tryhackme.com/module/malware-analysis)
     - Analyse malicious files to prevent malicious actions and identify attacks.
-- **Network Fundamentals**
+- [Network Fundamentals](https://tryhackme.com/module/network-fundamentals)
     - Learn the core concepts of how computers communicate with each other and types of network weaknesses.
-- **Windows Fundamentals**
+- [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
     - Get hands-on access to Windows and it's security controls. These basics will help you in identifying, exploiting and defending Windows.
-- **Scripting for Pentesters**
+- [Scripting for Pentesters](https://tryhackme.com/module/scripting-for-pentesters)
     - Learn to use PowerShell and Python in different stages of a penetration test and take your pentesting craft to the next level.
 
 ---
 
 # DataCamp
-## Career Tracks Completed
-- 2 Career Tracks Completed
-- 129+ hours of learning
+## Career Tracks
+### [Data Analyst with PythonData Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/6f6925c3d15bd2a2aff4360046df0fc0ae8d4d06) (66h)
+### [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/a5707ea2d47900454be8029f0d7581e13f67e068) (63h)
 
-### [Data Analyst with PythonData Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/6f6925c3d15bd2a2aff4360046df0fc0ae8d4d06)
-- Duration: 66h
-### [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/a5707ea2d47900454be8029f0d7581e13f67e068)
-- Duration: 63h
+## Skill Tracks
+### [Image Processing with Python](https://www.datacamp.com/statement-of-accomplishment/track/a9d4dd32b2d69241cd5f6ed443ffcf162359ec95) (12h)
+
+## Projects
+- [The GitHub History of the Scala Language](https://app.datacamp.com/workspace/w/3a88cb8c-ca0b-4a3b-aba2-a3135c088e85)
+- [The Android App Market on Google Play](https://app.datacamp.com/workspace/w/34932fa7-4023-4b2e-bb46-be174460105c)
+- [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/dc21bf3b-fd64-48ec-a4a8-51cab32e5503)
