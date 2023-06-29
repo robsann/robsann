@@ -36,8 +36,9 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 - Configured Elastic 8.8:
     - Elastic Stack: Elasticsearch and Kibana (Web UI).
     - Integrations Fleet Server, Elastic Agent, Elastic Defend, System, and Windows.
-- First Scenario: EICAR Malware Test.
-- Second Scenario: MITRE ATT&CK Test.
+- Simulated two scenarios:
+    - First Scenario: EICAR Malware Test.
+    - Second Scenario: MITRE ATT&CK Test.
 
 ## Lab Pentesting & Network Security (IDS/IPS)
 - Network IDS/IPS setup using Snort in Ubuntu.
