@@ -1,6 +1,6 @@
 # Hi, I'm Robson!
 
-I'm a self-taught Cybersecurity learner with interest in cyber defence topics such as Network Security, Endpoint Protection, Vulnerability Management, Incident Response, Threat Intelligence, Threat Hunting, Malware Analysis, and Web Application Security.
+I'm a self-taught Cybersecurity learner with interest in cyber defence topics such as Network Security, Endpoint Protection, Log Analysis, Incident Response, Threat Intelligence, Threat Hunting, Vulnerability Management, Malware Analysis, and Web Application Security.
 
 ---
 
