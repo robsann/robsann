@@ -19,7 +19,7 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
     - DHCP Server
     - Ubuntu Server (Elastic Host)
     - Windows 10 (Victim)
-- Configured Elastic 8 on Ubuntu Server:
+- Configured Elastic Stack 8 on Ubuntu Server:
     - Elastic Stack: Elasticsearch, Kibana (UI), and Integrations.
     - Integrations Fleet Server, Elastic Agent, System, Windows, and Elastic Defend.
     - Added Fleet Server (Ubuntu Server) and Agent (Windows 10) using Elastic Agent.
