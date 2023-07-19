@@ -16,13 +16,13 @@ I'm a self-taught Cybersecurity learner with interest in cyber defence topics su
 # Cybersecurity Projects & Labs
 ## [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann/ElasticStackLab)
 - Configured in VirtualBox:
-    - DHCP Server:
-        - Ubuntu Server (Elastic Host)
-        - Windows 10 (Victim)
+    - DHCP Server
+    - Ubuntu Server (Elastic Host)
+    - Windows 10 (Victim)
 - Configured Elastic 8 on Ubuntu Server:
-    - Elastic Stack: Elasticsearch and Kibana (Web UI).
-    - Integrations Fleet Server, Elastic Agent, Elastic Defend, System, and Windows.
-    - Use Elastic Agent to add Fleet Server (Ubuntu Server) and add agent (Windows 10).
+    - Elastic Stack: Elasticsearch, Kibana (UI), and Integrations.
+    - Integrations Fleet Server, Elastic Agent, System, Windows, and Elastic Defend.
+    - Added Fleet Server (Ubuntu Server) and Agent (Windows 10) using Elastic Agent.
 - Simulated tests:
     - EICAR Malware Test.
     - MITRE ATT&CK Test with Red Team Automation (RTA).
