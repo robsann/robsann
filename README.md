@@ -28,10 +28,10 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
     - MITRE ATT&CK Test with Red Team Automation (RTA).
 
 ## [Microsoft Sentinel (SIEM) Attack Map](https://github.com/robsann/AzureSentinelSIEMAttackMap)
-- Configured an exposed Windows 10 VM in Azure to monitor failed RDP login attempts from Global Attackers using Microsoft Sentinel (SIEM).
-- Windows 10 VM has Firewall disabled and RDP port (3389) open. A custom PowerShell script extracted failed login events from the Event Viewer's Security Log, forwarded them to a third-party API to get geolocation data, and generated a log file with geolocation and event data.
-- Created a custom table in Log Analytics Workspace on Azure using the previously generated log file containing geographic information (latitude, longitude, state, and country) and event information (workstation name, account name, and IP address) and queried the table to extract custom fields from RawData using Kusto Query Language (KQL).
-- Configured a Microsoft Sentinel (SIEM) workbook to display Global Attackers' data (failed RDP login attempts) on the world map according to physical location and magnitude (count) of attacks using Kusto Query Language (KQL) to query the data from the table created in Log Analytics Workspace.
+- Configured an exposed Windows 10 VM in Microsoft Azure to monitor failed RDP login attempts from global attackers using Microsoft Sentinel (SIEM).
+- Used a custom PowerShell script that extracts failed login events from Event Viewer Security Log, forwards them to a third-party API to get geolocation data, and generates a log file with geolocation and event data. 
+- Created a custom table in Log Analytics Workspace on Azure using the previously generated log file and queried the table to extract custom fields using Kusto Query Language (KQL).
+- Created a workbook in Microsoft Sentinel (SIEM) using KQL to display global attack data (RDP login failure) on the world map according to physical location and magnitude (attack count).
 
 ## [LimaCharlie (EDR) Telemetry](https://github.com/robsann/LimaCharlieEDRTelemetry)
 - Windows 11 (Target) with Virus & Threat Protection disabled, Sysmon and LimaCharlie (EDR) Sensor installed.
