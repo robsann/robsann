@@ -43,12 +43,13 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 
 ## Lab Pentesting & Network Security (IDS/IPS)
 - Network IDS/IPS setup using Snort in Ubuntu.
-- NMAP scan detection using Snort.
+- NMAP scan detection using Snort:
     - Identify NMAP Ping Scan, TCP Scan, XMAS Scan, FIN Scan, NULL Scan, and UDP Scan.
-- Attack detection by SQLi using WPSCan & Wordpress and using Burp Suite & SQLmap.
-- Attack detection by Backdoor using Empire and using Katana.
-- Attack detection by Rogue DHCP & Rogue Routing.
-- Attack detection by ICMP Redirect.
+- Attack detection using Snort:
+    - SQL injection attack using WPSCan & Wordpress and Burp Suite & SQLmap.
+    - Backdoor attack using Empire and Katana.
+    - Rogue DHCP & Rogue Routing attacks.
+    - ICMP Redirect attack.
 
 
 <!--
