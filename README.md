@@ -26,22 +26,22 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
     - EICAR Malware Test.
     - MITRE ATT&CK Test with Red Team Automation (RTA).
 
-## [Microsoft Sentinel (SIEM) Attack Map](https://github.com/robsann/AzureSentinelSIEMAttackMap)
+## [Attack Monitoring with Microsoft Sentinel (SIEM)](https://github.com/robsann/AzureSentinelSIEMAttackMap)
 - Microsoft Sentinel (SIEM) was used to monitor failed RDP login attempts from global attackers on an exposed Windows 10 VM configured in Microsoft Azure.
 - A custom log file was generated using a PowerShell script that extracts failed login events from Event Viewer Security Log and forwards them to a third-party API to get geolocation data.
 - A custom table was created in Log Analytics Workspace on Azure using the generated log file, and the table was queried to extract custom fields using Kusto Query Language (KQL).
 - A workbook was created in Microsoft Sentinel (SIEM) using KQL to display global attacks (RDP login failure) on the world map according to physical location and magnitude (attack count).
 
-## [LimaCharlie (EDR) Telemetry](https://github.com/robsann/LimaCharlieEDRTelemetry)
+## [Detection and Response with LimaCharlie (EDR)](https://github.com/robsann/LimaCharlieEDRTelemetry)
 - Configured in VirtualBox:
-    - Windows 11 (Target) with Virus & Threat Protection disabled, Sysmon and LimaCharlie (EDR) Sensor installed
+    - Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie (EDR) Sensor installed
     - Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
-- Generated C2 payload on Attack Machine, executed the payload on Target Machine, and started C2 session on Attack Machine.
-- Used C2 session to perform two attacks on Target Machine:
-    - LSASS access (credentials stealing).
-    - Shadow Copies deletion using vssadmin.exe (used in Ransomware attacks).
-- Created Detection & Response Rules in LimaCharlie (EDR) to detect the two previous attacks using the telemetry generated and tested the rules by repeating the attacks.
-
+- Generated in Sliver a C2 payload, executed the payload on the Target Machine, and started a Sliver C2 session on the Attack Machine.
+- Used the Sliver C2 session to perform two attacks on Target Machine:
+    - LSASS access (credentials stealing attack).
+    - Shadow Copies deletion using vssadmin.exe Windows utility (used in Ransomware attacks).
+- Created Detection & Response Rules in LimaCharlie (EDR) platform to detect the two previous attacks using the telemetry generated and tested the rules by repeating the attacks.
+- 
 ## Pentesting & Network Security with Snort (IDS/IPS)
 - Network IDS/IPS setup using Snort in Ubuntu.
 - NMAP scan detection using Snort (NIDS):
