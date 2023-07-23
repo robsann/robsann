@@ -34,14 +34,14 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 
 ## [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann/LimaCharlieEDRTelemetry)
 - Configured in VirtualBox:
-    - Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie (EDR) Sensor installed
-    - Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
-- Generated in Sliver a C2 payload, executed the payload on the Target Machine, and started a Sliver C2 session on the Attack Machine.
-- Used the Sliver C2 session to perform two attacks on Target Machine:
-    - LSASS access (credentials stealing attack).
-    - Shadow Copies deletion using vssadmin.exe Windows utility (used in Ransomware attacks).
-- Created Detection & Response Rules in LimaCharlie (EDR) platform to detect the two previous attacks using the telemetry generated and tested the rules by repeating the attacks.
-- 
+    - A Windows 11 (target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
+    - A Ubuntu Server (attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
+- Generated in Sliver a C2 payload and executed the payload on the target machine to start a Sliver C2 session on the attack machine.
+- Used the Sliver C2 session to perform two attacks on the target machine:
+    - LSASS access (credential stealing attack).
+    - Volume shadow copies deletion using vssadmin Windows utility (used in Ransomware attacks).
+- D&R rules were created in the LimaCharlie platform to detect the two previous attacks using the telemetry generated and tested the rules by repeating the attacks.
+
 ## Pentesting & Network Security with Snort (IDS/IPS)
 - Network IDS/IPS setup using Snort in Ubuntu.
 - NMAP scan detection using Snort (NIDS):
