@@ -39,7 +39,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 - Generated in Sliver a C2 payload and executed the payload on the target machine to start a Sliver C2 session on the attack machine.
 - Used the Sliver C2 session to perform two attacks on the target machine:
     - LSASS access (credential stealing attack).
-    - Volume shadow copies deletion using vssadmin Windows utility (used in Ransomware attacks).
+    - Volume shadow copies deletion using vssadmin Windows utility (used in ransomware attacks).
 - D&R rules were created in the LimaCharlie platform to detect the two previous attacks using the telemetry generated and tested the rules by repeating the attacks.
 
 ## Pentesting & Network Security with Snort (IDS/IPS)
