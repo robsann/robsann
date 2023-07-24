@@ -284,42 +284,42 @@
 6. Malware Analysis and Reverse Engineering
 
 ### [Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
-- Getting Started:
+1. Getting Started:
     - Active Reconnaissance, Vulnerability Scanning, Privilege Escalation, Web Application Attacks.
-- Advanced Exploitation:
+2. Advanced Exploitation:
     - Vulnerability Scanning, Handling Public Exploits, Password Cracking, Metasploit Framework, Port Redirection.
-- Buffer Overflow Exploitation:
+3. Buffer Overflow Exploitation:
     - Windows buffer overflow vulnerabilities, Basic exploit development, Exploitation of services vulnerable to buffer overflow.
-- Active Directory:
+4. Active Directory:
     - Active Directory Basics, Attacking Kerberos, Exploiting a Domain Controller, Post exploitation tasks.
-- Extra Credit:
+5. Extra Credit:
     - Hacking with PowerShell and CTFs.
 
 ### [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png) (64h)
-- Introduction to Cyber Security
-- Introduction to Pentesting
-- Introduction to Web Hacking
-- Burp Suite
-- Network Security
-- Vulnerability Research
-- Metasploit
-- Privilege Escalation
+1. Introduction to Cyber Security
+2. Introduction to Pentesting
+3. Introduction to Web Hacking
+4. Burp Suite
+5. Network Security
+6. Vulnerability Research
+7. Metasploit
+8. Privilege Escalation
 
 ### [Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png) (32h)
-- How The Web Works
-- Introduction to Web Hacking
-- Burp Suite
-- Web Hacking Fundamentals
+1. How The Web Works
+2. Introduction to Web Hacking
+3. Burp Suite
+4. Web Hacking Fundamentals
 
 ### [Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png) (64h)
-- Complete Beginner Introduction
-- Linux Fundamentals
-- Network Exploitation Basics
-- Web Hacking Fundamentals
-- Cryptography
-- Windows Exploitation Basics
-- Shells and Privilege Escalation
-- Basic Computer Exploitation
+1. Complete Beginner Introduction
+2. Linux Fundamentals
+3. Network Exploitation Basics
+4. Web Hacking Fundamentals
+5. Cryptography
+6. Windows Exploitation Basics
+7. Shells and Privilege Escalation
+8. Basic Computer Exploitation
 
 ### [Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png) (24h)
 1. Careers in Cyber Security
@@ -328,11 +328,11 @@
 4. Exploring security topics in the industry
 
 ### [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png) (40h)
-- Introduction to Cyber Security
-- Network Fundamentals
-- How The Web Works
-- Linux Fundamentals
-- Windows Fundamentals
+1. Introduction to Cyber Security
+2. Network Fundamentals
+3. How The Web Works
+4. Linux Fundamentals
+5. Windows Fundamentals
 
 ### [CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
 1. Industry standard penetration testing tools
