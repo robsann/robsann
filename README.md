@@ -27,10 +27,10 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
     - MITRE ATT&CK Test with Red Team Automation (RTA).
 
 ## [Attack Monitoring with Microsoft Sentinel (SIEM)](https://github.com/robsann/AzureSentinelSIEMAttackMap)
-- Microsoft Sentinel (SIEM) was used to monitor failed RDP login attempts from global attackers on an exposed Windows 10 VM configured in Microsoft Azure.
-- A custom log file was generated using a PowerShell script that extracts failed login events from Event Viewer Security Log and forwards them to a third-party API to get geolocation data.
-- A custom table was created in Log Analytics Workspace on Azure using the generated log file, and the table was queried to extract custom fields using Kusto Query Language (KQL).
-- A workbook was created in Microsoft Sentinel (SIEM) using KQL to display global attacks (RDP login failure) on the world map according to physical location and magnitude (attack count).
+- Microsoft Sentinel was used to monitor failed RDP login attempts from global attackers on an exposed Windows 10 VM configured in Microsoft Azure.
+- A custom log file (`failed_rdp.log`) was generated using a PowerShell script that extracts failed login events from Event Viewer Security Log and forwards them to a third-party API to get geolocation data.
+- A custom table (`FAILED_RDP_WITH_GEO_CL`) was created in Log Analytics Workspace on Microsoft Azure using the generated log file (`failed_rdp.log`). The table was queried to extract custom fields from raw data using Kusto Query Language (KQL).
+- A workbook was created in Microsoft Sentinel using KQL to query data from the `FAILED_RDP_WITH_GEO_CL` table to display global attackers (RDP login failure) on the world map according to physical location and magnitude (attack count).
 
 ## [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann/LimaCharlieEDRTelemetry)
 - Configured in VirtualBox:
