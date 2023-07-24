@@ -13,7 +13,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 
 ---
 
-# Cybersecurity Projects & Labs
+# Cybersecurity Homelabs
 ## [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann/ElasticStackLab)
 - Configured in VirtualBox:
     - DHCP Server
