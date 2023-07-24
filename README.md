@@ -21,7 +21,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
     - Windows 10 (Victim)
 - Configured Elastic Stack 8 on Ubuntu Server:
     - Elastic Stack: Elasticsearch, Kibana (UI), and Elastic Agent + Integrations.
-    - Integrations Fleet Server, System, Windows, and Elastic Defend.
+    - Integrations: Fleet Server, System, Windows, and Elastic Defend.
 - Simulated two malicious tests:
     - EICAR Malware Test.
     - MITRE ATT&CK Test with Red Team Automation (RTA).
