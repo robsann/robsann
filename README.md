@@ -40,7 +40,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 - Used the Sliver C2 session to perform two attacks on the target machine:
     - LSASS access (credential stealing attack).
     - Volume shadow copies deletion using vssadmin Windows utility (used in ransomware attacks).
-- D&R rules were created in the LimaCharlie platform to detect the two previous attacks using the telemetry generated and tested the rules by repeating the attacks.
+- Detection and response rules were created in the LimaCharlie platform to detect the two previous attacks and take action. The rules were tested by repeating the attacks.
 
 ## Pentesting & Network Security with Snort (IDS/IPS)
 - Network IDS/IPS setup using Snort in Ubuntu.
