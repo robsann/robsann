@@ -20,19 +20,17 @@
 2. CompTIA IT Fundamentals (FC0-U61) Cert Prep 2: Files and Applications, Networking, and Security
 3. CompTIA IT Fundamentals (FC0-U61) Cert Prep 3: Computer Maintenance and Troubleshooting, Databases, and Programming
 
-### [Prepare for the CompTIA A+ (220-1001 and 220-1002) Exams](https://www.linkedin.com/learning/certificates/58edd9872c07431d14c468a8cb08f56ad77c3abcfb6bdf09680d859681ec5644?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
-- Duration: 34h14m
-- Courses:<br/>
-    1\. CompTIA A+ (220-1001) Cert Prep 1: The Basics<br/>
-    2\. CompTIA A+ (220-1001) Cert Prep 2: Microprocessing and RAM<br/>
-    3\. CompTIA A+ (220-1001) Cert Prep 3: Core Hardware<br/>
-    4\. CompTIA A+ (220-1001) Cert Prep 4: Storage and Peripherals<br/>
-    5\. CompTIA A+ (220-1001) Cert Prep 5: Display Technologies<br/>
-    6\. CompTIA A+ (220-1001) Cert Prep 6: Physical Networking<br/>
-    7\. CompTIA A+ (220-1001) Cert Prep 7: Understanding Networking<br/>
-    8\. CompTIA A+ (220-1001) Cert Prep 8: Internet and the Cloud<br/>
-    9\. CompTIA A+ (220-1001) Cert Prep 9: Portable Computing<br/>
-    10\. CompTIA A+ (220-1001) Cert Prep 10: Printers<br/>
+### [Prepare for the CompTIA A+ (220-1001 and 220-1002) Exams](https://www.linkedin.com/learning/certificates/58edd9872c07431d14c468a8cb08f56ad77c3abcfb6bdf09680d859681ec5644?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (34h14m)
+1. CompTIA A+ (220-1001) Cert Prep 1: The Basics
+2. CompTIA A+ (220-1001) Cert Prep 2: Microprocessing and RAM
+3. CompTIA A+ (220-1001) Cert Prep 3: Core Hardware
+4. CompTIA A+ (220-1001) Cert Prep 4: Storage and Peripherals
+5. CompTIA A+ (220-1001) Cert Prep 5: Display Technologies
+6. CompTIA A+ (220-1001) Cert Prep 6: Physical Networking
+7. CompTIA A+ (220-1001) Cert Prep 7: Understanding Networking
+8. CompTIA A+ (220-1001) Cert Prep 8: Internet and the Cloud
+9. CompTIA A+ (220-1001) Cert Prep 9: Portable Computing
+10. CompTIA A+ (220-1001) Cert Prep 10: Printers
 
 ### [Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
 - Duration: 9h19m
