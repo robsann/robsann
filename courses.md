@@ -271,6 +271,7 @@
 - [Java Essential Training: Syntax and Structure](https://www.linkedin.com/learning/certificates/1a785f81846e07f49257e965c919917981c6174157856961cce568fc6cec3319) (2h31m)
 
 🠲 [Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
+⟶ [Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
 
 ---
 
