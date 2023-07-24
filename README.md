@@ -38,8 +38,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 - A custom table (`FAILED_RDP_WITH_GEO_CL`) was created in Log Analytics Workspace on Microsoft Azure using the generated log file (`failed_rdp.log`). Custom fields were extracted from the table using a Kusto Query Language (KQL) query.
 - A workbook was created in Microsoft Sentinel using KQL to query data from the `FAILED_RDP_WITH_GEO_CL` table to display global attackers (RDP login failure) on the world map according to physical location and magnitude (attack count).
 
-## Pentesting & Network Security with Snort (IDS/IPS)
-## (Under Development)
+## Pentesting & Network Security with Snort (IDS/IPS) (Under Development)
 - Network IDS/IPS setup using Snort in Ubuntu.
 - NMAP scan detection using Snort (NIDS):
     - NMAP Ping Scan, TCP Scan, XMAS Scan, FIN Scan, NULL Scan, and UDP Scan.
