@@ -270,7 +270,6 @@
 - [Java Essential Training: Objects and APIs](https://www.linkedin.com/learning/certificates/5aa37e2725a0ae5a0e98030ec260e6d102a87230b8c30af66991d1a97e7324ce) (2h8m)
 - [Java Essential Training: Syntax and Structure](https://www.linkedin.com/learning/certificates/1a785f81846e07f49257e965c919917981c6174157856961cce568fc6cec3319) (2h31m)
 
-🠲 [Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
 ⟶ [Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
 
 ---
@@ -407,7 +406,7 @@
 - [Scripting for Pentesters](https://tryhackme.com/module/scripting-for-pentesters)
     - Learn to use PowerShell and Python in different stages of a penetration test and take your pentesting craft to the next level.
 
-[Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
+⟶ [Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
 
 ---
 
@@ -424,4 +423,4 @@
 - [The Android App Market on Google Play](https://app.datacamp.com/workspace/w/34932fa7-4023-4b2e-bb46-be174460105c)
 - [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/dc21bf3b-fd64-48ec-a4a8-51cab32e5503)
 
-[Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
+⟶ [Back to top](https://github.com/robsann/robsann/blob/main/courses.md#statistics)
