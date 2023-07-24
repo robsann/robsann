@@ -275,87 +275,71 @@
 # TryHackMe
 ## Learning Paths Completed
 
-### [Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png)
-- Duration: 48h
-- Courses: 
-    1. Getting Started 
-    2. Threat and Vulnerability Management
-    3. Security Operations and Monitoring
-    4. Threat Emulation
-    5. Incident Response & Forensics
-    6. Malware Analysis and Reverse Engineering
+### [Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png) (48h)
+1. Getting Started 
+2. Threat and Vulnerability Management
+3. Security Operations and Monitoring
+4. Threat Emulation
+5. Incident Response & Forensics
+6. Malware Analysis and Reverse Engineering
 
-### [Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png)
-- Duration: 47h
-- Modules:
-    - Getting Started:
-        - Active Reconnaissance, Vulnerability Scanning, Privilege Escalation, Web Application Attacks.
-    - Advanced Exploitation:
-        - Vulnerability Scanning, Handling Public Exploits, Password Cracking, Metasploit Framework, Port Redirection.
-    - Buffer Overflow Exploitation:
-        - Windows buffer overflow vulnerabilities, Basic exploit development, Exploitation of services vulnerable to buffer overflow.
-    - Active Directory:
-        - Active Directory Basics, Attacking Kerberos, Exploiting a Domain Controller, Post exploitation tasks.
-    - Extra Credit:
-        - Hacking with PowerShell and CTFs.
+### [Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
+- Getting Started:
+    - Active Reconnaissance, Vulnerability Scanning, Privilege Escalation, Web Application Attacks.
+- Advanced Exploitation:
+    - Vulnerability Scanning, Handling Public Exploits, Password Cracking, Metasploit Framework, Port Redirection.
+- Buffer Overflow Exploitation:
+    - Windows buffer overflow vulnerabilities, Basic exploit development, Exploitation of services vulnerable to buffer overflow.
+- Active Directory:
+    - Active Directory Basics, Attacking Kerberos, Exploiting a Domain Controller, Post exploitation tasks.
+- Extra Credit:
+    - Hacking with PowerShell and CTFs.
 
-### [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png)
-- Durations: 64h
-- Modules:
-    - Introduction to Cyber Security
-    - Introduction to Pentesting
-    - Introduction to Web Hacking
-    - Burp Suite
-    - Network Security
-    - Vulnerability Research
-    - Metasploit
-    - Privilege Escalation
+### [Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png) (64h)
+- Introduction to Cyber Security
+- Introduction to Pentesting
+- Introduction to Web Hacking
+- Burp Suite
+- Network Security
+- Vulnerability Research
+- Metasploit
+- Privilege Escalation
 
-### [Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png)
-- Duration: 32h
-- Modules:
-    - How The Web Works
-    - Introduction to Web Hacking
-    - Burp Suite
-    - Web Hacking Fundamentals
+### [Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png) (32h)
+- How The Web Works
+- Introduction to Web Hacking
+- Burp Suite
+- Web Hacking Fundamentals
 
-### [Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png)
-- Duration: 64h
-- Modules:
-    - Complete Beginner Introduction
-    - Linux Fundamentals
-    - Network Exploitation Basics
-    - Web Hacking Fundamentals
-    - Cryptography
-    - Windows Exploitation Basics
-    - Shells and Privilege Escalation
-    - Basic Computer Exploitation
+### [Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png) (64h)
+- Complete Beginner Introduction
+- Linux Fundamentals
+- Network Exploitation Basics
+- Web Hacking Fundamentals
+- Cryptography
+- Windows Exploitation Basics
+- Shells and Privilege Escalation
+- Basic Computer Exploitation
 
-### [Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png)
-- Duration: 24h
-- Courses:
-    1. Careers in Cyber Security
-    2. Offensive Security; hacking your first application
-    3. Defensive Security; defending against a live cyber attack
-    4. Exploring security topics in the industry
+### [Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png) (24h)
+1. Careers in Cyber Security
+2. Offensive Security; hacking your first application
+3. Defensive Security; defending against a live cyber attack
+4. Exploring security topics in the industry
 
-### [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png)
-- Duration: 40h
-- Modules:
-    - Introduction to Cyber Security
-    - Network Fundamentals
-    - How The Web Works
-    - Linux Fundamentals
-    - Windows Fundamentals
+### [Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png) (40h)
+- Introduction to Cyber Security
+- Network Fundamentals
+- How The Web Works
+- Linux Fundamentals
+- Windows Fundamentals
 
-### [CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png)
-- Duration: 51h
-- Courses: 
-    1. Industry standard penetration testing tools
-    2. Identifying and exploiting different network services
-    3. Exploiting web applications through today’s most common vulnerabilities
-    4. Understanding Windows active directory and attacking Kerberos
-Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)
+### [CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
+1. Industry standard penetration testing tools
+2. Identifying and exploiting different network services
+3. Exploiting web applications through today’s most common vulnerabilities
+4. Understanding Windows active directory and attacking Kerberos
+5. Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)
 
 
 ## Modules Completed
