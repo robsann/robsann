@@ -16,9 +16,9 @@
 ## Learning Paths Completed
 
 ### [Prepare for the CompTIA IT Fundamentals+ (ITF+) (FC0-U61) Exam](https://www.linkedin.com/learning/certificates/9710289cfe31e2beb371c19f15ac3a32d71f5474b0d17e4c561581e8980af722?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (4h51m)
-    1. CompTIA IT Fundamentals (FC0-U61) Cert Prep 1: Computer Basics, Hardware, and Operating Systems
-    2. CompTIA IT Fundamentals (FC0-U61) Cert Prep 2: Files and Applications, Networking, and Security
-    3. CompTIA IT Fundamentals (FC0-U61) Cert Prep 3: Computer Maintenance and Troubleshooting, Databases, and Programming
+1. CompTIA IT Fundamentals (FC0-U61) Cert Prep 1: Computer Basics, Hardware, and Operating Systems
+2. CompTIA IT Fundamentals (FC0-U61) Cert Prep 2: Files and Applications, Networking, and Security
+3. CompTIA IT Fundamentals (FC0-U61) Cert Prep 3: Computer Maintenance and Troubleshooting, Databases, and Programming
 
 ### [Prepare for the CompTIA A+ (220-1001 and 220-1002) Exams](https://www.linkedin.com/learning/certificates/58edd9872c07431d14c468a8cb08f56ad77c3abcfb6bdf09680d859681ec5644?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D)
 - Duration: 34h14m
