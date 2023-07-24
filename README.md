@@ -2,12 +2,8 @@
 
 I am a self-taught cybersecurity learner interested in cyber defense topics such as, but not limited to, network security, endpoint protection, log analysis, incident response, threat intelligence, threat hunting, vulnerability management, malware analysis, and web applications Security.
 
----
-
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
-
----
 
 # [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
 
