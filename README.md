@@ -11,7 +11,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 
 # Cybersecurity Homelabs
 ## [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann/ElasticStackLab)
-- Configured a Internal Network in VirtualBox with:
+- Configured in VirtualBox an Internal Network with:
     - DHCP Server
     - Ubuntu Server (Elastic Host)
     - Windows 10 (Victim)
@@ -23,7 +23,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
     - MITRE ATT&CK Test with Red Team Automation (RTA).
 
 ## [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann/LimaCharlieEDRTelemetry)
-- Configured a NAT Network in VirtualBox with:
+- Configured in VirtualBox a NAT Network with:
     - DHCP Server and access to the Host Gateway.
     - A Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
     - A Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
