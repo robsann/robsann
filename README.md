@@ -11,7 +11,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 
 # Cybersecurity Homelabs
 ## [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann/ElasticStackLab)
-- Configured in VirtualBox:
+- Configured a Internal Network in VirtualBox with:
     - DHCP Server
     - Ubuntu Server (Elastic Host)
     - Windows 10 (Victim)
@@ -23,11 +23,12 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
     - MITRE ATT&CK Test with Red Team Automation (RTA).
 
 ## [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann/LimaCharlieEDRTelemetry)
-- Configured in VirtualBox:
-    - A Windows 11 (target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
-    - A Ubuntu Server (attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
-- Generated in Sliver a C2 payload and executed the payload on the target machine to start a Sliver C2 session on the attack machine.
-- Used the Sliver C2 session to perform two attacks on the target machine:
+- Configured a NAT Network in VirtualBox with:
+    - DHCP Server and access to the Host Gateway.
+    - A Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
+    - A Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
+- Generated in Sliver a C2 payload and executed the payload on the Target machine to start a Sliver C2 session on the Attack machine.
+- Used the Sliver C2 session to perform two attacks on the Target machine:
     - LSASS access (credential stealing attack).
     - Volume shadow copies deletion using vssadmin Windows utility (used in ransomware attacks).
 - Detection and response rules were created in the LimaCharlie platform to detect the two previous attacks and take action. The rules were tested by repeating the attacks.
