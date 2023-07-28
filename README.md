@@ -24,7 +24,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 
 ## [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann/LimaCharlieEDRTelemetry)
 - Configured in VirtualBox a NAT Network with:
-    - DHCP Server and access to the Host Gateway.
+    - DHCP Server and Host Gateway access.
     - A Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
     - A Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
 - Generated in Sliver a C2 payload and executed the payload on the Target machine to start a Sliver C2 session on the Attack machine.
