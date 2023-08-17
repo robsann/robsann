@@ -18,7 +18,7 @@ I've been using Linkedin Learning to learn cybersecurity topics and tools and Tr
 | -                           | -                          | 35 Courses Completed      |
 | 374+ hours of learning      | 370+ hours of learning     | 140+ hours of learning    |
 
-(Completed courses and learning paths with time estimated by the platforms)
+(Completed courses and learning paths with duration time estimated by the platforms)
 
 
 <img src="images/wordcloud.png" title="Wordcloud"/>
