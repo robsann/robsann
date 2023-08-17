@@ -17,9 +17,9 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 | -                           | -                          | 35 Courses Completed      |
 | 374+ hours of learning      | 370+ hours of learning     | 140+ hours of learning    |
 
-</div>
-
 <img src="images/wordcloud.png" title="Wordcloud"/>
+(Word cloud from courses.md)
+</div>
 
 ---
 
