@@ -1,12 +1,12 @@
 # Hi, I'm Robson!
 
-I am a self-taught cybersecurity learner interested in cyber defense topics such as (but not limited to) network and endpoint security, traffic and log analysis, incident response, digital forensics, threat intelligence, threat hunting, malware analysis, and vulnerability management.
+I am a self-taught cybersecurity learner interested in cyber defense topics such as network and endpoint security, traffic and log analysis, digital forensics and incident response, threat intelligence, threat hunting, malware analysis, web applications security, and vulnerability management.
 
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
 # [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
-I have been using Linkedin Learning to learn cybersecurity concepts and tools such as VirtualBox, Docker, Elastic Stack, Splunk, and TryHackMe to get hands-on practice with offensive and defensive tools. I also used DataCamp to Python and Data Analysis.
+I have been using Linkedin Learning to learn cybersecurity topics and tools such as VirtualBox, Docker, Wireshark, Elastic Stack, Splunk, and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also used DataCamp to learn Python and Data Analysis.
 
 <div align="center">
 
@@ -48,7 +48,7 @@ I have been using Linkedin Learning to learn cybersecurity concepts and tools su
     - A Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
 - Generated in Sliver a C2 payload and executed the payload on the Target machine to start a Sliver C2 session on the Attack machine.
 - Used the Sliver C2 session to perform two attacks on the Target machine:
-    - LSASS access (credential stealing attack).
+    - LSASS access (credential-stealing attack).
     - Volume shadow copies deletion using vssadmin Windows utility (used in ransomware attacks).
 - Detection and response rules were created in the LimaCharlie platform to detect the two previous attacks and take action. The rules were tested by repeating the attacks.
 
@@ -63,7 +63,7 @@ I have been using Linkedin Learning to learn cybersecurity concepts and tools su
 - NMAP scan detection using Snort (NIDS):
     - NMAP Ping Scan, TCP Scan, XMAS Scan, FIN Scan, NULL Scan, and UDP Scan.
 - Attack detection using Snort (NIDS):
-    - SQL injection attacks using WPSCan & Wordpress and Burp Suite & SQLmap.
+    - SQL injection attacks using WPSCan & WordPress and Burp Suite & SQLmap.
     - Backdoor attacks using Empire and Katana.
     - Rogue DHCP & Rogue Routing attacks.
     - ICMP Redirect attack.
