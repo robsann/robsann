@@ -39,7 +39,7 @@ I have been exploring some homelabs described in Youtube channels and blogs and 
 - Configured Elastic Stack 8 on Ubuntu Server:
     - Elastic Stack: Elasticsearch, Kibana (UI), and Elastic Agent + Integrations.
     - Integrations: Fleet Server, System, Windows, and Elastic Defend.
-- Simulated two malicious tests:
+- Simulated two malicious tests on Victim machine:
     - EICAR Malware Test.
     - MITRE ATT&CK Test with Red Team Automation (RTA).
 
