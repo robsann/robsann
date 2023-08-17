@@ -7,6 +7,20 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 
 # [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
 
+<div align="center">
+
+| Linkedin Learning            | TryHackMe                  | DataCamp                  |
+|-----------------------------|----------------------------|---------------------------|
+| 25 Learning Paths Completed | 8 Learning Paths Completed | 2 Career Tracks Completed |
+| 200 Courses Completed       | 30 Modules Completed       | 1 Skill Track Completed   |
+| -                           | 172 Rooms Completed        | 3 Projects Completed      |
+| -                           | -                          | 35 Courses Completed      |
+| 374+ hours of learning      | 370+ hours of learning     | 140+ hours of learning    |
+
+</div>
+
+<img src="images/wordcloud.png" title="Wordcloud"/>
+
 ---
 
 # Cybersecurity Homelabs
