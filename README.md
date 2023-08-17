@@ -46,8 +46,8 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
 ## [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann/LimaCharlieEDRTelemetry)
 - Configured in VirtualBox a NAT Network with:
     - DHCP Server and Host Gateway access.
-    - A Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
-    - A Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
+    - Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
+    - Ubuntu Server (Attack) with Sliver installed, a Command & Control (C2) framework by BishopFox.
 - Generated in Sliver a C2 payload and executed the payload on the Target machine to start a Sliver C2 session on the Attack machine.
 - Used the Sliver C2 session to perform two attacks on the Target machine:
     - LSASS access (credential-stealing attack).
