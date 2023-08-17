@@ -6,6 +6,7 @@ I am a self-taught cybersecurity learner interested in cyber defense topics such
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
 # [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
+I have been using Linkedin Learning to learn cybersecurity concepts and tools such as VirtualBox, Docker, Elastic Stack, Splunk, and TryHackMe to get hands-on practice with offensive and defensive tools. I also used DataCamp to Python and Data Analysis.
 
 <div align="center">
 
