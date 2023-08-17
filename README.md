@@ -29,6 +29,8 @@ I have been using Linkedin Learning to learn cybersecurity topics and tools such
 ---
 
 # Cybersecurity Homelabs
+I have been exploring some homelabs described in Youtube channels and blogs and plan to build new ones at some point.
+
 ## [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann/ElasticStackLab)
 - Configured in VirtualBox an Internal Network with:
     - DHCP Server
