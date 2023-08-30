@@ -285,7 +285,14 @@
 5. Incident Response & Forensics
 6. Malware Analysis and Reverse Engineering
 
-### [2 - Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
+### [2 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
+1. Industry standard penetration testing tools
+2. Identifying and exploiting different network services
+3. Exploiting web applications through today’s most common vulnerabilities
+4. Understanding Windows active directory and attacking Kerberos
+5. Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)
+
+### [3 - Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
 1. Getting Started:
     - Active Reconnaissance, Vulnerability Scanning, Privilege Escalation, Web Application Attacks.
 2. Advanced Exploitation:
@@ -297,7 +304,7 @@
 5. Extra Credit:
     - Hacking with PowerShell and CTFs.
 
-### [3 - Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png) (64h)
+### [4 - Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png) (64h)
 1. Introduction to Cyber Security
 2. Introduction to Pentesting
 3. Introduction to Web Hacking
@@ -307,13 +314,13 @@
 7. Metasploit
 8. Privilege Escalation
 
-### [4 - Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png) (32h)
+### [5 - Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png) (32h)
 1. How The Web Works
 2. Introduction to Web Hacking
 3. Burp Suite
 4. Web Hacking Fundamentals
 
-### [5 - Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png) (64h)
+### [6 - Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png) (64h)
 1. Complete Beginner Introduction
 2. Linux Fundamentals
 3. Network Exploitation Basics
@@ -323,25 +330,18 @@
 7. Shells and Privilege Escalation
 8. Basic Computer Exploitation
 
-### [6 - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png) (24h)
+### [7 - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png) (24h)
 1. Careers in Cyber Security
 2. Offensive Security; hacking your first application
 3. Defensive Security; defending against a live cyber attack
 4. Exploring security topics in the industry
 
-### [7 - Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png) (40h)
+### [8 - Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png) (40h)
 1. Introduction to Cyber Security
 2. Network Fundamentals
 3. How The Web Works
 4. Linux Fundamentals
 5. Windows Fundamentals
-
-### [8 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
-1. Industry standard penetration testing tools
-2. Identifying and exploiting different network services
-3. Exploiting web applications through today’s most common vulnerabilities
-4. Understanding Windows active directory and attacking Kerberos
-5. Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)
 
 
 ## Modules Completed
