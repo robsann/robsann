@@ -320,7 +320,20 @@
 3. Burp Suite
 4. Web Hacking Fundamentals
 
-### [6 - Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png) (64h)
+### [6 - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png) (24h)
+1. Careers in Cyber Security
+2. Offensive Security; hacking your first application
+3. Defensive Security; defending against a live cyber attack
+4. Exploring security topics in the industry
+
+### [7 - Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png) (40h)
+1. Introduction to Cyber Security
+2. Network Fundamentals
+3. How The Web Works
+4. Linux Fundamentals
+5. Windows Fundamentals
+
+### [8 - Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png) (64h)
 1. Complete Beginner Introduction
 2. Linux Fundamentals
 3. Network Exploitation Basics
@@ -329,19 +342,6 @@
 6. Windows Exploitation Basics
 7. Shells and Privilege Escalation
 8. Basic Computer Exploitation
-
-### [7 - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png) (24h)
-1. Careers in Cyber Security
-2. Offensive Security; hacking your first application
-3. Defensive Security; defending against a live cyber attack
-4. Exploring security topics in the industry
-
-### [8 - Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png) (40h)
-1. Introduction to Cyber Security
-2. Network Fundamentals
-3. How The Web Works
-4. Linux Fundamentals
-5. Windows Fundamentals
 
 
 ## Modules Completed
