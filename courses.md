@@ -274,12 +274,15 @@
 ## Learning Paths Completed
 
 ### [1 - Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png) (48h)
-1. Getting Started 
+1. Cyber Defense Introduction
 2. Threat and Vulnerability Management
-3. Security Operations and Monitoring
+    - Tools: Nessus, OpenVAS, Yara.
+    - Frameworks: MITRE and MISP.
+    - Vulnerability: ZeroLogon. 
+3. Security Operations & Monitoring
 4. Threat Emulation
-5. Incident Response & Forensics
-6. Malware Analysis and Reverse Engineering
+5. Incident Response and Forensics
+6. Malware Analysis
 
 ### [2 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
 1. Industry standard penetration testing tools
