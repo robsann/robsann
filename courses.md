@@ -280,9 +280,14 @@
     - Frameworks: MITRE and MISP.
     - Vulnerability: ZeroLogon. 
 3. Security Operations & Monitoring
+    - Tools: Sysinternals, Windows Event Logs, Sysmon, Osquery, and Splunk.
 4. Threat Emulation
+   - Tequiniques: Attacktive Directory and Attacking Kerberos.
 5. Incident Response and Forensics
+    - Tools: Volatility, Redline, and Autopsy.
+    - Forensics tequiniques: Windows Registry Forensics and forensic artifacts.
 6. Malware Analysis
+    - Tequiniques: Strings, Malware Reverse Engineering, and using REMnux toolset to analysing Jigsaw Ransomware attack.
 
 ### [2 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
 1. Industry standard penetration testing tools
