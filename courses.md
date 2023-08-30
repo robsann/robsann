@@ -1,5 +1,5 @@
 # Statistics
-| Linkedin Learning            | TryHackMe                  | DataCamp                  |
+| [Linkedin Learning](https://github.com/robsann/robsann/blob/main/courses.md#linkedin-learning)            | [TryHackMe](https://github.com/robsann/robsann/blob/main/courses.md#tryhackme)                  | [DataCamp](https://github.com/robsann/robsann/blob/main/courses.md#datacamp)                  |
 |-----------------------------|----------------------------|---------------------------|
 | 25 Learning Paths Completed | 8 Learning Paths Completed | 2 Career Tracks Completed |
 | 200 Courses Completed       | 30 Modules Completed       | 1 Skill Track Completed   |
@@ -7,10 +7,6 @@
 | -                           | -                          | 35 Courses Completed      |
 | 374+ hours of learning      | 370+ hours of learning     | 140+ hours of learning    |
 
-## Jump To
-- [Linkedin Learning](https://github.com/robsann/robsann/blob/main/courses.md#linkedin-learning)
-- [TryHackMe](https://github.com/robsann/robsann/blob/main/courses.md#tryhackme)
-- [DataCamp](https://github.com/robsann/robsann/blob/main/courses.md#datacamp)
 
 # Linkedin Learning
 ## Learning Paths Completed
