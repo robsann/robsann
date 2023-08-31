@@ -169,7 +169,7 @@
 
 ### [16 - Become a Penetration Tester](https://www.linkedin.com/learning/certificates/bee0b067d52836dfef901bde0e95bf2378c5e5aff3781964e938a54fb77ba659?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (12h50m)
 1. **Cybersecurity Careers: Become a Penetration Tester**
-2. **Learning Penetration Testing **
+2. **Learning Penetration Testing**
 3. **Penetration Testing Essential Training**
 4. **Advanced Kali Linux**
 5. **Penetration Testing: Advanced Web Testing**
