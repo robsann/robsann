@@ -302,7 +302,7 @@
 3. **Buffer Overflow Exploitation**
     - Windows buffer overflow vulnerabilities, Basic exploit development, Exploitation of services vulnerable to buffer overflow.
 4. **Active Directory**
-    - Active Directory (AD) Basics, Attacking Kerberos, Breaching AD, Enumerating AD, Lateral Movement & Pivoting, Exploiting AD, Persisting AD, Credentials Harvesting.
+    - Active Directory (AD) Basics, Attacking Kerberos, Breaching AD, Enumerating AD, Exploiting AD, Persisting AD, Lateral Movement & Pivoting, Credentials Harvesting.
 5. **Extra Credit**
     - Hacking with PowerShell and CTFs.
 
