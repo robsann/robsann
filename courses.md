@@ -288,11 +288,11 @@
     - Strings, Malware Reverse Engineering, Jigsaw Ransomware analysis with REMnux toolset.
 
 ### [2 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
-1. Industry standard penetration testing tools
-2. Identifying and exploiting different network services
-3. Exploiting web applications through today’s most common vulnerabilities
-4. Understanding Windows active directory and attacking Kerberos
-5. Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)
+1. **Industry standard penetration testing tools**
+2. **Identifying and exploiting different network services**
+3. **Exploiting web applications through today’s most common vulnerabilities**
+4. **Understanding Windows active directory and attacking Kerberos**
+5. **Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)**
 
 ### [3 - Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
 1. Getting Started:
