@@ -274,17 +274,17 @@
 ## Learning Paths Completed
 
 ### [1 - Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png) (48h)
-**1. Cyber Defense Introduction**
+1. **Cyber Defense Introduction**
     - Keywords: Networking, Network Services, Wireshark, Windows Fundamentals, Active Directory Basics.
-2. Threat and Vulnerability Management
+2. **Threat and Vulnerability Management**
     - Keywords: Nessus, OpenVAS, Yara, MITRE, MISP, ZeroLogon vulnerability. 
-3. Security Operations & Monitoring
+3. **Security Operations & Monitoring**
     - Keywords: Core Windows Processes, Sysinternals, Windows Event Logs, Sysmon, Osquery, Splunk.
-4. Threat Emulation
+4. **Threat Emulation**
    - Keywords: Attacking Active Directory & Kerberos.
-5. Incident Response and Forensics
+5. **Incident Response and Forensics**
     - Keywords: Volatility, Redline, Autopsy, Windows Registry Forensics, Forensic Artifacts.
-6. Malware Analysis
+6. **Malware Analysis**
     - Keywords: Strings, Malware Reverse Engineering, Jigsaw Ransomware analysis with REMnux toolset.
 
 ### [2 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
