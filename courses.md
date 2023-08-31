@@ -307,14 +307,22 @@
     - Hacking with PowerShell and CTFs.
 
 ### [4 - Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png) (64h)
-1. Introduction to Cyber Security
-2. Introduction to Pentesting
-3. Introduction to Web Hacking
-4. Burp Suite
-5. Network Security
-6. Vulnerability Research
-7. Metasploit
-8. Privilege Escalation
+1. **Introduction to Cyber Security**
+    - Intro to Offensive & Defensive Security; Careers in Cyber.
+2. **Introduction to Pentesting**
+    - Pentesting Fundamentals; Pricnciples of Security.
+3. **Introduction to Web Hacking**
+    - Content Discovery; Subdomain Enumeration; Authentication Bypass; File Inclusion; IDOR, SSFR, XSS, Command Injection, and SQL Injection vulnerabilities. 
+4. **Burp Suite**
+    - Burp Suite: Basics, Repeater, Intruder, Other Modules, and Extender.
+5. **Network Security**
+    - Passive & Active Reconnaissance; Nmap: Host Discovery, Basic & Advanced Port Scans, and Post Port Scans; Protocols & Servers.
+6. **Vulnerability Research**
+    - Vulnerabilities 101; Exploit Vulnerabilities.
+7. **Metasploit**
+    - Mesploit: Introduction, Exploitation, and Meterpreter.
+8. **Privilege Escalation**
+    - Shell; Linux & Windows Privilege Escalation.
 
 ### [5 - Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png) (32h)
 1. How The Web Works
