@@ -275,17 +275,17 @@
 
 ### [1 - Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png) (48h)
 1. **Cyber Defense Introduction**
-    - Networking, Network Services, Wireshark 101, Windows Fundamentals, Active Directory Basics.
+    - Networking; Network Services; Wireshark 101; Windows Fundamentals; Active Directory Basics.
 2. **Threat and Vulnerability Management**
-    - Nessus, OpenVAS, Yara, MITRE, MISP, ZeroLogon vulnerability. 
+    - Nessus; OpenVAS; Yara; MITRE; MISP; ZeroLogon Vulnerability. 
 3. **Security Operations & Monitoring**
-    - Core Windows Processes, Sysinternals, Windows Event Logs, Sysmon, Osquery, Splunk.
+    - Core Windows Processes; Sysinternals; Windows Event Logs; Sysmon; Osquery; Splunk.
 4. **Threat Emulation**
     - Attacking Active Directory & Kerberos.
 5. **Incident Response and Forensics**
-    - Volatility, Redline, Autopsy, Windows Registry Forensics, Forensic Artifacts.
+    - Volatility; Redline; Autopsy; Windows Registry Forensics; Forensic Artifacts.
 6. **Malware Analysis**
-    - Strings, Malware Reverse Engineering, Jigsaw Ransomware analysis with REMnux toolset.
+    - Strings; Malware Reverse Engineering; Jigsaw Ransomware analysis with REMnux toolset.
 
 ### [2 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
 1. **Industry standard penetration testing tools**
@@ -296,15 +296,15 @@
 
 ### [3 - Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
 1. **Getting Started**
-    - Active Reconnaissance, Vulnerability Scanning, Privilege Escalation, Web Application Attacks.
+    - Active Reconnaissance; Vulnerability Scanning; Privilege Escalation; Web Application Attacks; CTFs.
 2. **Advanced Exploitation**
-    - Vulnerability Scanning, Handling Public Exploits, Password Cracking, Metasploit Framework, Port Redirection.
+    - Vulnerability Scanning; Handling Public Exploits; Password Cracking; Metasploit Framework; Port Redirection; CTFs.
 3. **Buffer Overflow Exploitation**
-    - Windows buffer overflow vulnerabilities, Basic exploit development, Exploitation of services vulnerable to buffer overflow.
+    - Windows buffer overflow vulnerabilities; Basic exploit development; Exploitation of services vulnerable to buffer overflow; CTFs.
 4. **Active Directory**
-    - Active Directory (AD) Basics, Attacking Kerberos, Breaching AD, Enumerating AD, Exploiting AD, Persisting AD, Lateral Movement & Pivoting, Credentials Harvesting.
+    - Active Directory (AD) Basics; Attacking Kerberos; Breaching AD; Enumerating AD; Exploiting AD; Persisting AD; Lateral Movement & Pivoting; Credentials Harvesting.
 5. **Extra Credit**
-    - Hacking with PowerShell and CTFs.
+    - Hacking with PowerShell; CTFs.
 
 ### [4 - Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png) (64h)
 1. **Introduction to Cyber Security**
@@ -325,34 +325,52 @@
     - Shell; Linux & Windows Privilege Escalation.
 
 ### [5 - Web Fundamentals](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png) (32h)
-1. How The Web Works
-2. Introduction to Web Hacking
-3. Burp Suite
-4. Web Hacking Fundamentals
+1. **How The Web Works**
+    - DNS, HTTP, Websites.
+2. **Introduction to Web Hacking**
+    - Content Discovery; Subdomain Enumeration; Authentication Bypass; File Inclusion; IDOR, SSFR, XSS, Command Injection, and SQL Injection vulnerabilities. 
+3. **Burp Suite**
+    - Burp Suite: Basics, Repeater, Intruder, Other Modules, and Extender.
+4. **Web Hacking Fundamentals**
+    - Websites, HTTP, Burp Suite, OWASP, Upload Vulnerabilities, CTF.
 
 ### [6 - Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png) (24h)
-1. Careers in Cyber Security
-2. Offensive Security; hacking your first application
-3. Defensive Security; defending against a live cyber attack
-4. Exploring security topics in the industry
+1. **Introduction to Cyber Security**
+    - Intro to Offensive & Defensive Security; Careers in Cyber.
+2. **Introduction to Offensive Security**
+    - Web Application Security, Operatin System Security, Network Security.
+3. **Introduction to Defensive Security**
+    - Intro to Digital Forensics, Security Operations.
 
 ### [7 - Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png) (40h)
-1. Introduction to Cyber Security
-2. Network Fundamentals
-3. How The Web Works
-4. Linux Fundamentals
-5. Windows Fundamentals
+1. **Introduction to Cyber Security**
+    - Intro to Offensive & Defensive Security; Careers in Cyber.
+2. **Network Fundamentals**
+    - Networking Fundamentals; Intro to LAN; OSI Model; Prackets & Frames; Extending Networks.
+3. **How The Web Works**
+    - DNS, HTTP, Websites.
+4. **Linux Fundamentals**
+    - Essential commands; SSH; file system interaction; common utilities.
+5. **Windows Fundamentals**
+    - NTFS file system; UAC; The Control Panel; System Configuration; Resource Monitoring; The Windows Registry; Windows Updates; Windows Security; BitLocker.
 
 ### [8 - Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png) (64h)
-1. Complete Beginner Introduction
-2. Linux Fundamentals
-3. Network Exploitation Basics
-4. Web Hacking Fundamentals
-5. Cryptography
-6. Windows Exploitation Basics
-7. Shells and Privilege Escalation
-8. Basic Computer Exploitation
-
+1. **Complete Beginner Introduction**
+    - Starting Out in Cyber Sec; Introductory Rearching.
+2. **Linux Fundamentals**
+    - Essential commands; SSH; file system interaction; common utilities.
+3. **Network Exploitation Basics**
+    - Introductory Networking; Nmap; Network Services.
+4. **Web Hacking Fundamentals**
+    - Websites, HTTP, Burp Suite, OWASP, Upload Vulnerabilities, CTF.
+5. **Cryptography**
+    - Hashing-Crypto 101; John The Ripper; Encryption - Crypto 101.
+6. **Windows Exploitation Basics**
+    - Windows Fundamentals; Active Direcotry Basics; Metasploit: Introduction, Exploitation, and Meterpreter; CFT.
+7. **Shells and Privilege Escalation**
+    - Shell; Common Linux Privesc; Linux PrivEsc.
+8. **Basic Computer Exploitation**
+    - CFTs: Active Recon, Web App Attacks, Privilege Escalation, Metasploit, PowerShell.
 
 ## Modules Completed
 1. [Burp Suite](https://tryhackme.com/module/learn-burp-suite)
