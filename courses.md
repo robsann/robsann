@@ -275,11 +275,11 @@
 
 ### [1 - Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png) (48h)
 1. **Cyber Defense Introduction**
-    - Keywords: Networking, Network Services, Wireshark, Windows Fundamentals, Active Directory Basics.
+    - Networking, Network Services, Wireshark, Windows Fundamentals, Active Directory Basics.
 2. **Threat and Vulnerability Management**
-    - Keywords: Nessus, OpenVAS, Yara, MITRE, MISP, ZeroLogon vulnerability. 
+    - Nessus, OpenVAS, Yara, MITRE, MISP, ZeroLogon vulnerability. 
 3. **Security Operations & Monitoring**
-    - Keywords: Core Windows Processes, Sysinternals, Windows Event Logs, Sysmon, Osquery, Splunk.
+    - Core Windows Processes, Sysinternals, Windows Event Logs, Sysmon, Osquery, Splunk.
 4. **Threat Emulation**
    - Keywords: Attacking Active Directory & Kerberos.
 5. **Incident Response and Forensics**
