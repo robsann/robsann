@@ -295,15 +295,15 @@
 5. **Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)**
 
 ### [3 - Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
-1. Getting Started:
+1. **Getting Started**
     - Active Reconnaissance, Vulnerability Scanning, Privilege Escalation, Web Application Attacks.
-2. Advanced Exploitation:
+2. **Advanced Exploitation**
     - Vulnerability Scanning, Handling Public Exploits, Password Cracking, Metasploit Framework, Port Redirection.
-3. Buffer Overflow Exploitation:
+3. **Buffer Overflow Exploitation**
     - Windows buffer overflow vulnerabilities, Basic exploit development, Exploitation of services vulnerable to buffer overflow.
-4. Active Directory:
-    - Active Directory Basics, Attacking Kerberos, Exploiting a Domain Controller, Post exploitation tasks.
-5. Extra Credit:
+4. **Active Directory**
+    - Active Directory (AD) Basics, Attacking Kerberos, Breaching AD, Enumerating AD, Lateral Movement & Pivoting, Exploiting AD, Persisting AD, Credentials Harvesting.
+5. **Extra Credit**
     - Hacking with PowerShell and CTFs.
 
 ### [4 - Jr Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png) (64h)
