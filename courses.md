@@ -274,7 +274,7 @@
 ## Learning Paths Completed
 
 ### [1 - Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png) (48h)
-1. Cyber Defense Introduction
+**1. Cyber Defense Introduction**
     - Keywords: Networking, Network Services, Wireshark, Windows Fundamentals, Active Directory Basics.
 2. Threat and Vulnerability Management
     - Keywords: Nessus, OpenVAS, Yara, MITRE, MISP, ZeroLogon vulnerability. 
