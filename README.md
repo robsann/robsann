@@ -1,12 +1,12 @@
 # Hi, I'm Robson!
 
-I'm a self-taught cybersecurity learner interested in cyber defense topics such as network and endpoint security, traffic and log analysis, digital forensics and incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management.
+I'm a self-taught Cyber Security learner interested in Cyber Defense topics such as network and endpoint security, traffic and log analysis, digital forensics and incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management.
 
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
 # [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
-I've been using Linkedin Learning to learn cybersecurity topics and tools and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also used DataCamp to learn Python and Data Analysis.
+I've been using Linkedin Learning to learn Cyber Security topics and tools and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also used DataCamp to learn Python and Data Analysis.
 
 <div align="center">
 
@@ -28,7 +28,7 @@ I've been using Linkedin Learning to learn cybersecurity topics and tools and Tr
 
 ---
 
-# Cybersecurity Homelabs
+# Cyber Security Homelabs
 I've been exploring some homelabs described in Youtube channels and blogs and plan to build new ones at some point.
 
 ## [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann/ElasticStackLab)
