@@ -17,26 +17,26 @@
 3. **Computer Maintenance and Troubleshooting, Databases, and Programming**
 
 ### [2 - Prepare for the CompTIA A+ (220-1001 and 220-1002) Exams](https://www.linkedin.com/learning/certificates/58edd9872c07431d14c468a8cb08f56ad77c3abcfb6bdf09680d859681ec5644?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (34h14m)
-- **Prepare for the CompTIA A+ (220-1001) Exam**
-    1. **The Basics**
-    2. **Microprocessing and RAM**
-    3. **Core Hardware**
-    4. **Storage and Peripherals**
-    5. **Display Technologies**
-    6. **Physical Networking**
-    7. **Understanding Networking**
-    8. **Internet and the Cloud**
-    9. **Portable Computing**
-    10. **Printers**
-- **Prepare for the CompTIA A+ (220-1002) Exam**
-    1. **Getting Started**
-    2. **Impllementation Considerations**
-    3. **Windows and More**
-    4. **Command-Line Interface and Scripting Languages**
-    5. **Troubleshooting Operating Systems**
-    6. **Networking, Security, and More**
-    7. **Portable Computing**
-    8. **Security and Organization**
+#### Prepare for the CompTIA A+ (220-1001) Exam
+1. **The Basics**
+2. **Microprocessing and RAM**
+3. **Core Hardware**
+4. **Storage and Peripherals**
+5. **Display Technologies**
+6. **Physical Networking**
+7. **Understanding Networking**
+8. **Internet and the Cloud**
+9. **Portable Computing**
+10. **Printers**
+#### Prepare for the CompTIA A+ (220-1002) Exam
+1. **Getting Started**
+2. **Impllementation Considerations**
+3. **Windows and More**
+4. **Command-Line Interface and Scripting Languages**
+5. **Troubleshooting Operating Systems**
+6. **Networking, Security, and More**
+7. **Portable Computing**
+8. **Security and Organization**
 
 ### [3 - Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h19m)
 1. **System Hardware**
