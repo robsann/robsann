@@ -17,16 +17,26 @@
 3. CompTIA IT Fundamentals (FC0-U61) Cert Prep 3: **Computer Maintenance and Troubleshooting, Databases, and Programming**
 
 ### [2 - Prepare for the CompTIA A+ (220-1001 and 220-1002) Exams](https://www.linkedin.com/learning/certificates/58edd9872c07431d14c468a8cb08f56ad77c3abcfb6bdf09680d859681ec5644?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (34h14m)
-1. CompTIA A+ (220-1001) Cert Prep 1: **The Basics**
-2. CompTIA A+ (220-1001) Cert Prep 2: **Microprocessing and RAM**
-3. CompTIA A+ (220-1001) Cert Prep 3: **Core Hardware**
-4. CompTIA A+ (220-1001) Cert Prep 4: **Storage and Peripherals**
-5. CompTIA A+ (220-1001) Cert Prep 5: **Display Technologies**
-6. CompTIA A+ (220-1001) Cert Prep 6: **Physical Networking**
-7. CompTIA A+ (220-1001) Cert Prep 7: **Understanding Networking**
-8. CompTIA A+ (220-1001) Cert Prep 8: **Internet and the Cloud**
-9. CompTIA A+ (220-1001) Cert Prep 9: **Portable Computing**
-10. CompTIA A+ (220-1001) Cert Prep 10: **Printers**
+### Prepare for the CompTIA A+ (220-1001) Exam
+1. **The Basics**
+2. **Microprocessing and RAM**
+3. **Core Hardware**
+4. **Storage and Peripherals**
+5. **Display Technologies**
+6. **Physical Networking**
+7. **Understanding Networking**
+8. **Internet and the Cloud**
+9. **Portable Computing**
+10. **Printers**
+### Prepare for the CompTIA A+ (220-1002) Exam
+1. **Getting Started**
+2. **Impllementation Considerations**
+3. **Windows and More**
+4. **Command-Line Interface and Scripting Languages**
+5. **Troubleshooting Operating Systems**
+6. **Networking, Security, and More**
+7. **Portable Computing**
+8. **Security and Organization**
 
 ### [3 - Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h19m)
 1. **System Hardware**
@@ -47,56 +57,56 @@
 16. **System Orchestration**
 
 ### [4 - Prepare for the CompTIA Network+ (N10-008) Exam](https://www.linkedin.com/learning/certificates/2061447662389771c0a8a631508ff913d362c3f95ecef54e7affb80eda1301d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (21h39m)
-1. CompTIA Network+ (N10-008) Cert Prep: **1 Understanding Networks**
-2. CompTIA Network+ (N10-008) Cert Prep: **2 The Physical Network**
-3. CompTIA Network+ (N10-008) Cert Prep: **3 The World of TCP/IP**
-4. CompTIA Network+ (N10-008) Cert Prep: **4 Making TCP/IP Work**
-5. CompTIA Network+ (N10-008) Cert Prep: **5 Securing TCP/IP**
-6. CompTIA Network+ (N10-008) Cert Prep: **6 Advanced IP Networking**
-7. CompTIA Network+ (N10-008) Cert Prep: **7 Wireless, Virtual, Cloud, and Data Center Networking**
-8. CompTIA Network+ (N10-008) Cert Prep: **8 Network Integration and Operation**
-9. CompTIA Network+ (N10-008) Cert Prep: **9 Network Security and Monitoring**
+1. **Understanding Networks**
+2. **The Physical Network**
+3. **The World of TCP/IP**
+4. **Making TCP/IP Work**
+5. **Securing TCP/IP**
+6. **Advanced IP Networking**
+7. **Wireless, Virtual, Cloud, and Data Center Networking**
+8. **Network Integration and Operation**
+9. **Network Security and Monitoring**
 
 ### [5 - Prepare for the CompTIA Security+ (SY0-601) Exam](https://www.linkedin.com/learning/certificates/89dcfd1c270f15e0506c9afc0a2a0db21572f214b586a356d3784de99dbe2108?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (23h45m)
-1. CompTIA Security+ (SY0-601) Cert Prep: **1 Threats, Attacks, and Vulnerabilities**
-2. CompTIA Security+ (SY0-601) Cert Prep: **2 Secure Code Design and Implementation**
-3. CompTIA Security+ (SY0-601) Cert Prep: **3 Cryptography Design and Implementation**
-4. CompTIA Security+ (SY0-601) Cert Prep: **4 Identity and Access Management Design and Implementation**
-5. CompTIA Security+ (SY0-601) Cert Prep: **5 Physical Security Design and Implementation**
-6. CompTIA Security+ (SY0-601) Cert Prep: **6 Cloud Security Design and Implementation**
-7. CompTIA Security+ (SY0-601) Cert Prep: **7 Endpoint Security Design and Implementation**
-8. CompTIA Security+ (SY0-601) Cert Prep: **8 Network Security Design and Implementation**
-9. CompTIA Security+ (SY0-601) Cert Prep: **9 Operations and Incident Response**
-10. CompTIA Security+ (SY0-601) Cert Prep: **10 Governance, Risk, and Compliance**
-11. CompTIA Security+ (SY0-601) Cert Prep: **Audio Review**
+1. **Threats, Attacks, and Vulnerabilities**
+2. **Secure Code Design and Implementation**
+3. **Cryptography Design and Implementation**
+4. **Identity and Access Management Design and Implementation**
+5. **Physical Security Design and Implementation**
+6. **Cloud Security Design and Implementation**
+7. **Endpoint Security Design and Implementation**
+8. **Network Security Design and Implementation**
+9. **Operations and Incident Response**
+10. **Governance, Risk, and Compliance**
+11. **Audio Review**
 
 ### [6 - Prepare for the CompTIA PenTest+ (PT0-001) Exam](https://www.linkedin.com/learning/certificates/0b3426d44e88a5a9bbf974bb31ae0e36fcc9158cc1ea4396eec2c0e9247edf95?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h35m)
-1. CompTIA PenTest+ (PT0-001): **1 Planning and Scoping**
-2. CompTIA PenTest+ (PT0-001): **2 Survey the Target**
-3. CompTIA PenTest+ (PT0-001): **3 Select Your Attacks**
-4. CompTIA PenTest+ (PT0-001): **4 Select Your Attacks (II)**
-5. CompTIA PenTest+ (PT0-001): **5 Selecting Pen Testing Tools**
-6. CompTIA PenTest+ (PT0-001): **6 Using Scripting in Pen Testing**
+1. **Planning and Scoping**
+2. **Survey the Target**
+3. **Select Your Attacks**
+4. **Select Your Attacks (II)**
+5. **Selecting Pen Testing Tools**
+6. **Using Scripting in Pen Testing**
 
 ### [7 - Prepare for the CompTIA Cloud+ (CV0-002) Exam](https://www.linkedin.com/learning/certificates/19f7bbfc0255e380c8d378e79aff0e20cd26c6a14bcfbe0f5f60df742982d4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h14m)
-1. CompTIA Cloud+ Cert Prep 1 (CV0-002): **Introduction to the Cloud and System Requirements**
-2. CompTIA Cloud+ Cert Prep 2 (CV0-002): **Storage, Compute, Networking, and Security**
-3. CompTIA Cloud+ Cert Prep 3 (CV0-002): **Migrating, Maintaining, and Troubleshooting**
+1. **Introduction to the Cloud and System Requirements**
+2. **Storage, Compute, Networking, and Security**
+3. **Migrating, Maintaining, and Troubleshooting**
 
 ### [8 - Prepare for the CompTIA Cybersecurity Analyst (CySA+) (CS0-002) Exam](https://www.linkedin.com/learning/certificates/d570c35e140d2846a7daadba55f4e3a2a4958b5ee6a6ec8c89807796011a3f14?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (18h42m)
-1. CompTIA CySA+ (CS0-002) Cert Prep: **1 Threat Management**
-2. CompTIA CySA+ (CS0-002) Cert Prep: **2 Vulnerability Management**
-3. CompTIA CySA+ (CS0-002) Cert Prep: **3 Identity and Access Management**
-4. CompTIA CySA+ (CS0-002) Cert Prep: **4 Software and Systems Security**
-5. CompTIA CySA+ (CS0-002) Cert Prep: **5 Security Operations and Monitoring**
-6. CompTIA CySA+ (CS0-002) Cert Prep: **6 Incident Response**
-7. CompTIA CySA+ (CS0-002) Cert Prep: **7 Compliance and Assessment**
+1. **Threat Management**
+2. **Vulnerability Management**
+3. **Identity and Access Management**
+4. **Software and Systems Security**
+5. **Security Operations and Monitoring**
+6. **Incident Response**
+7. **Compliance and Assessment**
 
 ### [9 - Prepare for the CompTIA Advanced Security Practitioner (CASP+) (CAS-004) Exam](https://www.linkedin.com/learning/certificates/1e12447efe2c6f54dc0c184426cd43177f683167c06848e7ce42123f3bef453d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (28h46m)
-1. CASP+ (CAS-004) Cert Prep: **1 Security Architecture**
-2. CASP+ (CAS-004) Cert Prep: **2 Security Operations**
-3. CASP+ (CAS-004) Cert Prep: **3 Security Engineering and Cryptography**
-4. CASP+ (CAS-004) Cert Prep: **4 Governance, Risk, and Compliance**
+1. **Security Architecture**
+2. **Security Operations**
+3. **Security Engineering and Cryptography**
+4. **Governance, Risk, and Compliance**
 
 ### [10 - Become a Cybersecurity Professional](https://www.linkedin.com/learning/certificates/8c945450d841fadc5b9205aa0dd4a4d104cbbf11af38f3d65aa40222be5381ed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (6h28m)
 1. **Cybersecurity Foundations**
@@ -120,25 +130,25 @@
 12. **Soft Skills for Information Security Professionals**
 
 ### [12 - Become an Ethical HackerBecome an Ethical Hacker](https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (30h16m)
-1. Ethical Hacking: **Introduction to Ethical Hacking**
-2. Ethical Hacking: **Footprinting and Reconnaissance**
-3. Ethical Hacking: **Scanning Networks**
-4. Ethical Hacking: **Enumeration**
-5. Ethical Hacking: **Vulnerability Analysis**
-6. Ethical Hacking: **System Hacking**
-7. Ethical Hacking: **The Complete Malware Analysis Process**
-8. Ethical Hacking: **Sniffers**
-9. Ethical Hacking: **Social Engineering**
-10. Ethical Hacking: **Denial of Service**
-11. Ethical Hacking: **Session Hijacking**
-12. Ethical Hacking: **Evading IDS, Firewalls, and Honeypots**
-13. Ethical Hacking: **Hacking Web Servers and Web Applications**
-14. Ethical Hacking: **Wireless Networks**
-15. Ethical Hacking: **Mobile Devices and Platforms**
-16. Ethical Hacking: **Hacking IoT Devices**
-17. Ethical Hacking: **Cryptography**
-18. Ethical Hacking: **Cloud Computing**
-19. Ethical Hacking: **SQL Injection**
+1. **Introduction to Ethical Hacking**
+2. **Footprinting and Reconnaissance**
+3. **Scanning Networks**
+4. **Enumeration**
+5. **Vulnerability Analysis**
+6. **System Hacking**
+7. **The Complete Malware Analysis Process**
+8. **Sniffers**
+9. **Social Engineering**
+10. **Denial of Service**
+11. **Session Hijacking**
+12. **Evading IDS, Firewalls, and Honeypots**
+13. **Hacking Web Servers and Web Applications**
+14. **Wireless Networks**
+15. **Mobile Devices and Platforms**
+16. **Hacking IoT Devices**
+17. **Cryptography**
+18. **Cloud Computing**
+19. **SQL Injection**
 
 ### [13 - CyberSec First Responder (CFR-310)](https://www.linkedin.com/learning/certificates/6aa3c9de05e7be24848dc006b5752afbb26bc81c25d2fc46d2c32c2f8c99a74d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BdwcJYNRmTQ6beUgVL4TjNw%3D%3D) (13h16m)
 1. **Threats and Attacks**
