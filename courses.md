@@ -38,7 +38,31 @@
 7. **Portable Computing**
 8. **Security and Organization**
 
-### [3 - Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h19m)
+### [3 - Prepare for the CompTIA Network+ (N10-008) Exam](https://www.linkedin.com/learning/certificates/2061447662389771c0a8a631508ff913d362c3f95ecef54e7affb80eda1301d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (21h39m)
+1. **Understanding Networks**
+2. **The Physical Network**
+3. **The World of TCP/IP**
+4. **Making TCP/IP Work**
+5. **Securing TCP/IP**
+6. **Advanced IP Networking**
+7. **Wireless, Virtual, Cloud, and Data Center Networking**
+8. **Network Integration and Operation**
+9. **Network Security and Monitoring**
+
+### [4 - Prepare for the CompTIA Security+ (SY0-601) Exam](https://www.linkedin.com/learning/certificates/89dcfd1c270f15e0506c9afc0a2a0db21572f214b586a356d3784de99dbe2108?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (23h45m)
+1. **Threats, Attacks, and Vulnerabilities**
+2. **Secure Code Design and Implementation**
+3. **Cryptography Design and Implementation**
+4. **Identity and Access Management Design and Implementation**
+5. **Physical Security Design and Implementation**
+6. **Cloud Security Design and Implementation**
+7. **Endpoint Security Design and Implementation**
+8. **Network Security Design and Implementation**
+9. **Operations and Incident Response**
+10. **Governance, Risk, and Compliance**
+11. **Audio Review**
+
+### [5 - Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h19m)
 1. **System Hardware**
 2. **Disk Systems**
 3. **Manage Users and Software**
@@ -55,30 +79,6 @@
 14. **Version Control**
 15. **Automation and Scripting**
 16. **System Orchestration**
-
-### [4 - Prepare for the CompTIA Network+ (N10-008) Exam](https://www.linkedin.com/learning/certificates/2061447662389771c0a8a631508ff913d362c3f95ecef54e7affb80eda1301d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (21h39m)
-1. **Understanding Networks**
-2. **The Physical Network**
-3. **The World of TCP/IP**
-4. **Making TCP/IP Work**
-5. **Securing TCP/IP**
-6. **Advanced IP Networking**
-7. **Wireless, Virtual, Cloud, and Data Center Networking**
-8. **Network Integration and Operation**
-9. **Network Security and Monitoring**
-
-### [5 - Prepare for the CompTIA Security+ (SY0-601) Exam](https://www.linkedin.com/learning/certificates/89dcfd1c270f15e0506c9afc0a2a0db21572f214b586a356d3784de99dbe2108?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (23h45m)
-1. **Threats, Attacks, and Vulnerabilities**
-2. **Secure Code Design and Implementation**
-3. **Cryptography Design and Implementation**
-4. **Identity and Access Management Design and Implementation**
-5. **Physical Security Design and Implementation**
-6. **Cloud Security Design and Implementation**
-7. **Endpoint Security Design and Implementation**
-8. **Network Security Design and Implementation**
-9. **Operations and Incident Response**
-10. **Governance, Risk, and Compliance**
-11. **Audio Review**
 
 ### [6 - Prepare for the CompTIA PenTest+ (PT0-001) Exam](https://www.linkedin.com/learning/certificates/0b3426d44e88a5a9bbf974bb31ae0e36fcc9158cc1ea4396eec2c0e9247edf95?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h35m)
 1. **Planning and Scoping**
@@ -108,14 +108,7 @@
 3. **Security Engineering and Cryptography**
 4. **Governance, Risk, and Compliance**
 
-### [10 - Become a Cybersecurity Professional](https://www.linkedin.com/learning/certificates/8c945450d841fadc5b9205aa0dd4a4d104cbbf11af38f3d65aa40222be5381ed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (6h28m)
-1. **Cybersecurity Foundations**
-2. **The Cybersecurity Threat Landscape**
-3. **Learning the OWASP Top 10**
-4. **Cybersecurity Careers and Certifications**
-5. **Land Your First Cybersecurity Job**
-
-### [11 - Become an IT Security Specialist](https://www.linkedin.com/learning/certificates/a1f31627fddefa1d45b975883580e67c7d92affc920d7c6e6c82346f50245f1c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (20h7m)
+### [10 - Become an IT Security Specialist](https://www.linkedin.com/learning/certificates/a1f31627fddefa1d45b975883580e67c7d92affc920d7c6e6c82346f50245f1c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (20h7m)
 1. **IT Security Foundations: Core Concepts**
 2. **Cybersecurity Foundations**
 3. **IT Security Foundations: Operating System Security**
@@ -129,7 +122,72 @@
 11. **Ethics in Information Security**
 12. **Soft Skills for Information Security Professionals**
 
-### [12 - Become an Ethical HackerBecome an Ethical Hacker](https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (30h16m)
+### [11 - Become a Cybersecurity Professional](https://www.linkedin.com/learning/certificates/8c945450d841fadc5b9205aa0dd4a4d104cbbf11af38f3d65aa40222be5381ed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (6h28m)
+1. **Cybersecurity Foundations**
+2. **The Cybersecurity Threat Landscape**
+3. **Learning the OWASP Top 10**
+4. **Cybersecurity Careers and Certifications**
+5. **Land Your First Cybersecurity Job**
+
+### [12 - CyberSec First Responder (CFR-310)](https://www.linkedin.com/learning/certificates/6aa3c9de05e7be24848dc006b5752afbb26bc81c25d2fc46d2c32c2f8c99a74d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BdwcJYNRmTQ6beUgVL4TjNw%3D%3D) (13h16m)
+1. **Threats and Attacks**
+2. **Gaining Access**
+3. **Post-Exploitation**
+4. **Threat Research and Incident Prep**
+5. **Data Collection and Analysis**
+6. **Incident Response Technique**
+7. **Vulnerability Assessments**
+
+### [13 - Explore a Career in Computer Forensics](https://www.linkedin.com/learning/certificates/d50975052658aa54eda01d93fd25571230264b2cb7ab877a7ff8e0a28f61123a) (15h55m)
+1. **The Cybersecurity Threat Landscape**
+2. **Learning Computer Forensics**
+3. **Operating System Forensics**
+4. **Network Forensics**
+5. **Wireshark: Malware and Forensics**
+6. **Protecting Your Network with Open Source Software**
+7. **Learning Autopsy for Digital Forensics**
+8. **Soft Skills for Information Security Professionals**
+9. **Ethics in Information Security**
+
+### [14 - Improve Your Wireshark Skills](https://www.linkedin.com/learning/certificates/c515f73cc5e2f46098be432b54a7df91519be97580953ec9ac1b8cb39e850d53?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h5m)
+1. **Wireshark: Essential Training**
+2. **Wireshark: Functionality**
+3. **Wireshark: Network Troubleshooting**
+4. **Wireshark: Malware and Forensics**
+5. **Wireshark: VoIP**
+
+### [15 - Improve Your Threat Modeling Skills](https://www.linkedin.com/learning/certificates/485e10dbcfcec848d79fa171b0b5fbf6a53c5fbef67c88f5c23dd5f8097d1fb1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (3h50m)
+1. **Learning Threat Modeling for Security Professionals**
+2. **Threat Modeling: Spoofing In Depth**
+3. **Threat Modeling: Tampering in Depth**
+4. **Threat Modeling: Repudiation in Depth**
+5. **Threat Modeling: Information Disclosure in Depth**
+6. **Threat Modeling: Denial of Service and Elevation of Privilege**
+
+### [16 - Master Vulnerability Management](https://www.linkedin.com/learning/certificates/d94f36298fe0fb9b36f49a4d21048b4fef7f5058087bd93e85d5b1fd67829c4c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (8h51m)
+1. **Implementing a Vulnerability Management Lifecycle**
+2. **Learning Vulnerability Management**
+3. **Security Testing Essential Training**
+4. **Security Testing: Vulnerability Management with Nessus**
+5. **Ethical Hacking: Vulnerability Analysis**
+6. **Vulnerability Management: Assessing the Risks with CVSS v3.1**
+
+### [17 - Master the OWASP Top 10](https://www.linkedin.com/learning/certificates/de4f8df3aff0e940c22cbe9138d8470ec21a977d1c3fe121a234b7c69dafd3ce?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (3h9m)
+1. **Learning the OWASP Top 10 (2018)**
+2. **OWASP Top 10: #1 Injection and #2 Broken Authentication**
+3. **OWASP Top 10: #3 Sensitive Data Exposure and #4 External Entities (XXE) (2019)**
+4. **OWASP Top 10: #5 Broken Access Control and #6 Security Misconfiguration (2019)**
+5. **OWASP Top 10: #7 XSS and #8 Insecure Deserialization**
+6. **OWASP Top 10: #9 Components with Known Vulnerabilities and #10 Insufficient Logging and Monitoring**
+
+### [18 - Get Ahead in DevSecOps](https://www.linkedin.com/learning/certificates/b863d094f52624fe264813f65f98bffbeec1b138f4f5109886c5f034b51ac083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (5h57m)
+1. **DevOps Foundations: DevSecOps**
+2. **DevSecOps: Automated Security Testing**
+3. **DevSecOps: Building a Secure Continuous Delivery Pipeline**
+4. **Application Security in DevSecOps**
+5. **DevSecOps: Tips for Success**
+
+### [19 - Become an Ethical HackerBecome an Ethical Hacker](https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (30h16m)
 1. **Introduction to Ethical Hacking**
 2. **Footprinting and Reconnaissance**
 3. **Scanning Networks**
@@ -150,34 +208,7 @@
 18. **Cloud Computing**
 19. **SQL Injection**
 
-### [13 - CyberSec First Responder (CFR-310)](https://www.linkedin.com/learning/certificates/6aa3c9de05e7be24848dc006b5752afbb26bc81c25d2fc46d2c32c2f8c99a74d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BdwcJYNRmTQ6beUgVL4TjNw%3D%3D) (13h16m)
-1. **Threats and Attacks**
-2. **Gaining Access**
-3. **Post-Exploitation**
-4. **Threat Research and Incident Prep**
-5. **Data Collection and Analysis**
-6. **Incident Response Technique**
-7. **Vulnerability Assessments**
-
-### [14 - Explore a Career in Computer Forensics](https://www.linkedin.com/learning/certificates/d50975052658aa54eda01d93fd25571230264b2cb7ab877a7ff8e0a28f61123a) (15h55m)
-1. **The Cybersecurity Threat Landscape**
-2. **Learning Computer Forensics**
-3. **Operating System Forensics**
-4. **Network Forensics**
-5. **Wireshark: Malware and Forensics**
-6. **Protecting Your Network with Open Source Software**
-7. **Learning Autopsy for Digital Forensics**
-8. **Soft Skills for Information Security Professionals**
-9. **Ethics in Information Security**
-
-### [15 - Improve Your Wireshark Skills](https://www.linkedin.com/learning/certificates/c515f73cc5e2f46098be432b54a7df91519be97580953ec9ac1b8cb39e850d53?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h5m)
-1. **Wireshark: Essential Training**
-2. **Wireshark: Functionality**
-3. **Wireshark: Network Troubleshooting**
-4. **Wireshark: Malware and Forensics**
-5. **Wireshark: VoIP**
-
-### [16 - Become a Penetration Tester](https://www.linkedin.com/learning/certificates/bee0b067d52836dfef901bde0e95bf2378c5e5aff3781964e938a54fb77ba659?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (12h50m)
+### [20 - Become a Penetration Tester](https://www.linkedin.com/learning/certificates/bee0b067d52836dfef901bde0e95bf2378c5e5aff3781964e938a54fb77ba659?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (12h50m)
 1. **Cybersecurity Careers: Become a Penetration Tester**
 2. **Learning Penetration Testing**
 3. **Penetration Testing Essential Training**
@@ -187,7 +218,7 @@
 7. **Burp Suite Essential Training**
 8. **Advanced Techniques for Ethical Hacking**
 
-### [17 - Explore a Career in Application Security](https://www.linkedin.com/learning/certificates/acf2822ac1322082548d581b9e7300e688f74fc03a0941ab4798faa815946201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BErq61CJZRpm8IqcdA7h2Iw%3D%3D) (16h20m)
+### [21 - Explore a Career in Application Security](https://www.linkedin.com/learning/certificates/acf2822ac1322082548d581b9e7300e688f74fc03a0941ab4798faa815946201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BErq61CJZRpm8IqcdA7h2Iw%3D%3D) (16h20m)
 1. **Software Development Life Cycle (SDLC)**
 2. **Penetration Testing Essential Training**
 3. **Learning the OWASP Top 10**
@@ -195,37 +226,6 @@
 5. **Dynamic Application Security Testing**
 6. **Static Application Security Testing (SAST) (2019)**
 7. **Soft Skills for Information Security Professionals**
-
-### [18 - Improve Your Threat Modeling Skills](https://www.linkedin.com/learning/certificates/485e10dbcfcec848d79fa171b0b5fbf6a53c5fbef67c88f5c23dd5f8097d1fb1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (3h50m)
-1. **Learning Threat Modeling for Security Professionals**
-2. **Threat Modeling: Spoofing In Depth**
-3. **Threat Modeling: Tampering in Depth**
-4. **Threat Modeling: Repudiation in Depth**
-5. **Threat Modeling: Information Disclosure in Depth**
-6. **Threat Modeling: Denial of Service and Elevation of Privilege**
-
-### [19 - Master Vulnerability Management](https://www.linkedin.com/learning/certificates/d94f36298fe0fb9b36f49a4d21048b4fef7f5058087bd93e85d5b1fd67829c4c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (8h51m)
-1. **Implementing a Vulnerability Management Lifecycle**
-2. **Learning Vulnerability Management**
-3. **Security Testing Essential Training**
-4. **Security Testing: Vulnerability Management with Nessus**
-5. **Ethical Hacking: Vulnerability Analysis**
-6. **Vulnerability Management: Assessing the Risks with CVSS v3.1**
-
-### [20 - Master the OWASP Top 10](https://www.linkedin.com/learning/certificates/de4f8df3aff0e940c22cbe9138d8470ec21a977d1c3fe121a234b7c69dafd3ce?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (3h9m)
-1. **Learning the OWASP Top 10 (2018)**
-2. **OWASP Top 10: #1 Injection and #2 Broken Authentication**
-3. **OWASP Top 10: #3 Sensitive Data Exposure and #4 External Entities (XXE) (2019)**
-4. **OWASP Top 10: #5 Broken Access Control and #6 Security Misconfiguration (2019)**
-5. **OWASP Top 10: #7 XSS and #8 Insecure Deserialization**
-6. **OWASP Top 10: #9 Components with Known Vulnerabilities and #10 Insufficient Logging and Monitoring**
-
-### [21 - Get Ahead in DevSecOps](https://www.linkedin.com/learning/certificates/b863d094f52624fe264813f65f98bffbeec1b138f4f5109886c5f034b51ac083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (5h57m)
-1. **DevOps Foundations: DevSecOps**
-2. **DevSecOps: Automated Security Testing**
-3. **DevSecOps: Building a Secure Continuous Delivery Pipeline**
-4. **Application Security in DevSecOps**
-5. **DevSecOps: Tips for Success**
 
 ### [22 - Advance Your Data Privacy Skills](https://www.linkedin.com/learning/certificates/ecc42d1738ebbc784df460addad992feab6461129dd9379cffd1fc15bac08a41?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (4h9m)
 1. **Understanding and Prioritizing Data Privacy**
