@@ -75,50 +75,56 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
 ---
 # CompTIA Certification Exam Objectives Maps
 
-I created some maps to overview the contents of the CompTIA A+, Linux+, Network+, Security+, and CySA+ Certification Exam Objectives.
+I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Security+, and CySA+ Certification Exam Objectives.
+
+[<img src="images/CompTIA_Linux+.png" width="185" height="300" align="left">](https://www.dropbox.com/scl/fi/4cqc1tu2tmd32ubldocbu/CompTIA_A-_Core_2.pdf?rlkey=1y02wpr5ncjl1h4sykwn0mxrt&dl=0)
 
 ### CompTIA A+ Core 2 (220-1102) Objectives
-- **<code style="background-color : #008000">1.0</code> Operating Systems**
-- **<code style="background-color : #4DC4FF">2.0</code> Security**
-- **<code style="background-color : #808000">3.0</code> Software Troubleshooting**
-- **<code style="background-color : #800080">4.0</code> Operational Procedures**
+- ![#008000](https://placehold.co/15x15/008000/008000.png) **1.0 Operating Systems**
+- ![#4DC4FF](https://placehold.co/15x15/4DC4FF/4DC4FF.png) **2.0 Security**
+- ![#808000](https://placehold.co/15x15/808000/808000.png) **3.0 Software Troubleshooting**
+- ![#800080](https://placehold.co/15x15/800080/800080.png) **4.0 Operational Procedures**
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-<embed src='images/CompTIA_A+_Core_2.pdf' width="830" height="400" type="application/pdf">
+[<img src='images/CompTIA_Linux+.png' width="185" height="300" align="left">](https://www.dropbox.com/scl/fi/8funau5rvi72h9ne5zvm5/CompTIA_Linux.pdf?rlkey=2j4t902ewd6k9b876zy7b28ba&dl=0)
 
 ### CompTIA Linux+ (xk0-005) Objectives
-- **<code style="background-color : #008080">1.0</code> System Management**
-- **<code style="background-color : #4DC4FF">2.0</code> Security**
-- **<code style="background-color : #800080">3.0</code> Scripting, Containers, and Automation**
-- **<code style="background-color : #800000">4.0</code> Troubleshooting**
+- ![#008080](https://placehold.co/15x15/008080/008080.png)**<code style="background-color : #008080">1.0</code> System Management**
+- ![#4DC4FF](https://placehold.co/15x15/4DC4FF/4DC4FF.png)**<code style="background-color : #4DC4FF">2.0</code> Security**
+- ![#800080](https://placehold.co/15x15/800080/800080.png)**<code style="background-color : #800080">3.0</code> Scripting, Containers, and Automation**
+- ![#800000](https://placehold.co/15x15/800000/800000.png)**<code style="background-color : #800000">4.0</code> Troubleshooting**
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-<embed src='images/CompTIA_Linux+.pdf' width="830" height="400">
+[<img src='images/CompTIA_Network+.png' width="185" height="300" align="left">](https://www.dropbox.com/scl/fi/xuggqvd535as3w7sv5s62/CompTIA_Network.pdf?rlkey=aric5caa3qlsyu1yj03kzo2mc&dl=0)
 
 ### CompTIA Network+ (n10-008) Objectives
-- **<code style="background-color : #008080">1.0</code> Networking Fundamentals**
-- **<code style="background-color : #EB5F52">2.0</code> Network Implementations**
-- **<code style="background-color : #800080">3.0</code> Network Operations**
-- **<code style="background-color : #4DC4FF">4.0</code> Network Security**
-- **<code style="background-color : #008000">5.0</code> Network Troubleshooting**
+- ![#008080](https://placehold.co/15x15/008080/008080.png)**<code style="background-color : #008080">1.0</code> Networking Fundamentals**
+- ![#EB5F52](https://placehold.co/15x15/EB5F52/EB5F52.png)**<code style="background-color : #EB5F52">2.0</code> Network Implementations**
+- ![#800080](https://placehold.co/15x15/800080/800080.png)**<code style="background-color : #800080">3.0</code> Network Operations**
+- ![#4DC4FF](https://placehold.co/15x15/4DC4FF/4DC4FF.png)**<code style="background-color : #4DC4FF">4.0</code> Network Security**
+- ![#008000](https://placehold.co/15x15/008000/008000.png)**<code style="background-color : #008000">5.0</code> Network Troubleshooting**
+<br/><br/><br/><br/><br/><br/><br/>
 
-<embed src='images/CompTIA_Network+.pdf' width="830" height="400">
+[<img src='images/CompTIA_Security+.png' width="185" height="300" align="left">](https://www.dropbox.com/scl/fi/qilh1hgkhocyc1dnwdiyr/CompTIA_Security.pdf?rlkey=w7mvad8dq30yn8urj8yu8fvv3&dl=0)
 
 ### CompTIA Security+ (SY0-501) Objectives
-- **<code style="background-color : #EB5F52">1.0</code> Threats, Attacks and Vulnerabilities**
-- **<code style="background-color : #4DC4FF">2.0</code> Technologies and Tools**
-- **<code style="background-color : #800080">3.0</code> Architecture and Design**
-- **<code style="background-color : #008000">4.0</code> Identity and Access Management**
-- **<code style="background-color : #800000">5.0</code> Risk Management**
-- **<code style="background-color : #FDD353">6.0</code> Cryptography and PKI**
+- ![#EB5F52](https://placehold.co/15x15/EB5F52/EB5F52.png)**<code style="background-color : #EB5F52">1.0</code> Threats, Attacks and Vulnerabilities**
+- ![#4DC4FF](https://placehold.co/15x15/4DC4FF/4DC4FF.png)**<code style="background-color : #4DC4FF">2.0</code> Technologies and Tools**
+- ![#800080](https://placehold.co/15x15/800080/800080.png)**<code style="background-color : #800080">3.0</code> Architecture and Design**
+- ![#008000](https://placehold.co/15x15/008000/008000.png)**<code style="background-color : #008000">4.0</code> Identity and Access Management**
+- ![#800000](https://placehold.co/15x15/800000/800000.png)**<code style="background-color : #800000">5.0</code> Risk Management**
+- ![#FDD353](https://placehold.co/15x15/FDD353/FDD353.png)**<code style="background-color : #FDD353">6.0</code> Cryptography and PKI**
+<br/><br/><br/><br/><br/><br/>
 
-<embed src='images/CompTIA_Security+.pdf' width="830" height="400">
+[<img src='images/CompTIA_CySA+.png' width="185" height="300" align="left">](https://www.dropbox.com/scl/fi/o8lbre40j5b7ie9x3d94o/CompTIA_CySA.pdf?rlkey=c3yx5fjwo50lg3avhj9o02e7f&dl=0)
 
 ### CompTIA Cybersecurity Analyst (CySA+) (CS0-003) Objectives
-- **<code style="background-color : #4DC4FF">1.0</code> Security Operations**
-- **<code style="background-color : #008080">2.0</code> Vulnerability Management**
-- **<code style="background-color : #800080">3.0</code> Incident Response and Management**
-- **<code style="background-color : #800000">4.0</code> Reporting and Communication**
+- ![#4DC4FF](https://placehold.co/15x15/4DC4FF/4DC4FF.png)**<code style="background-color : #4DC4FF">1.0</code> Security Operations**
+- ![#008080](https://placehold.co/15x15/008080/008080.png)**<code style="background-color : #008080">2.0</code> Vulnerability Management**
+- ![#800080](https://placehold.co/15x15/800080/800080.png)**<code style="background-color : #800080">3.0</code> Incident Response and Management**
+- ![#800000](https://placehold.co/15x15/800000/800000.png)**<code style="background-color : #800000">4.0</code> Reporting and Communication**
+<br/><br/><br/><br/><br/><br/>
 
-<embed src='images/CompTIA_CySA+.pdf' width="830" height="400">
 
 
 
