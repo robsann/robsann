@@ -80,10 +80,10 @@ I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Sec
 [<img src="images/CompTIA_Linux+.png" width="185" height="300" align="left">](https://www.dropbox.com/scl/fi/4cqc1tu2tmd32ubldocbu/CompTIA_A-_Core_2.pdf?rlkey=1y02wpr5ncjl1h4sykwn0mxrt&dl=0)
 
 ### CompTIA A+ Core 2 (220-1102) Objectives
-- ![#008000](https://placehold.co/15x15/008000/008000.png) **1.0 Operating Systems**
-- ![#4DC4FF](https://placehold.co/15x15/4DC4FF/4DC4FF.png) **2.0 Security**
-- ![#808000](https://placehold.co/15x15/808000/808000.png) **3.0 Software Troubleshooting**
-- ![#800080](https://placehold.co/15x15/800080/800080.png) **4.0 Operational Procedures**
+- ![#008000](https://placehold.co/15x15/008000/008000.png) **<code>1.0</code> Operating Systems**
+- ![#4DC4FF](https://placehold.co/15x15/4DC4FF/4DC4FF.png) **<code>2.0</code> Security**
+- ![#808000](https://placehold.co/15x15/808000/808000.png) **<code>3.0</code> Software Troubleshooting**
+- ![#800080](https://placehold.co/15x15/800080/800080.png) **<code>4.0</code> Operational Procedures**
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 [<img src='images/CompTIA_Linux+.png' width="185" height="300" align="left">](https://www.dropbox.com/scl/fi/8funau5rvi72h9ne5zvm5/CompTIA_Linux.pdf?rlkey=2j4t902ewd6k9b876zy7b28ba&dl=0)
