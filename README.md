@@ -91,7 +91,7 @@ I created some maps to overview the contents of the CompTIA A+, Linux+, Network+
 - **<code style="background-color : #800080">3.0</code> Scripting, Containers, and Automation**
 - **<code style="background-color : #800000">4.0</code> Troubleshooting**
 
-<img src='images/CompTIA_Linux+.pdf' width="830" height="400">
+<embed src='https://github.com/robsann/robsann/blob/main/images/CompTIA_Linux+.pdf' width="830" height="400">
 
 ### CompTIA Network+ (n10-008) Objectives
 - **<code style="background-color : #008080">1.0</code> Networking Fundamentals**
