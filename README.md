@@ -83,7 +83,7 @@ I created some maps to overview the contents of the CompTIA A+, Linux+, Network+
 - **<code style="background-color : #808000">3.0</code> Software Troubleshooting**
 - **<code style="background-color : #800080">4.0</code> Operational Procedures**
 
-<embed src='images/CompTIA_A+_Core_2.pdf' width="830" height="400">
+<embed src='images/CompTIA_A+_Core_2.pdf' width="830" height="400" type="application/pdf">
 
 ### CompTIA Linux+ (xk0-005) Objectives
 - **<code style="background-color : #008080">1.0</code> System Management**
