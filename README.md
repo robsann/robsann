@@ -110,7 +110,7 @@ I created some maps to overview the contents of the CompTIA A+, Linux+, Network+
 - **<code style="background-color : #800000">5.0</code> Risk Management**
 - **<code style="background-color : #FDD353">6.0</code> Cryptography and PKI**
 
-<embed src='images/CompTIA_Security+.pdf' width="830" height="400"><br/><br/>
+<embed src='images/CompTIA_Security+.pdf' width="830" height="400">
 
 ### CompTIA Cybersecurity Analyst (CySA+) (CS0-003) Objectives
 - **<code style="background-color : #4DC4FF">1.0</code> Security Operations**
