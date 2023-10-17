@@ -89,7 +89,7 @@ I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Sec
 <br/><br/><br/><br/>
 
 ### [CompTIA Linux+ (xk0-005) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-linux-xk0-005-exam-objectives-(1-0))
-[<img src='images/CompTIA_Linux+.png' height="200" align="left">](https://www.dropbox.com/scl/fi/8funau5rvi72h9ne5zvm5/CompTIA_Linux.pdf?rlkey=2j4t902ewd6k9b876zy7b28ba&dl=0)
+[<img src='images/CompTIA_Linux+.png' height="240" align="left">](https://www.dropbox.com/scl/fi/8funau5rvi72h9ne5zvm5/CompTIA_Linux.pdf?rlkey=2j4t902ewd6k9b876zy7b28ba&dl=0)
 ### Domains
 <li><img src="https://placehold.co/15x15/008080/008080.png"> <b><code>1.0</code> System Management</b></li>
 <li><img src="https://placehold.co/15x15/4DC4FF/4DC4FF.png"> <b><code>2.0</code> Security</b></li>
