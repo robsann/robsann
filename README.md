@@ -5,7 +5,7 @@ I'm a self-taught Cyber Security learner interested in Cyber Defense topics such
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
-# [Learning Paths & Courses Credentials](https://github.com/robsann/robsann/blob/main/courses.md)
+# Learning Paths & Courses Credentials
 I've been using Linkedin Learning to learn Cyber Security topics and tools and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also used DataCamp to learn Python and Data Analysis.
 
 <div align="center">
@@ -60,6 +60,7 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
 - A custom table (`FAILED_RDP_WITH_GEO_CL`) was created in Log Analytics Workspace on Microsoft Azure using the generated log file (`failed_rdp.log`). Custom fields were extracted from the table using a Kusto Query Language (KQL) query.
 - A workbook was created in Microsoft Sentinel using KQL to query data from the `FAILED_RDP_WITH_GEO_CL` table to display global attackers (RDP login failure) on the world map according to physical location and magnitude (attack count).
 
+<!-- 
 ## Pentesting & Network Security with Snort (IDS/IPS) - Under Development
 - Network IDS/IPS setup using Snort in Ubuntu.
 - NMAP scan detection using Snort (NIDS):
@@ -68,7 +69,8 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
     - SQL injection attacks using WPSCan & WordPress and Burp Suite & SQLmap.
     - Backdoor attacks using Empire and Katana.
     - Rogue DHCP & Rogue Routing attacks.
-    - ICMP Redirect attack.
+    - ICMP Redirect attack. 
+-->
 
 </div>
 
@@ -77,27 +79,27 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
 
 I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Security+, and CySA+ Certification Exam Objectives.
 
-### CompTIA A+ Core 2 (220-1102) Objectives
-[<img src="images/CompTIA_Linux+.png" height="200" align="left">](https://www.dropbox.com/scl/fi/4cqc1tu2tmd32ubldocbu/CompTIA_A-_Core_2.pdf?rlkey=1y02wpr5ncjl1h4sykwn0mxrt&dl=0)
-
+### [CompTIA A+ Core 2 (220-1102) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
+[<img src="images/CompTIA_Linux+.png" height="240" align="left">](https://www.dropbox.com/scl/fi/4cqc1tu2tmd32ubldocbu/CompTIA_A-_Core_2.pdf?rlkey=1y02wpr5ncjl1h4sykwn0mxrt&dl=0)
+### Domains
 <li><img src="https://placehold.co/15x15/008000/008000.png"> <b><code>1.0</code> Operating Systems</b></li>
 <li><img src="https://placehold.co/15x15/4DC4FF/4DC4FF.png"> <b><code>2.0</code> Security</b></li>
 <li><img src="https://placehold.co/15x15/808000/808000.png"> <b><code>3.0</code> Software Troubleshooting</b>b></li>
 <li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>4.0</code> Operational Procedures</b>b></li>
 <br/><br/><br/><br/>
 
-### CompTIA Linux+ (xk0-005) Objectives
+### [CompTIA Linux+ (xk0-005) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-linux-xk0-005-exam-objectives-(1-0))
 [<img src='images/CompTIA_Linux+.png' height="200" align="left">](https://www.dropbox.com/scl/fi/8funau5rvi72h9ne5zvm5/CompTIA_Linux.pdf?rlkey=2j4t902ewd6k9b876zy7b28ba&dl=0)
-
+### Domains
 <li><img src="https://placehold.co/15x15/008080/008080.png"> <b><code>1.0</code> System Management</b></li>
 <li><img src="https://placehold.co/15x15/4DC4FF/4DC4FF.png"> <b><code>2.0</code> Security</b></li>
 <li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>3.0</code> Scripting, Containers, and Automation</b></li>
 <li><img src="https://placehold.co/15x15/800000/800000.png"> <b><code>4.0</code> Troubleshooting</b></li>
 <br/><br/><br/><br/>
 
-### CompTIA Network+ (n10-008) Objectives
-[<img src='images/CompTIA_Network+.png' height="200" align="left">](https://www.dropbox.com/scl/fi/xuggqvd535as3w7sv5s62/CompTIA_Network.pdf?rlkey=aric5caa3qlsyu1yj03kzo2mc&dl=0)
-
+### [CompTIA Network+ (n10-008) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
+[<img src='images/CompTIA_Network+.png' height="240" align="left">](https://www.dropbox.com/scl/fi/xuggqvd535as3w7sv5s62/CompTIA_Network.pdf?rlkey=aric5caa3qlsyu1yj03kzo2mc&dl=0)
+### Domains
 <li><img src="https://placehold.co/15x15/008080/008080.png"> <b><code>1.0</code> Networking Fundamentals</b></li>
 <li><img src="https://placehold.co/15x15/EB5F52/EB5F52.png"> <b><code>2.0</code> Network Implementations</b></li>
 <li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>3.0</code> Network Operations</b></li>
@@ -105,9 +107,9 @@ I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Sec
 <li><img src="https://placehold.co/15x15/008000/008000.png"> <b><code>5.0</code> Network Troubleshooting</b></li>
 <br/><br/><br/>
 
-### CompTIA Security+ (SY0-501) Objectives
-[<img src='images/CompTIA_Security+.png' height="200" align="left">](https://www.dropbox.com/scl/fi/qilh1hgkhocyc1dnwdiyr/CompTIA_Security.pdf?rlkey=w7mvad8dq30yn8urj8yu8fvv3&dl=0)
-
+### [CompTIA Security+ (SY0-501) Objectives](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
+[<img src='images/CompTIA_Security+.png' height="240" align="left">](https://www.dropbox.com/scl/fi/qilh1hgkhocyc1dnwdiyr/CompTIA_Security.pdf?rlkey=w7mvad8dq30yn8urj8yu8fvv3&dl=0)
+### Domains
 <li><img src="https://placehold.co/15x15/EB5F52/EB5F52.png"> <b><code>1.0</code> Threats, Attacks and Vulnerabilities</b></li>
 <li><img src="https://placehold.co/15x15/4DC4FF/4DC4FF.png"> <b><code>2.0</code> Technologies and Tools</b></li>
 <li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>3.0</code> Architecture and Design</b></li>
@@ -116,9 +118,9 @@ I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Sec
 <li><img src="https://placehold.co/15x15/FDD353/FDD353.png"> <b><code>6.0</code> Cryptography and PKI</b></li>
 <br/><br/>
 
-### CompTIA Cybersecurity Analyst (CySA+) (CS0-003) Objectives
-[<img src='images/CompTIA_CySA+.png' height="200" align="left">](https://www.dropbox.com/scl/fi/o8lbre40j5b7ie9x3d94o/CompTIA_CySA.pdf?rlkey=c3yx5fjwo50lg3avhj9o02e7f&dl=0)
-
+### [CompTIA Cybersecurity Analyst (CySA+) (CS0-003) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-cysa-cs0-003-exam-objectives-2-0.pdf)
+[<img src='images/CompTIA_CySA+.png' height="240" align="left">](https://www.dropbox.com/scl/fi/o8lbre40j5b7ie9x3d94o/CompTIA_CySA.pdf?rlkey=c3yx5fjwo50lg3avhj9o02e7f&dl=0)
+### Domains
 <li><img src="https://placehold.co/15x15/4DC4FF/4DC4FF.png"> <b><code style="background-color : #4DC4FF">1.0</code> Security Operations</b></li>
 <li><img src="https://placehold.co/15x15/008080/008080.png"> <b><code style="background-color : #008080">2.0</code> Vulnerability Management</b></li>
 <li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code style="background-color : #800080">3.0</code> Incident Response and Management</b></li>
