@@ -28,7 +28,7 @@ I've been using Linkedin Learning to learn Cyber Security topics and tools and T
 
 ---
 
-# Cyber Security Homelabs
+# Cyber Security Projects/Homelabs
 I've been exploring some homelabs described in Youtube channels and blogs and plan to build new ones at some point.
 
 ## Threat Hunting with Elastic Stack 8 (XDR) - [GitHub repository](https://github.com/robsann/ElasticStackLab)
