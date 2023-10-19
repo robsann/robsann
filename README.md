@@ -80,12 +80,12 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
 I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Security+, and CySA+ Certification Exam Objectives.
 
 ### [CompTIA A+ Core 2 (220-1102) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
-[<img src="images/CompTIA_Linux+.png" height="240" align="left">](https://www.dropbox.com/scl/fi/4cqc1tu2tmd32ubldocbu/CompTIA_A-_Core_2.pdf?rlkey=1y02wpr5ncjl1h4sykwn0mxrt&dl=0)
+[<img src="images/CompTIA_A+_Core_2_Legal.png" height="240" align="left">](https://www.dropbox.com/scl/fi/uv0l09lze1628ddfieiw1/CompTIA_A-_Core_2_Legal.pdf?rlkey=irlacb52g04g3fsq3mtzylmzm&dl=0)
 ### Domains
-<li><img src="https://placehold.co/15x15/008000/008000.png"> <b><code>1.0</code> Operating Systems</b></li>
-<li><img src="https://placehold.co/15x15/4DC4FF/4DC4FF.png"> <b><code>2.0</code> Security</b></li>
-<li><img src="https://placehold.co/15x15/808000/808000.png"> <b><code>3.0</code> Software Troubleshooting</b>b></li>
-<li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>4.0</code> Operational Procedures</b>b></li>
+<li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>1.0</code> Operating Systems</b></li>
+<li><img src="https://placehold.co/15x15/f36c23/f36c23.png"> <b><code>2.0</code> Security</b></li>
+<li><img src="https://placehold.co/15x15/0090ba/0090ba.png"> <b><code>3.0</code> Software Troubleshooting</b>b></li>
+<li><img src="https://placehold.co/15x15/00ae4f/00ae4f.png"> <b><code>4.0</code> Operational Procedures</b>b></li>
 <br/><br/><br/><br/>
 
 ### [CompTIA Linux+ (xk0-005) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-linux-xk0-005-exam-objectives-(1-0))
