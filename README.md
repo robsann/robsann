@@ -16,8 +16,8 @@ I've been using Linkedin Learning to learn Cyber Security topics and tools and T
 |-----------------------------|----------------------------|---------------------------|
 | 25 Learning Paths Completed | 8 Learning Paths Completed | 2 Career Tracks Completed |
 | 200 Courses Completed       | 30 Modules Completed       | 1 Skill Track Completed   |
-| -                           | 172 Rooms Completed        | 3 Projects Completed      |
-| -                           | -                          | 35 Courses Completed      |
+|                             | 172 Rooms Completed        | 3 Projects Completed      |
+|                             |                            | 35 Courses Completed      |
 | 374+ hours of learning      | 370+ hours of learning     | 140+ hours of learning    |
 
 (Completed learning paths and courses with duration time estimated by the platforms)
