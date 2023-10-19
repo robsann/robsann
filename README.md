@@ -121,10 +121,10 @@ I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Sec
 ### [CompTIA Cybersecurity Analyst (CySA+) (CS0-003) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-cysa-cs0-003-exam-objectives-2-0.pdf)
 [<img src='images/CompTIA_CySA+.png' height="240" align="left">](https://www.dropbox.com/scl/fi/o8lbre40j5b7ie9x3d94o/CompTIA_CySA.pdf?rlkey=c3yx5fjwo50lg3avhj9o02e7f&dl=0)
 ### Domains
-<li><img src="https://placehold.co/15x15/6e2a8d/6e2a8d.png"> <b><code style="background-color : #4DC4FF">1.0</code> Security Operations</b></li>
-<li><img src="https://placehold.co/15x15/f36c23/f36c23.png"> <b><code style="background-color : #008080">2.0</code> Vulnerability Management</b></li>
-<li><img src="https://placehold.co/15x15/0090ba/0090ba.png"> <b><code style="background-color : #800080">3.0</code> Incident Response and Management</b></li>
-<li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code style="background-color : #800000">4.0</code> Reporting and Communication</b></li>
+<li><img src="https://placehold.co/15x15/6e2a8d/6e2a8d.png"> <b><code>1.0</code> Security Operations</b></li>
+<li><img src="https://placehold.co/15x15/f36c23/f36c23.png"> <b><code>2.0</code> Vulnerability Management</b></li>
+<li><img src="https://placehold.co/15x15/0090ba/0090ba.png"> <b><code>3.0</code> Incident Response and Management</b></li>
+<li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code>4.0</code> Reporting and Communication</b></li>
 <br/><br/><br/><br/>
 
 
