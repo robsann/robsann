@@ -82,7 +82,7 @@ I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Sec
 ### [CompTIA A+ Core 2 (220-1102) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
 [<img src="images/CompTIA_A+_Core_2_Legal.png" height="240" align="left">](https://www.dropbox.com/scl/fi/uv0l09lze1628ddfieiw1/CompTIA_A-_Core_2_Legal.pdf?rlkey=irlacb52g04g3fsq3mtzylmzm&dl=0)
 ### Domains
-<li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>1.0</code> Operating Systems</b></li>
+<li><img src="https://placehold.co/15x15/91d572/91d572.png"> <b><code>1.0</code> Operating Systems</b></li>
 <li><img src="https://placehold.co/15x15/f36c23/f36c23.png"> <b><code>2.0</code> Security</b></li>
 <li><img src="https://placehold.co/15x15/0090ba/0090ba.png"> <b><code>3.0</code> Software Troubleshooting</b>b></li>
 <li><img src="https://placehold.co/15x15/00ae4f/00ae4f.png"> <b><code>4.0</code> Operational Procedures</b>b></li>
@@ -91,10 +91,10 @@ I created some maps to give an overview of the CompTIA A+, Linux+, Network+, Sec
 ### [CompTIA Linux+ (xk0-005) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-linux-xk0-005-exam-objectives-(1-0))
 [<img src='images/CompTIA_Linux+.png' height="240" align="left">](https://www.dropbox.com/scl/fi/8funau5rvi72h9ne5zvm5/CompTIA_Linux.pdf?rlkey=2j4t902ewd6k9b876zy7b28ba&dl=0)
 ### Domains
-<li><img src="https://placehold.co/15x15/008080/008080.png"> <b><code>1.0</code> System Management</b></li>
-<li><img src="https://placehold.co/15x15/4DC4FF/4DC4FF.png"> <b><code>2.0</code> Security</b></li>
-<li><img src="https://placehold.co/15x15/800080/800080.png"> <b><code>3.0</code> Scripting, Containers, and Automation</b></li>
-<li><img src="https://placehold.co/15x15/800000/800000.png"> <b><code>4.0</code> Troubleshooting</b></li>
+<li><img src="https://placehold.co/15x15/91d572/91d572.png"> <b><code>1.0</code> System Management</b></li>
+<li><img src="https://placehold.co/15x15/0c93dc/0c93dc.png"> <b><code>2.0</code> Security</b></li>
+<li><img src="https://placehold.co/15x15/ff6f45/ff6f45.png"> <b><code>3.0</code> Scripting, Containers, and Automation</b></li>
+<li><img src="https://placehold.co/15x15/a05aee/a05aee.png"> <b><code>4.0</code> Troubleshooting</b></li>
 <br/><br/><br/><br/>
 
 ### [CompTIA Network+ (n10-008) Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
