@@ -80,20 +80,7 @@
 10. **Governance, Risk, and Compliance**
 11. **Audio Review**
 
-### [6 - Prepare for the CompTIA PenTest+ (PT0-001) Exam](https://www.linkedin.com/learning/certificates/0b3426d44e88a5a9bbf974bb31ae0e36fcc9158cc1ea4396eec2c0e9247edf95?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h35m)
-1. **Planning and Scoping**
-2. **Survey the Target**
-3. **Select Your Attacks**
-4. **Select Your Attacks (II)**
-5. **Selecting Pen Testing Tools**
-6. **Using Scripting in Pen Testing**
-
-### [7 - Prepare for the CompTIA Cloud+ (CV0-002) Exam](https://www.linkedin.com/learning/certificates/19f7bbfc0255e380c8d378e79aff0e20cd26c6a14bcfbe0f5f60df742982d4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h14m)
-1. **Introduction to the Cloud and System Requirements**
-2. **Storage, Compute, Networking, and Security**
-3. **Migrating, Maintaining, and Troubleshooting**
-
-### [8 - Prepare for the CompTIA Cybersecurity Analyst (CySA+) (CS0-002) Exam](https://www.linkedin.com/learning/certificates/d570c35e140d2846a7daadba55f4e3a2a4958b5ee6a6ec8c89807796011a3f14?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (18h42m)
+### [6 - Prepare for the CompTIA Cybersecurity Analyst (CySA+) (CS0-002) Exam](https://www.linkedin.com/learning/certificates/d570c35e140d2846a7daadba55f4e3a2a4958b5ee6a6ec8c89807796011a3f14?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (18h42m)
 1. **Threat Management**
 2. **Vulnerability Management**
 3. **Identity and Access Management**
@@ -101,6 +88,19 @@
 5. **Security Operations and Monitoring**
 6. **Incident Response**
 7. **Compliance and Assessment**
+
+### [7 - Prepare for the CompTIA PenTest+ (PT0-001) Exam](https://www.linkedin.com/learning/certificates/0b3426d44e88a5a9bbf974bb31ae0e36fcc9158cc1ea4396eec2c0e9247edf95?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h35m)
+1. **Planning and Scoping**
+2. **Survey the Target**
+3. **Select Your Attacks**
+4. **Select Your Attacks (II)**
+5. **Selecting Pen Testing Tools**
+6. **Using Scripting in Pen Testing**
+
+### [8 - Prepare for the CompTIA Cloud+ (CV0-002) Exam](https://www.linkedin.com/learning/certificates/19f7bbfc0255e380c8d378e79aff0e20cd26c6a14bcfbe0f5f60df742982d4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h14m)
+1. **Introduction to the Cloud and System Requirements**
+2. **Storage, Compute, Networking, and Security**
+3. **Migrating, Maintaining, and Troubleshooting**
 
 ### [9 - Prepare for the CompTIA Advanced Security Practitioner (CASP+) (CAS-004) Exam](https://www.linkedin.com/learning/certificates/1e12447efe2c6f54dc0c184426cd43177f683167c06848e7ce42123f3bef453d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (28h46m)
 1. **Security Architecture**
