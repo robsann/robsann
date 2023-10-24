@@ -108,7 +108,14 @@
 3. **Security Engineering and Cryptography**
 4. **Governance, Risk, and Compliance**
 
-### [10 - Become an IT Security Specialist](https://www.linkedin.com/learning/certificates/a1f31627fddefa1d45b975883580e67c7d92affc920d7c6e6c82346f50245f1c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (20h7m)
+### [10 - Become a Cybersecurity Professional](https://www.linkedin.com/learning/certificates/8c945450d841fadc5b9205aa0dd4a4d104cbbf11af38f3d65aa40222be5381ed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (6h28m)
+1. **Cybersecurity Foundations**
+2. **The Cybersecurity Threat Landscape**
+3. **Learning the OWASP Top 10**
+4. **Cybersecurity Careers and Certifications**
+5. **Land Your First Cybersecurity Job**
+
+### [11 - Become an IT Security Specialist](https://www.linkedin.com/learning/certificates/a1f31627fddefa1d45b975883580e67c7d92affc920d7c6e6c82346f50245f1c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (20h7m)
 1. **IT Security Foundations: Core Concepts**
 2. **Cybersecurity Foundations**
 3. **IT Security Foundations: Operating System Security**
@@ -121,13 +128,6 @@
 10. **Artificial Intelligence for Cybersecurity**
 11. **Ethics in Information Security**
 12. **Soft Skills for Information Security Professionals**
-
-### [11 - Become a Cybersecurity Professional](https://www.linkedin.com/learning/certificates/8c945450d841fadc5b9205aa0dd4a4d104cbbf11af38f3d65aa40222be5381ed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (6h28m)
-1. **Cybersecurity Foundations**
-2. **The Cybersecurity Threat Landscape**
-3. **Learning the OWASP Top 10**
-4. **Cybersecurity Careers and Certifications**
-5. **Land Your First Cybersecurity Job**
 
 ### [12 - CyberSec First Responder (CFR-310)](https://www.linkedin.com/learning/certificates/6aa3c9de05e7be24848dc006b5752afbb26bc81c25d2fc46d2c32c2f8c99a74d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BdwcJYNRmTQ6beUgVL4TjNw%3D%3D) (13h16m)
 1. **Threats and Attacks**
@@ -172,7 +172,16 @@
 5. **Ethical Hacking: Vulnerability Analysis**
 6. **Vulnerability Management: Assessing the Risks with CVSS v3.1**
 
-### [17 - Master the OWASP Top 10](https://www.linkedin.com/learning/certificates/de4f8df3aff0e940c22cbe9138d8470ec21a977d1c3fe121a234b7c69dafd3ce?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (3h9m)
+### [17 - Explore a Career in Application Security](https://www.linkedin.com/learning/certificates/acf2822ac1322082548d581b9e7300e688f74fc03a0941ab4798faa815946201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BErq61CJZRpm8IqcdA7h2Iw%3D%3D) (16h20m)
+1. **Software Development Life Cycle (SDLC)**
+2. **Penetration Testing Essential Training**
+3. **Learning the OWASP Top 10**
+4. **Security Testing Essential Training**
+5. **Dynamic Application Security Testing**
+6. **Static Application Security Testing (SAST) (2019)**
+7. **Soft Skills for Information Security Professionals**
+
+### [18 - Master the OWASP Top 10](https://www.linkedin.com/learning/certificates/de4f8df3aff0e940c22cbe9138d8470ec21a977d1c3fe121a234b7c69dafd3ce?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (3h9m)
 1. **Learning the OWASP Top 10 (2018)**
 2. **OWASP Top 10: #1 Injection and #2 Broken Authentication**
 3. **OWASP Top 10: #3 Sensitive Data Exposure and #4 External Entities (XXE) (2019)**
@@ -180,14 +189,14 @@
 5. **OWASP Top 10: #7 XSS and #8 Insecure Deserialization**
 6. **OWASP Top 10: #9 Components with Known Vulnerabilities and #10 Insufficient Logging and Monitoring**
 
-### [18 - Get Ahead in DevSecOps](https://www.linkedin.com/learning/certificates/b863d094f52624fe264813f65f98bffbeec1b138f4f5109886c5f034b51ac083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (5h57m)
+### [19 - Get Ahead in DevSecOps](https://www.linkedin.com/learning/certificates/b863d094f52624fe264813f65f98bffbeec1b138f4f5109886c5f034b51ac083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (5h57m)
 1. **DevOps Foundations: DevSecOps**
 2. **DevSecOps: Automated Security Testing**
 3. **DevSecOps: Building a Secure Continuous Delivery Pipeline**
 4. **Application Security in DevSecOps**
 5. **DevSecOps: Tips for Success**
 
-### [19 - Become an Ethical Hacker](https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (30h16m)
+### [20 - Become an Ethical Hacker](https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (30h16m)
 1. **Introduction to Ethical Hacking**
 2. **Footprinting and Reconnaissance**
 3. **Scanning Networks**
@@ -208,7 +217,7 @@
 18. **Cloud Computing**
 19. **SQL Injection**
 
-### [20 - Become a Penetration Tester](https://www.linkedin.com/learning/certificates/bee0b067d52836dfef901bde0e95bf2378c5e5aff3781964e938a54fb77ba659?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (12h50m)
+### [21 - Become a Penetration Tester](https://www.linkedin.com/learning/certificates/bee0b067d52836dfef901bde0e95bf2378c5e5aff3781964e938a54fb77ba659?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (12h50m)
 1. **Cybersecurity Careers: Become a Penetration Tester**
 2. **Learning Penetration Testing**
 3. **Penetration Testing Essential Training**
@@ -217,15 +226,6 @@
 6. **Penetration Testing Active Directory**
 7. **Burp Suite Essential Training**
 8. **Advanced Techniques for Ethical Hacking**
-
-### [21 - Explore a Career in Application Security](https://www.linkedin.com/learning/certificates/acf2822ac1322082548d581b9e7300e688f74fc03a0941ab4798faa815946201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BErq61CJZRpm8IqcdA7h2Iw%3D%3D) (16h20m)
-1. **Software Development Life Cycle (SDLC)**
-2. **Penetration Testing Essential Training**
-3. **Learning the OWASP Top 10**
-4. **Security Testing Essential Training**
-5. **Dynamic Application Security Testing**
-6. **Static Application Security Testing (SAST) (2019)**
-7. **Soft Skills for Information Security Professionals**
 
 ### [22 - Advance Your Data Privacy Skills](https://www.linkedin.com/learning/certificates/ecc42d1738ebbc784df460addad992feab6461129dd9379cffd1fc15bac08a41?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (4h9m)
 1. **Understanding and Prioritizing Data Privacy**
