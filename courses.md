@@ -450,7 +450,7 @@
 
 # DataCamp
 ## Career Tracks
-### [Data Analyst with PythonData Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/6f6925c3d15bd2a2aff4360046df0fc0ae8d4d06) (66h)
+### [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/6f6925c3d15bd2a2aff4360046df0fc0ae8d4d06) (66h)
 ### [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/a5707ea2d47900454be8029f0d7581e13f67e068) (63h)
 
 ## Skill Tracks
