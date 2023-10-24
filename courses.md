@@ -38,31 +38,7 @@
 7. **Portable Computing**
 8. **Security and Organization**
 
-### [3 - Prepare for the CompTIA Network+ (N10-008) Exam](https://www.linkedin.com/learning/certificates/2061447662389771c0a8a631508ff913d362c3f95ecef54e7affb80eda1301d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (21h39m)
-1. **Understanding Networks**
-2. **The Physical Network**
-3. **The World of TCP/IP**
-4. **Making TCP/IP Work**
-5. **Securing TCP/IP**
-6. **Advanced IP Networking**
-7. **Wireless, Virtual, Cloud, and Data Center Networking**
-8. **Network Integration and Operation**
-9. **Network Security and Monitoring**
-
-### [4 - Prepare for the CompTIA Security+ (SY0-601) Exam](https://www.linkedin.com/learning/certificates/89dcfd1c270f15e0506c9afc0a2a0db21572f214b586a356d3784de99dbe2108?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (23h45m)
-1. **Threats, Attacks, and Vulnerabilities**
-2. **Secure Code Design and Implementation**
-3. **Cryptography Design and Implementation**
-4. **Identity and Access Management Design and Implementation**
-5. **Physical Security Design and Implementation**
-6. **Cloud Security Design and Implementation**
-7. **Endpoint Security Design and Implementation**
-8. **Network Security Design and Implementation**
-9. **Operations and Incident Response**
-10. **Governance, Risk, and Compliance**
-11. **Audio Review**
-
-### [5 - Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h19m)
+### [3 - Cert Prep: CompTIA Linux+ (XK0-004)](https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (9h19m)
 1. **System Hardware**
 2. **Disk Systems**
 3. **Manage Users and Software**
@@ -79,6 +55,30 @@
 14. **Version Control**
 15. **Automation and Scripting**
 16. **System Orchestration**
+
+### [4 - Prepare for the CompTIA Network+ (N10-008) Exam](https://www.linkedin.com/learning/certificates/2061447662389771c0a8a631508ff913d362c3f95ecef54e7affb80eda1301d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (21h39m)
+1. **Understanding Networks**
+2. **The Physical Network**
+3. **The World of TCP/IP**
+4. **Making TCP/IP Work**
+5. **Securing TCP/IP**
+6. **Advanced IP Networking**
+7. **Wireless, Virtual, Cloud, and Data Center Networking**
+8. **Network Integration and Operation**
+9. **Network Security and Monitoring**
+
+### [5 - Prepare for the CompTIA Security+ (SY0-601) Exam](https://www.linkedin.com/learning/certificates/89dcfd1c270f15e0506c9afc0a2a0db21572f214b586a356d3784de99dbe2108?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (23h45m)
+1. **Threats, Attacks, and Vulnerabilities**
+2. **Secure Code Design and Implementation**
+3. **Cryptography Design and Implementation**
+4. **Identity and Access Management Design and Implementation**
+5. **Physical Security Design and Implementation**
+6. **Cloud Security Design and Implementation**
+7. **Endpoint Security Design and Implementation**
+8. **Network Security Design and Implementation**
+9. **Operations and Incident Response**
+10. **Governance, Risk, and Compliance**
+11. **Audio Review**
 
 ### [6 - Prepare for the CompTIA PenTest+ (PT0-001) Exam](https://www.linkedin.com/learning/certificates/0b3426d44e88a5a9bbf974bb31ae0e36fcc9158cc1ea4396eec2c0e9247edf95?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (10h35m)
 1. **Planning and Scoping**
@@ -187,7 +187,7 @@
 4. **Application Security in DevSecOps**
 5. **DevSecOps: Tips for Success**
 
-### [19 - Become an Ethical HackerBecome an Ethical Hacker](https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (30h16m)
+### [19 - Become an Ethical Hacker](https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D) (30h16m)
 1. **Introduction to Ethical Hacking**
 2. **Footprinting and Reconnaissance**
 3. **Scanning Networks**
