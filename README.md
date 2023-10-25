@@ -112,7 +112,7 @@ I'm creating some materials about the foundations of IT such as sysadmin and net
 <li><img src="https://placehold.co/15x15/004e72/004e72.png"> <b><code>5.0</code> Network Troubleshooting</b></li>
 <br/>
 
-# Cyber Security
+## Cyber Security
 
 ### CompTIA Security+ (SY0-501) Objectives - [CompTIA link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 [<img src='images/CompTIA_Security+_Legal.png' height="240" width="140" align="left">](https://www.dropbox.com/scl/fi/v0dp6408dvzowwupmh0o8/CompTIA_Security-_Legal.pdf?rlkey=bb0h1xnubn41qvq0obi5m08sk&dl=0)
@@ -134,7 +134,7 @@ I'm creating some materials about the foundations of IT such as sysadmin and net
 <li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code>4.0</code> Reporting and Communication</b></li>
 <br/>
 
-## Cyber Security Domains Mind Map from 2017
+### Cyber Security Domains Mind Map from 2017
 <img src='images/Cybersecurity_Mind_Map.png' align="center">
 
 
