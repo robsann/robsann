@@ -76,9 +76,11 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
 
 ---
 
-# CompTIA Certification Exam Objectives Maps
+# Foundation of IT and Cyber Security
 
-I created some maps to overview the contents of the CompTIA A+, Linux+, Network+, Security+, and CySA+ Certification Exam Objectives. Click on the maps to see them in PDF on Dropbox.
+I'm creating some materials about the foundations of IT such as sysadmin and networking and the foundations of cyber security. I started by creating some maps to overview the contents of the CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+ Certification Exam Objectives (click on the maps to see them in PDF on Dropbox).
+
+## System Administration
 
 ### CompTIA A+ Core 2 (220-1102) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
 [<img src="images/CompTIA_A+_Core_2_Legal.png" height="180" width="140" align="left">](https://www.dropbox.com/scl/fi/uv0l09lze1628ddfieiw1/CompTIA_A-_Core_2_Legal.pdf?rlkey=irlacb52g04g3fsq3mtzylmzm&dl=0)
@@ -98,6 +100,8 @@ I created some maps to overview the contents of the CompTIA A+, Linux+, Network+
 <li><img src="https://placehold.co/15x15/5fa511/5fa511.png"> <b><code>4.0</code> Troubleshooting</b></li>
 <br/>
 
+## Network Administration
+
 ### CompTIA Network+ (n10-008) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
 [<img src='images/CompTIA_Network+_Legal.png' height="210" width="140" align="left">](https://www.dropbox.com/scl/fi/9ahsruoiweigfj1qth5bp/CompTIA_Network-_Legal.pdf?rlkey=0kb5fz8d8s79ked4bzzpgeurv&dl=0)
 ### Exam Domains
@@ -107,6 +111,11 @@ I created some maps to overview the contents of the CompTIA A+, Linux+, Network+
 <li><img src="https://placehold.co/15x15/b5da17/b5da17.png"> <b><code>4.0</code> Network Security</b></li>
 <li><img src="https://placehold.co/15x15/004e72/004e72.png"> <b><code>5.0</code> Network Troubleshooting</b></li>
 <br/>
+
+# Cyber Security
+
+## Mind Map of Cyber Security Domains from 2017
+<img src='images/Cybersecurity_Mind_Map.png' align="center">
 
 ### CompTIA Security+ (SY0-501) Objectives - [CompTIA link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 [<img src='images/CompTIA_Security+_Legal.png' height="240" width="140" align="left">](https://www.dropbox.com/scl/fi/v0dp6408dvzowwupmh0o8/CompTIA_Security-_Legal.pdf?rlkey=bb0h1xnubn41qvq0obi5m08sk&dl=0)
