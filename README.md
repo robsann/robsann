@@ -114,9 +114,6 @@ I'm creating some materials about the foundations of IT such as sysadmin and net
 
 # Cyber Security
 
-## Mind Map of Cyber Security Domains from 2017
-<img src='images/Cybersecurity_Mind_Map.png' align="center">
-
 ### CompTIA Security+ (SY0-501) Objectives - [CompTIA link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 [<img src='images/CompTIA_Security+_Legal.png' height="240" width="140" align="left">](https://www.dropbox.com/scl/fi/v0dp6408dvzowwupmh0o8/CompTIA_Security-_Legal.pdf?rlkey=bb0h1xnubn41qvq0obi5m08sk&dl=0)
 ### Exam Domains
@@ -135,7 +132,11 @@ I'm creating some materials about the foundations of IT such as sysadmin and net
 <li><img src="https://placehold.co/15x15/f36c23/f36c23.png"> <b><code>2.0</code> Vulnerability Management</b></li>
 <li><img src="https://placehold.co/15x15/0090ba/0090ba.png"> <b><code>3.0</code> Incident Response and Management</b></li>
 <li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code>4.0</code> Reporting and Communication</b></li>
-<br/><br/>
+<br/>
+
+## Cyber Security Domains Mind Map from 2017
+<img src='images/Cybersecurity_Mind_Map.png' align="center">
+
 
 
 
