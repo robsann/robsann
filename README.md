@@ -76,7 +76,7 @@ I've been exploring some homelabs described in Youtube channels and blogs and pl
 
 ---
 
-# Foundation of IT and Cyber Security
+# Foundations of IT and Cyber Security
 
 I'm creating some materials about the foundations of IT such as sysadmin and networking and the foundations of cyber security. I started by creating some maps to overview the contents of the CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+ Certification Exam Objectives (click on the maps to see them in PDF on Dropbox).
 
