@@ -134,7 +134,7 @@ I'm creating some materials about the foundations of IT such as sysadmin and net
 <li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code>4.0</code> Reporting and Communication</b></li>
 <br/>
 
-### Cyber Security Domains Mind Map from 2017
+### Cyber Security Domains Mind Map from 2017 (credits to [MyDFIR](https://www.youtube.com/@MyDFIR))
 <img src='images/Cybersecurity_Mind_Map.png' align="center">
 
 
