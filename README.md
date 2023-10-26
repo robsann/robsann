@@ -5,7 +5,7 @@ I'm a self-taught Cyber Security learner interested in Cyber Defense topics such
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
-# Learning Paths & Courses Credentials
+# Learning Paths & Courses Certificates
 I've been using Linkedin Learning to learn Cyber Security topics and tools and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also used DataCamp to learn Python and Data Analysis.
 
 <div align="center">
