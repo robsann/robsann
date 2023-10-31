@@ -32,7 +32,7 @@ I've been using Linkedin Learning to learn Cyber Security topics and tools and T
 # Cyber Security Projects/Homelabs
 I've been exploring some homelabs described in Youtube channels and blogs in topics such as threat hunting (XDR), endpoint security (EDR), monitoring (SIEM), and network security (IDS/IPS)
 
-## Threat Hunting with Elastic Stack 8 (XDR) - [GitHub repository link](https://github.com/robsann/ElasticStackLab)
+## Threat Hunting with Elastic Stack 8 (XDR)
 - Configured in VirtualBox an Internal Network with:
     - DHCP Server
     - Ubuntu Server (Elastic Host)
@@ -44,7 +44,9 @@ I've been exploring some homelabs described in Youtube channels and blogs in top
     - EICAR Malware Test.
     - MITRE ATT&CK Test with Red Team Automation (RTA).
 
-## Detection & Response with LimaCharlie (EDR) - [GitHub repository link](https://github.com/robsann/LimaCharlieEDRTelemetry)
+**Source:** https://github.com/robsann/ElasticStackLab
+   
+## Detection & Response with LimaCharlie (EDR)
 - Configured in VirtualBox a NAT Network with:
     - DHCP Server and Host Gateway access.
     - Windows 11 (Target) with Windows Defender disabled, Sysmon and LimaCharlie sensor installed.
@@ -55,13 +57,17 @@ I've been exploring some homelabs described in Youtube channels and blogs in top
     - Volume shadow copies deletion using vssadmin Windows utility (used in ransomware attacks).
 - Detection and response rules were created in the LimaCharlie platform to detect the two previous attacks and take action. The rules were tested by repeating the attacks.
 
-## Attack Monitoring with Microsoft Sentinel (SIEM) - [GitHub repository link](https://github.com/robsann/AzureSentinelSIEMAttackMap)
+**Source:** https://github.com/robsann/LimaCharlieEDRTelemetry
+   
+## Attack Monitoring with Microsoft Sentinel (SIEM)
 - Microsoft Sentinel was used to monitor failed RDP login attempts from global attackers on an exposed Windows 10 virtual machine configured in Microsoft Azure.
 - A custom log file (`failed_rdp.log`) was generated using a PowerShell script that extracts failed login events from Security Log on Event Viewer and forwards them to a third-party API to get geolocation data.
 - A custom table (`FAILED_RDP_WITH_GEO_CL`) was created in Log Analytics Workspace on Microsoft Azure using the generated log file (`failed_rdp.log`). Custom fields were extracted from the table using a Kusto Query Language (KQL) query.
 - A workbook was created in Microsoft Sentinel using KQL to query data from the `FAILED_RDP_WITH_GEO_CL` table to display global attackers (RDP login failure) on the world map according to physical location and magnitude (attack count).
 
-## Network Security with Snort (IDS/IPS) - [GitHub repository link](https://github.com/robsann/NetworkSecurityWithSnort)
+**Source:** https://github.com/robsann/AzureSentinelSIEMAttackMap
+
+## Network Security with Snort (IDS/IPS)
 - Snort network IDS mode configuration in Ubuntu Server.
 - NMAP scan detection using Snort (NIDS):
     - NMAP Ping Scan, various TCP scans including SYN, Connect, NULL, FIN, and XMAS, as well as UDP Scans.
@@ -70,6 +76,8 @@ I've been exploring some homelabs described in Youtube channels and blogs in top
     - Backdoor attacks using Empire post-exploitation framework and Katana penetration test framework.
     - Rogue DHCP & Rogue Routing attacks.
     - ICMP Redirect attack.
+
+**Source:** https://github.com/robsann/NetworkSecurityWithSnort
 
 ---
 
