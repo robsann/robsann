@@ -300,11 +300,14 @@
     - Strings | Malware Reverse Engineering | Jigsaw Ransomware analysis with REMnux toolset
 
 ### [2 - CompTIA Pentest+](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png) (51h)
-1. **Industry standard penetration testing tools**
-2. **Identifying and exploiting different network services**
-3. **Exploiting web applications through today’s most common vulnerabilities**
-4. **Understanding Windows active directory and attacking Kerberos**
-5. **Post exploitation techniques (with Powerview, Bloodhound and Mimikatz)**
+1. **Planning and Scoping**
+    - Pentesting Fundamentals | Red Team Engagements | Governance & Regulation
+2. **Tools and Code Analysis**
+    - Metasploit | Wireshark | Burp Suite | Hydra | Python for Pentesters
+3. **Information Gathering and Vulnerability Scanning**
+    - Passive & Active Reconnaissance | Nmap: Live Host Discovery, Basic & Advanced Port Scans
+4. **Attacks and Exploits**
+    - HTTP | OWASP Top 10 & Juice Shop | Phishing | Windows Privilege Escalation | Windows Local Persistence | Active Directory Basics | Breaching Active Directory | Linux Privilege Escalation | Lateral Movement and Pivoting | Persisting Active Directory | Credentials Harvesting
 
 ### [3 - Offensive Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png) (47h)
 1. **Getting Started**
