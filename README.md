@@ -75,7 +75,7 @@ I've been exploring some homelabs described in Youtube channels and blogs in top
 
 # Cyber Security Fundamentals
 
-I'm creating some materials about the foundations of IT such as sysadmin and networking and the foundations of cyber security. I started by creating some maps to overview the contents of the CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+ Certification Exam Objectives (click on the maps to see them in PDF on Dropbox).
+I'm developing materials covering IT fundamentals like system administration and networking, as well as cyber security fundamentals. To start, I created visual maps to outline the content of certification exams including CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+ to start with. You can access these maps in PDF format on Dropbox by clicking on the images.
 
 ## System Administration
 
