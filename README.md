@@ -62,11 +62,11 @@ I've been exploring some homelabs described in Youtube channels and blogs in top
 - A workbook was created in Microsoft Sentinel using KQL to query data from the `FAILED_RDP_WITH_GEO_CL` table to display global attackers (RDP login failure) on the world map according to physical location and magnitude (attack count).
 
 ## Network Security with Snort (IDS/IPS) - [GitHub repository](https://github.com/robsann/NetworkSecurityWithSnort)
-- Network IDS/IPS setup using Snort in Ubuntu Server.
+- Snort network IDS mode configuration in Ubuntu Server.
 - NMAP scan detection using Snort (NIDS):
     - NMAP Ping Scan, various TCP scans including SYN, Connect, NULL, FIN, and XMAS, as well as UDP Scans.
 - Attack detection using Snort (NIDS):
-    - SQL injection attacks using tools like WPSCan & Wordpress and Burp Suite & SQLmap.
+    - SQL injection attacks using tools like WPSCan & WordPress and Burp Suite & SQLmap.
     - Backdoor attacks using Empire post-exploitation framework and Katana penetration test framework.
     - Rogue DHCP & Rogue Routing attacks.
     - ICMP Redirect attack.
