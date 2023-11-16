@@ -125,6 +125,8 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 <li><img src="https://placehold.co/15x15/004e72/004e72.png"> <b><code>5.0</code> Network Troubleshooting</b></li>
 <br/>
 
+**Professor Messer CompTIA Network+ (n10-008) course: [YouTube Link](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)**
+
 ## ➜ Cyber Security
 
 ### CompTIA Security+ (SY0-501) Objectives - [CompTIA link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
