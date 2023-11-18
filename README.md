@@ -85,7 +85,7 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 
 I'm developing educational materials covering IT fundamentals like system and network administration, as well as cyber security fundamentals. I started by creating visual maps to outline the content of various certification exams, including CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+. You can access these maps in PDF format on Dropbox by clicking on the images.
 
-## ➜ System Administration
+<h2 align="center">System Administration</h2>
 
 ### CompTIA A+ Core 2 (220-1102) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
 The CompTIA A+ Core 2 certification objectives cover advanced troubleshooting, operating systems, security, and software troubleshooting. It includes topics like hardware, networking, mobile devices, virtualization, and cloud computing. Candidates are tested on their ability to secure and manage various devices and technologies, ensuring comprehensive IT skills and knowledge. CompTIA A+ Core 2 demonstrates proficiency in essential IT areas.
@@ -113,9 +113,9 @@ The CompTIA Linux+ certification validates essential skills in Linux system admi
 <li><img src="https://placehold.co/15x15/5fa511/5fa511.png"> <b><code>4.0</code> Troubleshooting</b></li>
 <br/>
 
-Shawn Powers' CompTIA Linux+ (XK0-005) prep (in progress): [YouTube Link](https://www.youtube.com/watch?v=niPWk7tgD2Q&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&ab_channel=ShawnPowers)
+**Shawn Powers' CompTIA Linux+ (XK0-005) prep (in progress):** [YouTube Link](https://www.youtube.com/watch?v=niPWk7tgD2Q&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&ab_channel=ShawnPowers)
 
-## ➜ Network Administration
+<h2 align="center">Network Administration</h2>
 
 ### CompTIA Network+ (N10-008) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
 The CompTIA Network+ certification validates essential skills in networking, covering topics such as network architecture, security, troubleshooting, and cloud technologies. Candidates learn to design and implement functional networks, configure network devices, and manage network security protocols. The certification also emphasizes practical skills in areas like network installation, configuration, and diagnostics, ensuring proficiency in both wired and wireless networks. Overall, CompTIA Network+ certification demonstrates expertise in network administration.
@@ -131,7 +131,7 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 
 **Professor Messer CompTIA Network+ (N10-008) course: [YouTube Link](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)**
 
-## ➜ Cyber Security
+<h2 align="center">Cyber Security</h2>
 
 ### CompTIA Security+ (SY0-501) Objectives - [CompTIA link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 The CompTIA Security+ certification objectives cover essential topics in cybersecurity, including network security, threats and vulnerabilities, access control, identity management, cryptography, and risk management. It also emphasizes security compliance, incident response, and security architecture. Successfully mastering these objectives demonstrates proficiency in securing IT systems.
@@ -165,6 +165,9 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 
 <img src='images/Cybersecurity_Mind_Map.png' align="center">
 
+### Hands on Platforms
+- **LetsDefend:** Hands-on security operations training - https://letsdefend.io/
+- **TryHackMe:** Hands-on offensive and deffensive cyber security training - https://tryhackme.com/
 </div>
 
 
