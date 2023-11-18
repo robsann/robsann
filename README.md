@@ -84,6 +84,7 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 # IT and Cyber Security Fundamentals
 
 I'm developing educational materials covering IT fundamentals like system and network administration, as well as cyber security fundamentals. I started by creating visual maps to outline the content of various certification exams, including CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+. You can access these maps in PDF format on Dropbox by clicking on the images.
+<br><br>
 
 <h2 align="center">System Administration</h2>
 
@@ -114,6 +115,7 @@ The CompTIA Linux+ certification validates essential skills in Linux system admi
 <br/>
 
 **Shawn Powers' CompTIA Linux+ (XK0-005) prep (in progress):** [YouTube Link](https://www.youtube.com/watch?v=niPWk7tgD2Q&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&ab_channel=ShawnPowers)
+<br><br>
 
 <h2 align="center">Network Administration</h2>
 
@@ -130,6 +132,7 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 <br/>
 
 **Professor Messer CompTIA Network+ (N10-008) course: [YouTube Link](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)**
+<br><br>
 
 <h2 align="center">Cyber Security</h2>
 
