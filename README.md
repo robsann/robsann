@@ -169,9 +169,9 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 <img src='images/Cybersecurity_Mind_Map.png' align="center">
 
 ### Hands-on Platforms
+- **TryHackMe:** Hands-on offensive and deffensive cyber security training - https://tryhackme.com/
 - **LetsDefend:** Hands-on security operations training - https://letsdefend.io/
 - **CyberDefenders:** A blue team training platform - https://cyberdefenders.org/
-- **TryHackMe:** Hands-on offensive and deffensive cyber security training - https://tryhackme.com/
 </div>
 
 
