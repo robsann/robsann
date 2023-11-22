@@ -1,13 +1,13 @@
 <div align="justify">
     
 # Hi, I'm Robson!
-I have a keen interest in cyber security, with a specific focus on security operations encompassing network and endpoint security, traffic and log analysis, digital forensics, incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management. Leveraging my GitHub account, I curate homelabs to simulate diverse security operations scenarios. This platform serves as a repository for educational content covering system administration, network administration, and cyber security/security operations. Through these initiatives, I aim to contribute to the dissemination of cyber security knowledge.
+I've a keen interest in cyber security, with a specific focus on security operations encompassing network and endpoint security, traffic and log analysis, digital forensics, incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management. Leveraging my GitHub account, I curate homelabs to simulate diverse security operations scenarios. This platform serves as a repository for educational content covering system administration, network administration, and cyber security/security operations. Through these initiatives, I aim to contribute to the dissemination of cyber security knowledge.
 
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
 # Learning Paths & Courses Certificates
-I've been using LinkedIn Learning to learn Cyber Security topics and tools and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also used DataCamp to learn Python and Data Analysis.
+I'm actively engaged in developing my expertise in Cyber Security. I've used LinkedIn Learning to learn about Cyber Security topics and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also developed Python and Data Analysis skills using DataCamp.
 
 <div align="center">
 
