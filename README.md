@@ -174,7 +174,16 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 - **CyberDefenders:** A blue team training platform - https://cyberdefenders.org/
 </div>
 
+---
 
+<h1 align="center">Essentials of Cyber</h1>
+
+# DHCP
+The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
+
+<div align="center">
+<img src='images/DHCP.png'>
+</div>
 
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
