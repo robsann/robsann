@@ -180,7 +180,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 ---
 ---
 
-<h1 align="center">Essentials of Cyber</h1>
+<h1 align="center">Essential Concepts</h1>
 
 # OSI Model
 The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
