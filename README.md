@@ -184,7 +184,7 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 <div align="center">
 <img src='images/OSI_Model.png'>
 </div>
-
+<br>
 
 # DHCP
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
@@ -192,6 +192,8 @@ The Dynamic Host Configuration Protocol (DHCP) is a network management protocol 
 <div align="center">
 <img src='images/DHCP.png'>
 </div>
+<br>
+
 
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
