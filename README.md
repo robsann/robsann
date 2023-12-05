@@ -182,7 +182,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 
 <h1 align="center">Essentials of Cyber</h1>
 
-## OSI Model
+# OSI Model
 The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
 
 <div align="center">
@@ -190,7 +190,7 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 </div>
 <br>
 
-## DHCP
+# DHCP
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
 <div align="center">
