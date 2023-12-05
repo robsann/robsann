@@ -28,6 +28,7 @@ I'm actively engaged in developing my expertise in Cyber Security. I've used Lin
 </div>
 
 ---
+---
 
 # Cyber Security Projects/Homelabs
 I've been exploring some homelabs described in YouTube channels and blogs on topics such as threat hunting (XDR), endpoint security (EDR), monitoring (SIEM), and network security (IDS/IPS)
@@ -79,6 +80,7 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 
 **Source:** https://github.com/robsann/NetworkSecurityWithSnort
 
+---
 ---
 
 # IT and Cyber Security Fundamentals
@@ -174,6 +176,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 - **CyberDefenders:** A blue team training platform - https://cyberdefenders.org/
 </div>
 
+---
 ---
 
 <h1 align="center">Essentials of Cyber</h1>
