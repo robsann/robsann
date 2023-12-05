@@ -30,7 +30,8 @@ I'm actively engaged in developing my expertise in Cyber Security. I've used Lin
 ---
 ---
 
-# Cyber Security Projects/Homelabs
+<h1 align="center">Cyber Security Projects/Homelabs</h1>
+
 I've been exploring some homelabs described in YouTube channels and blogs on topics such as threat hunting (XDR), endpoint security (EDR), monitoring (SIEM), and network security (IDS/IPS)
 
 ## Threat Hunting with Elastic Stack 8 (XDR)
@@ -83,7 +84,7 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 ---
 ---
 
-# IT and Cyber Security Fundamentals
+<h1 align="center">IT and Cyber Security Fundamentals</h1>
 
 I'm developing educational materials covering IT fundamentals like system and network administration, as well as cyber security fundamentals. I started by creating visual maps to outline the content of various certification exams, including CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+. You can access these maps in PDF format on Dropbox by clicking on the images.
 <br><br>
@@ -181,7 +182,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 
 <h1 align="center">Essentials of Cyber</h1>
 
-# OSI Model
+## OSI Model
 The OSI Model (Open Systems Interconnection Model) is a conceptual framework used to describe the functions of a networking system. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
 
 <div align="center">
@@ -189,7 +190,7 @@ The OSI Model (Open Systems Interconnection Model) is a conceptual framework use
 </div>
 <br>
 
-# DHCP
+## DHCP
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
 <div align="center">
