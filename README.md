@@ -1,7 +1,7 @@
 <div align="justify">
     
 # Hi, I'm Robson!
-I've a keen interest in cyber security, with a specific focus on security operations encompassing network and endpoint security, traffic and log analysis, digital forensics, incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management. Leveraging my GitHub account, I curate homelabs to simulate diverse security operations scenarios. This platform serves as a repository for educational content covering system administration, network administration, and cyber security/security operations. Through these initiatives, I aim to contribute to the dissemination of cyber security knowledge.
+I have a keen interest in cyber security, with a specific focus on security operations encompassing network and endpoint security, traffic and log analysis, digital forensics, incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management. Leveraging my GitHub account, I curate homelabs to simulate diverse security operations scenarios. This platform serves as a repository for educational content covering system administration, network administration, and cyber security/security operations. Through these initiatives, I aim to contribute to the dissemination of cyber security knowledge.
 
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
@@ -172,9 +172,10 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 <img src='images/Cybersecurity_Mind_Map.png' align="center">
 
 ### Hands-on Platforms
-- **TryHackMe:** Hands-on offensive and defensive cyber security training - https://tryhackme.com/
-- **LetsDefend:** Hands-on security operations training - https://letsdefend.io/
-- **CyberDefenders:** A blue team training platform - https://cyberdefenders.org/
+- **[TryHackMe](https://tryhackme.com/):** Hands-on cyber security training with offensive and defensive paths.
+- **[HackTheBox](https://www.hackthebox.com/):** Hands-on cyber security training with offensive and defensive paths.
+- **[LetsDefend](https://letsdefend.io/):** Hands-on security operations training with SOC environment simulation.
+- **[CyberDefenders](https://cyberdefenders.org/):** A blue team training platform.
 </div>
 
 ---
