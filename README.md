@@ -199,6 +199,14 @@ The Dynamic Host Configuration Protocol (DHCP) is a network management protocol 
 </div>
 <br>
 
+# DNS
+The Domain Name System (DNS) is a naming database that translates human-readable domain names (e.g., www.example.com) to machine-readable IP addresses (e.g., 93.184.216.34) used for device communication. If the website is not cached, the DNS resolver will query Root Servers, Top-Level Domain (TLD) Servers, and Authoritative Nameservers to retrieve the IP address.
+
+<div align="center">
+<img src='images/DNS.png'>
+</div>
+<br>
+
 
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
