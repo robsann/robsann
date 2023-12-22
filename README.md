@@ -181,7 +181,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 ---
 ---
 
-<h1 align="center">Networking Concepts</h1>
+<h1 align="center">Networking Key Concepts (in progress)</h1>
 
 # OSI Model
 The Open Systems Interconnection (OSI) model is a conceptual framework used to describe how network communications work. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
