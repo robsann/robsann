@@ -1,7 +1,7 @@
 <div align="justify">
     
 # Hi, I'm Robson!
-I have a keen interest in cyber security, with a specific focus on security operations encompassing network and endpoint security, traffic and log analysis, digital forensics, incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management. Leveraging my GitHub account, I curate homelabs to simulate diverse security operations scenarios. This platform serves as a repository for educational content covering system administration, network administration, and cyber security/security operations. Through these initiatives, I aim to contribute to the dissemination of cyber security knowledge.
+I have a keen interest in cyber security, with a specific focus on security operations encompassing network and endpoint security, traffic and log analysis, digital forensics, incident response, threat hunting, threat intelligence, malware analysis, web applications security, and vulnerability management. Leveraging my GitHub account, I curate homelabs to simulate diverse security operations scenarios. This platform serves as a repository for educational content covering system administration, network administration, and cyber security, particularly security operations. Through these initiatives, I aim to contribute to the dissemination of cyber security knowledge.
 
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
