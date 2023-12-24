@@ -181,6 +181,22 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 ---
 ---
 
+<h1 align="center">SysAdmin Key Concepts (in progress)</h1>
+
+# Linux File System
+
+<div align="left">
+<img src='images/Linux_File_System.png' width="50%">
+</div>
+<br>
+
+# Linux File Permissions
+
+<div align="left">
+<img src='images/linux_file_permissions.png'>
+</div>
+<br>
+
 <h1 align="center">Networking Key Concepts (in progress)</h1>
 
 # OSI Model
