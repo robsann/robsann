@@ -199,6 +199,16 @@ Linux File Permissions dictate the access level of users (owner, group, and othe
 </div>
 <br>
 
+# Linux Common Files
+- **Configuration files (/etc/)** store system-wide settings, preferences, and configurations for various applications, facilitating centralized management.
+- **System Info files (/proc/)** provide a virtual file system exposing kernel and process information, allowing dynamic access to real-time system details and parameters.
+- **Log files (/var/log/)** store system and application logs, aiding in troubleshooting by capturing events, errors, and diagnostic information for analysis and monitoring.
+
+<div align="left">
+<img src='images/linux_files_and_logs.png' width="100%">
+</div>
+<br>
+
 <h1 align="center">Networking Key Concepts (in progress)</h1>
 
 # OSI Model
