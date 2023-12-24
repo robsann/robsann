@@ -181,9 +181,9 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 ---
 ---
 
-<h1 align="center">SysAdmin Key Concepts (in progress)</h1>
+<h1 align="center" style="color:blue;">SysAdmin Concepts</h1>
 
-# Linux File System
+# 💾 Linux File System
 The Linux File System is a hierarchical structure that organizes and stores files on a Linux system. It uses a tree-like directory structure, starting with the root directory ("/"), with directories and files arranged in a systematic manner to facilitate efficient file management and access.
 
 <div align="left">
@@ -191,7 +191,7 @@ The Linux File System is a hierarchical structure that organizes and stores file
 </div>
 <br>
 
-# Linux File Permissions
+# 💾 Linux File Permissions
 Linux File Permissions dictate the access level of users (owner, group, and others) to files and directories. They are represented by read, write, and execute permissions, providing control over file security and user interactions.
 
 <div align="left">
@@ -199,7 +199,7 @@ Linux File Permissions dictate the access level of users (owner, group, and othe
 </div>
 <br>
 
-# Linux Common Files
+# 💾 Linux Common Files
 - **Configuration files (/etc/)** store system-wide settings, preferences, and configurations for various applications, facilitating centralized management.
 - **System Info files (/proc/)** provide a virtual file system exposing kernel and process information, allowing dynamic access to real-time system details and parameters.
 - **Log files (/var/log/)** store system and application logs, aiding in troubleshooting by capturing events, errors, and diagnostic information for analysis and monitoring.
@@ -209,9 +209,9 @@ Linux File Permissions dictate the access level of users (owner, group, and othe
 </div>
 <br>
 
-<h1 align="center">Networking Key Concepts (in progress)</h1>
+<h1 align="center">Networking Concepts</h1>
 
-# OSI Model
+# 💾 OSI Model
 The Open Systems Interconnection (OSI) model is a conceptual framework used to describe how network communications work. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
 
 <div align="center">
@@ -219,7 +219,7 @@ The Open Systems Interconnection (OSI) model is a conceptual framework used to d
 </div>
 <br>
 
-# DHCP
+# 💾 DHCP
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
 <div align="center">
@@ -227,7 +227,7 @@ The Dynamic Host Configuration Protocol (DHCP) is a network management protocol 
 </div>
 <br>
 
-# DNS
+# 💾 DNS
 The Domain Name System (DNS) is a naming database that translates human-readable domain names (e.g., www.example.com) to machine-readable IP addresses (e.g., 93.184.216.34) used for device communication. If the website is not cached, the DNS resolver will query Root Servers, Top-Level Domain (TLD) Servers, and Authoritative Nameservers to retrieve the IP address.
 
 <div align="center">
