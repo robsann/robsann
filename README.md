@@ -184,6 +184,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 <h1 align="center">SysAdmin Key Concepts (in progress)</h1>
 
 # Linux File System
+The Linux File System is a hierarchical structure that organizes and stores files on a Linux system. It uses a tree-like directory structure, starting with the root directory ("/"), with directories and files arranged in a systematic manner to facilitate efficient file management and access.
 
 <div align="left">
 <img src='images/Linux_File_System.png' width="50%">
@@ -191,6 +192,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 <br>
 
 # Linux File Permissions
+Linux File Permissions dictate the access level of users (owner, group, and others) to files and directories. They are represented by read, write, and execute permissions, providing control over file security and user interactions.
 
 <div align="left">
 <img src='images/linux_file_permissions.png'>
