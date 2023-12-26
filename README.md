@@ -9,7 +9,7 @@ I have a keen interest in cyber security, with a focus on security operations in
 # Outline
 
 - [Courses Certificaes](https://github.com/robsann#courses-certificates)
-- [Cyber Security Homelabs](https://github.com/robsann#cyber-security-projectshomelabs)
+- [Cyber Security Homelabs](https://github.com/robsann#cyber-security-homelabs)
     - [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann#-threat-hunting-with-elastic-stack-8-xdr)
     - [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann#-detection--response-with-limacharlie-edr)
     - [Attack Monitoring with Microsoft Sentinel (SIEM)](https://github.com/robsann#-attack-monitoring-with-microsoft-sentinel-siem)
