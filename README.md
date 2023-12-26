@@ -261,11 +261,27 @@ The Domain Name System (DNS) is a naming database that translates human-readable
 
 <h1 align="center"><code>Cyber Security Concepts</code></h1>
 
-## 💾 CIA Triad
+## 💾 The CIA Triad
 The CIA Triad is a fundamental concept in information security, representing the core principles of **Confidentiality** (ensuring data privacy), **Integrity** (maintaining data accuracy and trustworthiness), and **Availability** (ensuring data accessibility). These principles guide security measures and strategies to protect information assets in various computing environments.
 
 <div align="center">
 <img src='images/cia_triad.png' width="75%">
+</div>
+<br>
+
+## 💾 The Cyber Kill Chain
+The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from initial reconnaissance to achieving the attacker's objectives, providing a structured approach for understanding, analyzing, and defending against advanced cyber threats.
+
+<div align="center">
+<img src='images/cyber_kill_chain.png' width="100%">
+</div>
+<br>
+
+## 💾 MITRE ATT&CK Matrix
+[MITRE ATT&CK](https://attack.mitre.org/) (Adversarial Tactics, Techniques, and Common Knowledge) is a knowledge base that catalogs and describes the tactics, techniques, and procedures used by cyber adversaries. It provides a comprehensive framework for understanding and analyzing the full spectrum of cyber threats, aiding organizations in improving their detection, defense, and response capabilities.
+
+<div align="center">
+<img src='images/mitre_att&ck.png' width="100%">
 </div>
 <br>
 
