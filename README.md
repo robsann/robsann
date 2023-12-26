@@ -6,7 +6,23 @@ I have a keen interest in cyber security, with a focus on security operations in
 # Badges & Skills
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
-# Learning Paths & Courses Certificates
+# Outline
+
+- [Courses Certificaes](https://github.com/robsann#courses-certificates)
+- [Cyber Security Homelabs](https://github.com/robsann#cyber-security-projectshomelabs)
+    - [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann#-threat-hunting-with-elastic-stack-8-xdr)
+    - [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann#-detection--response-with-limacharlie-edr)
+    - [Attack Monitoring with Microsoft Sentinel (SIEM)](https://github.com/robsann#-attack-monitoring-with-microsoft-sentinel-siem)
+    - [Network Security with Snort (IDS/IPS)](https://github.com/robsann#-network-security-with-snort-idsips)
+- [IT and Cyber Security Fundamentals](https://github.com/robsann#it-and-cyber-security-fundamentals)
+    - [System Administration](https://github.com/robsann#system-administration)
+    - [Network Administration](https://github.com/robsann#network-administration)
+    - [Cyber Security](https://github.com/robsann#cyber-security)
+- [SysAdmin Concepts](https://github.com/robsann#sysadmin-concepts)
+- [Networking Concepts](https://github.com/robsann#networking-concepts)
+- Cyber Security Concepts
+
+# Courses Certificates
 I'm actively engaged in developing my expertise in Cyber Security. I've used LinkedIn Learning to learn about Cyber Security topics and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also developed Python and Data Analysis skills using DataCamp.
 
 <div align="center">
@@ -30,7 +46,7 @@ I'm actively engaged in developing my expertise in Cyber Security. I've used Lin
 ---
 ---
 
-<h1 align="center">Cyber Security Projects/Homelabs</h1>
+<h1 align="center">Cyber Security Homelabs</h1>
 
 I've been exploring some homelabs described in YouTube channels and blogs on topics such as threat hunting (XDR), endpoint security (EDR), monitoring (SIEM), and network security (IDS/IPS)
 
