@@ -224,8 +224,8 @@ Linux commands help users navigate the file system, interact with the files, and
 - **System Info files (/proc/)** provide a virtual file system exposing kernel and process information, allowing dynamic access to real-time system details and parameters.
 - **Log files (/var/log/)** store system and application logs, aiding in troubleshooting by capturing events, errors, and diagnostic information for analysis and monitoring.
 
-<div align="left">
-<img src='images/linux_files_and_logs.png' width="100%">
+<div align="center">
+<img src='images/linux_files_and_logs.png' width="75%">
 </div>
 <br>
 
