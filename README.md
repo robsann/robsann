@@ -37,7 +37,7 @@ I'm actively engaged in developing my expertise in Cyber Security. I've used Lin
     - [Cyber Security](https://github.com/robsann#cyber-security)
 - [SysAdmin Concepts](https://github.com/robsann#sysadmin-concepts)
 - [Networking Concepts](https://github.com/robsann#networking-concepts)
-- Cyber Security Concepts
+- [Cyber Security Concepts](https://github.com/robsann#cyber-security-concepts)
 
 ---
 
@@ -257,6 +257,17 @@ The Domain Name System (DNS) is a naming database that translates human-readable
 </div>
 <br>
 
+---
+
+<h1 align="center"><code>Cyber Security Concepts</code></h1>
+
+## 💾 CIA Triad
+The CIA Triad is a fundamental concept in information security, representing the core principles of **Confidentiality** (ensuring data privacy), **Integrity** (maintaining data accuracy and trustworthiness), and **Availability** (ensuring data accessibility). These principles guide security measures and strategies to protect information assets in various computing environments.
+
+<div align="center">
+<img src='images/cia_triad.png'>
+</div>
+<br>
 
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
