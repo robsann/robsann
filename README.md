@@ -23,6 +23,8 @@ I'm actively engaged in developing my expertise in Cyber Security. I've used Lin
 
 </div>
 
+---
+
 # Outline
 - [Cyber Security Homelabs](https://github.com/robsann#cyber-security-homelabs)
     - [Threat Hunting with Elastic Stack 8 (XDR)](https://github.com/robsann#-threat-hunting-with-elastic-stack-8-xdr)
@@ -37,7 +39,6 @@ I'm actively engaged in developing my expertise in Cyber Security. I've used Lin
 - [Networking Concepts](https://github.com/robsann#networking-concepts)
 - Cyber Security Concepts
 
----
 ---
 
 <h1 align="center"><code>Cyber Security Homelabs</code></h1>
@@ -91,7 +92,6 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 
 **Source:** https://github.com/robsann/NetworkSecurityWithSnort
 
----
 ---
 
 <h1 align="center"><code>IT and Cyber Security Fundamentals</code></h1>
@@ -188,7 +188,6 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 - **[CyberDefenders](https://cyberdefenders.org/):** A blue team training platform.
 </div>
 
----
 ---
 
 <h1 align="center"><code>SysAdmin Concepts</code></h1>
