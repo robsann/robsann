@@ -196,7 +196,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 The Linux File System is a hierarchical structure that organizes and stores files on a Linux system. It uses a tree-like directory structure, starting with the root directory ("/"), with directories and files arranged in a systematic manner to facilitate efficient file management and access.
 
 <div align="left">
-<img src='images/Linux_File_System.png' width="50%">
+<img src='images/linux_file_system.png' width="50%">
 </div>
 <br>
 
