@@ -199,7 +199,18 @@ Linux File Permissions dictate the access level of users (owner, group, and othe
 </div>
 <br>
 
-## 💾 Linux Common Files
+## 💾 Linux Useful Commands
+Linux commands help users navigate the file system, interact with the files, and administer the entire system using the command line interface.
+
+**Note:** Use the `man` command to display manual pages for other commands, providing detailed documentation and usage instructions (e.g., `man ls`).
+
+
+<div align="center">
+<img src='images/linux_commands.png'>
+</div>
+<br>
+
+## 💾 Linux Useful Files
 - **Configuration files (/etc/)** store system-wide settings, preferences, and configurations for various applications, facilitating centralized management.
 - **System Info files (/proc/)** provide a virtual file system exposing kernel and process information, allowing dynamic access to real-time system details and parameters.
 - **Log files (/var/log/)** store system and application logs, aiding in troubleshooting by capturing events, errors, and diagnostic information for analysis and monitoring.
