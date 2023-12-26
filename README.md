@@ -237,7 +237,7 @@ Linux commands help users navigate the file system, interact with the files, and
 The Open Systems Interconnection (OSI) model is a conceptual framework used to describe how network communications work. The OSI model characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software.
 
 <div align="center">
-<img src='images/OSI_Model.png'>
+<img src='images/osi_model.png'>
 </div>
 <br>
 
@@ -245,7 +245,7 @@ The Open Systems Interconnection (OSI) model is a conceptual framework used to d
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
 <div align="center">
-<img src='images/DHCP.png'>
+<img src='images/dhcp.png'>
 </div>
 <br>
 
@@ -253,7 +253,7 @@ The Dynamic Host Configuration Protocol (DHCP) is a network management protocol 
 The Domain Name System (DNS) is a naming database that translates human-readable domain names (e.g., www.example.com) to machine-readable IP addresses (e.g., 93.184.216.34) used for device communication. If the website is not cached, the DNS resolver will query Root Servers, Top-Level Domain (TLD) Servers, and Authoritative Nameservers to retrieve the IP address.
 
 <div align="center">
-<img src='images/DNS.png'>
+<img src='images/dns.png'>
 </div>
 <br>
 
