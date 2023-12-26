@@ -265,7 +265,7 @@ The Domain Name System (DNS) is a naming database that translates human-readable
 The CIA Triad is a fundamental concept in information security, representing the core principles of **Confidentiality** (ensuring data privacy), **Integrity** (maintaining data accuracy and trustworthiness), and **Availability** (ensuring data accessibility). These principles guide security measures and strategies to protect information assets in various computing environments.
 
 <div align="center">
-<img src='images/cia_triad.png'>
+<img src='images/cia_triad.png' width="75%">
 </div>
 <br>
 
