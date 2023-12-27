@@ -203,7 +203,7 @@ The Linux File System is a hierarchical structure that organizes and stores file
 ## 💾 Linux File Permissions
 Linux File Permissions dictate the access level of users (owner, group, and others) to files and directories. They are represented by read, write, and execute permissions, providing control over file security and user interactions.
 
-<div align="left">
+<div align="center">
 <img src='images/linux_file_permissions.png' width="75%">
 </div>
 <br>
