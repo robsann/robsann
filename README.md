@@ -293,6 +293,14 @@ Security Operations Center (SOC) technologies encompass a range of tools designe
 </div>
 <br>
 
+## 💾 NIST Incident Response Framework
+The NIST Incident Response Framework provides a systematic approach for organizations to prepare for, detect, respond to, and recover from cybersecurity incidents. It guides the development of robust incident response capabilities through a four-phase process: preparation, detection and analysis, containment, eradication, and recovery, and post-incident activity.
+
+<div align="center">
+<img src='images/nist_ir.png' width="75%">
+</div>
+<br>
+
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
