@@ -285,6 +285,14 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 </div>
 <br>
 
+## 💾 SOC Technologies
+Security Operations Center (SOC) technologies encompass a range of tools designed to monitor, analyze, and respond to cybers ecurity threats. These include SIEM for log analysis, EDR for endpoint protection, SOAR for orchestration, and other solutions that collectively fortify an organization's cyber security posture.
+
+<div align="center">
+<img src='images/soc_technologies.png' width="75%">
+</div>
+<br>
+
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
