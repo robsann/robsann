@@ -245,7 +245,7 @@ The Open Systems Interconnection (OSI) model is a conceptual framework used to d
 TCP (Transmission Control Protocol) is a connection-oriented and reliable transport layer protocol, ensuring data integrity and ordered delivery. UDP (User Datagram Protocol) is a connectionless and lightweight protocol that sacrifices reliability for reduced latency, making it suitable for real-time applications where occasional data loss is acceptable.
 
 <div align="center">
-<img src='images/tcp_vs_udp.png'>
+<img src='images/tcp_vs_udp.png' width="75%">
 </div>
 <br>
 
