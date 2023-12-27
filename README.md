@@ -241,6 +241,14 @@ The Open Systems Interconnection (OSI) model is a conceptual framework used to d
 </div>
 <br>
 
+## 💾 TCP vs UDP
+TCP (Transmission Control Protocol) is a connection-oriented and reliable transport layer protocol, ensuring data integrity and ordered delivery. UDP (User Datagram Protocol) is a connectionless and lightweight protocol that sacrifices reliability for reduced latency, making it suitable for real-time applications where occasional data loss is acceptable.
+
+<div align="center">
+<img src='images/tcp_vs_udp.png'>
+</div>
+<br>
+
 ## 💾 DHCP
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
