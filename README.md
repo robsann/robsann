@@ -204,7 +204,7 @@ The Linux File System is a hierarchical structure that organizes and stores file
 Linux File Permissions dictate the access level of users (owner, group, and others) to files and directories. They are represented by read, write, and execute permissions, providing control over file security and user interactions.
 
 <div align="left">
-<img src='images/linux_file_permissions.png'>
+<img src='images/linux_file_permissions.png' width="75%">
 </div>
 <br>
 
@@ -215,7 +215,7 @@ Linux commands help users navigate the file system, interact with the files, and
 
 
 <div align="center">
-<img src='images/linux_commands.png'>
+<img src='images/linux_commands.png' width="75%">
 </div>
 <br>
 
@@ -253,7 +253,7 @@ TCP (Transmission Control Protocol) is a connection-oriented and reliable transp
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 
 <div align="center">
-<img src='images/dhcp.png'>
+<img src='images/dhcp.png' width="75%">
 </div>
 <br>
 
@@ -261,7 +261,7 @@ The Dynamic Host Configuration Protocol (DHCP) is a network management protocol 
 The Domain Name System (DNS) is a naming database that translates human-readable domain names (e.g., www.example.com) to machine-readable IP addresses (e.g., 93.184.216.34) used for device communication. If the website is not cached, the DNS resolver will query Root Servers, Top-Level Domain (TLD) Servers, and Authoritative Nameservers to retrieve the IP address.
 
 <div align="center">
-<img src='images/dns.png'>
+<img src='images/dns.png' width="75%">
 </div>
 <br>
 
@@ -281,7 +281,7 @@ The CIA Triad is a fundamental concept in information security, representing the
 The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from initial reconnaissance to achieving the attacker's objectives, providing a structured approach for understanding, analyzing, and defending against advanced cyber threats.
 
 <div align="center">
-<img src='images/cyber_kill_chain.png' width="100%">
+<img src='images/cyber_kill_chain.png' width="75%">
 </div>
 <br>
 
@@ -289,7 +289,7 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 [MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge)](https://attack.mitre.org/) is a knowledge base that catalogs and describes the tactics, techniques, and procedures used by cyber adversaries. It provides a comprehensive framework for understanding and analyzing the full spectrum of cyber threats, aiding organizations in improving their detection, defense, and response capabilities.
 
 <div align="center">
-<img src='images/mitre_att&ck.png' width="100%">
+<img src='images/mitre_att&ck.png' width="90%">
 </div>
 <br>
 
