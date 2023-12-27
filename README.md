@@ -309,6 +309,14 @@ The NIST Incident Response Framework provides a systematic approach for organiza
 </div>
 <br>
 
+## 💾 SANS Incident Response Framework
+The SANS Incident Response Framework provides a structured approach for organizations to effectively respond to cybersecurity incidents, comprising six key phases: Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned. It guides the development of robust incident response capabilities to detect, mitigate, and recover from security incidents.
+
+<div align="center">
+<img src='images/sans_ir.png' width="75%">
+</div>
+<br>
+
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
