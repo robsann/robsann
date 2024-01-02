@@ -193,7 +193,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 <h1 align="center"><code>SysAdmin Concepts</code></h1>
 
 ## 💾 Linux File System
-The Linux File System is a hierarchical structure that organizes and stores files on a Linux system. It uses a tree-like directory structure, starting with the root directory ("/"), with directories and files arranged in a systematic manner to facilitate efficient file management and access.
+The Linux File System is a hierarchical structure that organizes and stores files on a Linux system. It uses a tree-like directory structure, starting with the root directory ("/"), with directories and files arranged systematically to facilitate efficient file management and access.
 
 <div align="left">
 <img src='images/linux_file_system.png' width="50%">
@@ -211,7 +211,7 @@ Linux File Permissions dictate the access level of users (owner, group, and othe
 ## 💾 Linux Useful Commands
 Linux commands help users navigate the file system, interact with the files, and administer the entire system using the command line interface.
 
-**Note:** Use the `man` command to display manual pages for other commands, providing detailed documentation and usage instructions (e.g., `man ls`).
+**Note:** Use the `man` command to display the manual page for other commands (e.g., `man ls`), providing detailed documentation and usage instructions, or use the `--help` option (e.g., `ls --help`) for a quick overview of the command options.
 
 
 <div align="center">
@@ -242,7 +242,7 @@ The Open Systems Interconnection (OSI) model is a conceptual framework used to d
 <br>
 
 ## 💾 TCP vs UDP
-TCP (Transmission Control Protocol) is a connection-oriented and reliable transport layer protocol, ensuring data integrity and ordered delivery. UDP (User Datagram Protocol) is a connectionless and lightweight transport layer protocol that sacrifices reliability for reduced latency, making it suitable for real-time applications where occasional data loss is acceptable.
+TCP (Transmission Control Protocol) is a connection-oriented and reliable transport layer protocol, that ensures data integrity and ordered delivery. UDP (User Datagram Protocol) is a connectionless and lightweight transport layer protocol that sacrifices reliability for reduced latency, making it suitable for real-time applications where occasional data loss is acceptable.
 
 <div align="center">
 <img src='images/tcp_vs_udp.png' width="75%">
@@ -250,7 +250,7 @@ TCP (Transmission Control Protocol) is a connection-oriented and reliable transp
 <br>
 
 ## 💾 DHCP
-The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
+The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client-server architecture.
 
 <div align="center">
 <img src='images/dhcp.png' width="75%">
@@ -294,7 +294,7 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 <br>
 
 ## 💾 SOC Technologies
-Security Operations Center (SOC) technologies encompass a range of tools designed to monitor, analyze, and respond to cybers ecurity threats. These include SIEM for log analysis, EDR for endpoint protection, SOAR for orchestration, and other solutions that collectively fortify an organization's cyber security posture.
+Security Operations Center (SOC) technologies encompass a range of tools designed to monitor, analyze, and respond to cyber security threats. These include SIEM for log analysis, EDR for endpoint protection, SOAR for orchestration, and other solutions that collectively fortify an organization's cyber security posture.
 
 <div align="center">
 <img src='images/soc_technologies.png' width="75%">
@@ -302,7 +302,7 @@ Security Operations Center (SOC) technologies encompass a range of tools designe
 <br>
 
 ## 💾 NIST Incident Response Framework
-The NIST Incident Response Framework provides a systematic approach for organizations to prepare for, detect, respond to, and recover from cybersecurity incidents. It guides the development of robust incident response capabilities through a four-phase process: preparation, detection and analysis, containment, eradication, and recovery, and post-incident activity.
+The NIST Incident Response Framework provides a systematic approach for organizations to prepare for, detect, respond to, and recover from cybersecurity incidents. It guides the development of robust incident response capabilities through a four-phase process: preparation, detection and analysis, containment, eradication, recovery, and post-incident activity.
 
 <div align="center">
 <img src='images/nist_ir.png' width="75%">
