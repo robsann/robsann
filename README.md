@@ -293,6 +293,14 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 </div>
 <br>
 
+## 💾 Pyramid of Pain
+The Pyramid of Pain is a conceptual framework in cybersecurity that categorizes indicators of compromise (IOCs) in six levels based on the difficulty for adversaries to change or evade detection. The pyramid is structured in ascending order of difficulty, as illustrated below:
+
+<div align="center">
+<img src='images/pyramid_of_pain.png' width="100%">
+</div>
+<br>
+
 ## 💾 SOC Technologies
 Security Operations Center (SOC) technologies encompass a range of tools designed to monitor, analyze, and respond to cyber security threats. These include SIEM for log analysis, EDR for endpoint protection, SOAR for orchestration, and other solutions that collectively fortify an organization's cyber security posture.
 
