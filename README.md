@@ -297,7 +297,7 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 The Pyramid of Pain is a conceptual framework in cybersecurity that categorizes indicators of compromise (IOCs) in six levels based on the difficulty for adversaries to change or evade detection. The pyramid is structured in ascending order of difficulty, as illustrated below:
 
 <div align="center">
-<img src='images/pyramid_of_pain.png' width="100%">
+<img src='images/pyramid_of_pain.png' width="75%">
 </div>
 <br>
 
