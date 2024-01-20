@@ -7,7 +7,7 @@ I have a keen interest in cyber security, with a focus on security operations, i
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
 # Courses Certificates
-I'm actively engaged in developing my expertise in Cyber Security. I've used LinkedIn Learning to learn about Cyber Security topics and TryHackMe to get hands-on practice with offensive and defensive tools and techniques. I also developed Python and Data Analysis skills using DataCamp.
+I used LinkedIn Learning and Tryhackme to learn Cyber Security topics and get hands-on practice with offensive and defensive tools and techniques. I also developed my Python skills using DataCamp.
 
 <div align="center">
 
