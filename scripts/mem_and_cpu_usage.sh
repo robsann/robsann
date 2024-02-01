@@ -2,7 +2,7 @@
 
 ########################################################################
 # Description:  Use the output of ps to print a table with the top n cpu
-#		and memory usage.
+#				and memory usage.
 # Usage:        ./mem_and_cpu_usage.sh
 #               ./mem_and_cpu_usage.sh 5
 ########################################################################
@@ -18,8 +18,8 @@ else
 	num=$1
 fi
 
-field_size=(7 8 5 5 6 1)
-field_n=0
+field_size=(7 8 5 5 6 1)		# for spacing formatting
+field_n=0						# for spacing formatting
 
 echo ""
 
@@ -34,16 +34,17 @@ do
         echo -e "${BWHITE}Top $num Memory usage$NC"
         echo -e "$GREEN-------------------------------------------------------------------------$NC"
     fi
-    k=1
-    line=""
+    k=1							# field counter
+    line=""						# aggregate fields
 
-    # Get header and body o ps output
+    # Get header and body from ps output
     header=$(ps aux | awk '{print $1,$2,$3,$4,$6,$11}' | head -1)
     body=$(ps aux | awk '{$6=$6/(1024*1024)"G";}{print $1,$2,$3,$4,$6=sprintf("%.2f",$6)"G",$11}' | sort -rnk $l | head -n $num)
 
+    # Loop field by field
     for field in $header $body;
     do
-        # Formate fields
+        # Format field
         n=$((field_size[field_n]-${#field}))
         if [ $n -gt 0 ]; then
             for i in `seq 1 $n`
@@ -53,7 +54,7 @@ do
             field="$field|"
         fi
         line="$line$field "
-        # Print fields
+        # Print field
         if [ $((k%6)) -eq 0 ]; then
             # Print line after go over the header fields
             if [ $k -eq 6 ]; then
@@ -65,6 +66,7 @@ do
             fi
             line=""
         fi
+		# Counters
         if [ $(((field_n+1)%6)) -eq 0 ]; then
             field_n=0
         else
