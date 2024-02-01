@@ -2,12 +2,13 @@
 
 ########################################################################
 # Description: 	Use the output of nmap to print a table with ip and mac
-#		addresses and device manufacturer.
-# Usage: 	./host_discover.sh
-#		./host_discover.sh 192.168.1.0/24
-#		./host_discover.sh 192.168.1.1-30
+#				addresses and device manufacturer.
+# Usage: 		./host_discover.sh
+#				./host_discover.sh 192.168.1.0/24
+#				./host_discover.sh 192.168.1.1-30
 ########################################################################
 
+BWHITE='\033[1;37m'
 LGRAY='\033[0;37m'
 DGRAY='\033[1;30m'
 RED='\033[0;31m'
@@ -32,16 +33,18 @@ mac_router=true			# router boolean
 
 while IFS= read -r line;
 do
-	# Get router ip address
-	line1=`echo $line | grep -P "\(\d{1,3}(\.\d{1,3}){3}\)"`
-	if [ "$line1" ]; then
-		if [[ $line1 =~ ([0-9]{1,3}(\.[0-9]{1,3}){3}) ]]; then
+	# Get connected devices ip and mac addresses
+	# line=`echo $line | grep -P "(\d{1,3}(\.\d{1,3}){3}|[0-9A-F]{2}(:[0-9A-F]{2}){5})"`
+	if [ "${line:0:9}" = "Nmap scan" ]; then
+		if [[ $line =~ ([0-9]{1,3}(\.[0-9]{1,3}){3}) ]]; then
 			ip=${BASH_REMATCH[1]}
 			ip_array[$ip_n]=$ip
 			((ip_n++))
 		fi
-	# Get router mac address
-	elif [ "$(echo ${line:0:3})" = "MAC" ] && $mac_router; then
+	elif [ "$line" = "Host is up." ]; then
+		mac_array[$mac_n]="00:00:00:00:00:00"
+		((mac_n++))
+	elif [ "${line:0:3}" = "MAC" ]; then
 		if [[ $line =~ ([0-9A-F]{2}(:[0-9A-F]{2}){5}).*(\(.*\))$ ]]; then
 			mac=${BASH_REMATCH[1]}
 			device=${BASH_REMATCH[3]}
@@ -49,22 +52,15 @@ do
 			device_array[$mac_n]=$device
 			((mac_n++))
 		fi
-		mac_router=false
-	# Get connected devices ip and mac addresses
-	else
-		line=`echo $line | grep -P "(\d{1,3}(\.\d{1,3}){3}|\w\w(:\w\w){5})"`
-		if [ "`echo ${line:0:3}`" = "MAC" ]; then
-			mac_array[$mac_n]=${line:13:17}
-			device_array[$mac_n]=${line:31}
-			((mac_n++))
-		elif [ "`echo ${line:0:4}`" = "Nmap" ]; then
-			ip_array[$ip_n]=${line:21}
-			((ip_n++))
+	elif [ "${line:0:10}" = "Nmap done:" ]; then
+		if [[ $line =~ \((.*)\) ]]; then
+			hosts_up=${BASH_REMATCH[1]}
 		fi
 	fi
 done <<< $out
 
 # Print table
+echo -e $BWHITE$hosts_up$NC
 echo -e "${GREEN}---------------------------------------------------------------------------------"
 echo "| MAC Address       | IP Address    | Device"
 echo -e "---------------------------------------------------------------------------------$NC"
