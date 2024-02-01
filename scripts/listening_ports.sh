@@ -2,7 +2,7 @@
 
 ########################################################################
 # Description:  Use the output of ss and ps to print a table with the
-#			    listening ports.
+#               listening ports.
 # Usage:        ./listening_ports.sh
 ########################################################################
 
