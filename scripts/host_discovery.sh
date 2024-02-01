@@ -25,16 +25,15 @@ echo -e "${DGRAY}Running: ${LGRAY}nmap -sn $ip_range$NC"
 out=`sudo nmap -sn $ip_range`
 
 declare -a mac_array		# mac address array
-declare -a ip_array		# ip address array
+declare -a ip_array			# ip address array
 declare -a device_array		# manufacture name array
-mac_n=1				# mac counter
-ip_n=1				# ip counter
-mac_router=true			# router boolean
+mac_n=1						# mac counter
+ip_n=1						# ip counter
+mac_router=true				# router boolean
 
 while IFS= read -r line;
 do
-	# Get connected devices ip and mac addresses
-	# line=`echo $line | grep -P "(\d{1,3}(\.\d{1,3}){3}|[0-9A-F]{2}(:[0-9A-F]{2}){5})"`
+	# Get ip and mac addresses of connected devices
 	if [ "${line:0:9}" = "Nmap scan" ]; then
 		if [[ $line =~ ([0-9]{1,3}(\.[0-9]{1,3}){3}) ]]; then
 			ip=${BASH_REMATCH[1]}
