@@ -23,12 +23,12 @@ fi
 echo -e "${DGRAY}Running: ${LGRAY}nmap -sn $ip_range$NC"
 out=`sudo nmap -sn $ip_range`
 
-declare -a mac_array
-declare -a ip_array
-declare -a device_array
-mac_n=1
-ip_n=1
-mac_router=true
+declare -a mac_array		# mac address array
+declare -a ip_array		# ip address array
+declare -a device_array		# manufacture name array
+mac_n=1				# mac counter
+ip_n=1				# ip counter
+mac_router=true			# router boolean
 
 while IFS= read -r line;
 do
