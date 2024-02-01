@@ -12,13 +12,13 @@ NC='\033[0m' # No ColorNC='\033[0m' # No Color
 
 field_size=(8 28 18 17 12 8)    # for spacing formatting
 field_n=0                       # for spacing formatting
-p=6                             # for space formatting
+p=6                             # for spacing formatting
 k=1                             # field number
 line="| "                       # aggregate fields
 
 sudo echo ""
 echo -e "${GREEN}--------------------------------------------------------------------------------------------------------"
-# Formate and print the header
+# Format and print the header
 header=`sudo ss -lntp | head -1`
 header+="User PID"
 if [[ $header =~ (State).*(Local Address:Port).*(Peer Address:Port)(Process).*(User).*(PID) ]]; then
@@ -61,7 +61,7 @@ k=1         # field number
 line="| "
 
 echo -e "--------------------------------------------------------------------------------------------------------${NC}"
-# Formate and print the body
+# Format and print the body
 body=`sudo ss -lntp | grep -v "State" | awk '{$5=$5$6;}{print $1,$4,$5}' | sort -rnk 2`
 for field in $body;
 do
@@ -90,7 +90,7 @@ do
             fields[1]=${BASH_REMATCH[1]}    # peer address
             fields[2]=${BASH_REMATCH[2]}    # process
             fields[4]=${BASH_REMATCH[3]}    # pid
-            fields[3]=`ps aux | grep ${fields[4]} | head -1 | awk '{print $1}'`
+            fields[3]=`ps aux | grep ${fields[4]} | head -1 | awk '{print $1}'`     # user
             for j in `seq 1 4`
             do
                 n=$((field_size[field_n]-${#fields[j]}))
