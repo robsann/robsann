@@ -2,7 +2,7 @@
 
 ########################################################################
 # Description:  Use the output of ps to print a table with the top n cpu
-#				and memory usage.
+#		and memory usage.
 # Usage:        ./mem_and_cpu_usage.sh
 #               ./mem_and_cpu_usage.sh 5
 ########################################################################
@@ -19,7 +19,7 @@ else
 fi
 
 field_size=(7 8 5 5 6 1)		# for spacing formatting
-field_n=0						# for spacing formatting
+field_n=0				# for spacing formatting
 
 echo ""
 
