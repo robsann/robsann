@@ -14,7 +14,6 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m' # No ColorNC='\033[0m' # No Color
 
-#ip_range="192.168.15.1-30"
 if [ -z $1 ]; then
 	read -p "Enter IP range (e.g., 192.168.1.0/24 or 192.168.1.1-20): " ip_range
 else
