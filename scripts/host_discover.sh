@@ -2,10 +2,10 @@
 
 ########################################################################
 # Description: 	Use the output of nmap to print a table with ip and mac
-#			   	addresses and device manufacturer.
-# Usage: 		./host_discover.sh
-#		 		./host_discover.sh 192.168.1.0/24
-#		 		./host_discover.sh 192.168.1.1-30
+#		addresses and device manufacturer.
+# Usage: 	./host_discover.sh
+#		./host_discover.sh 192.168.1.0/24
+#		./host_discover.sh 192.168.1.1-30
 ########################################################################
 
 LGRAY='\033[0;37m'
