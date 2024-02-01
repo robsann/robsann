@@ -2,10 +2,10 @@
 
 ########################################################################
 # Description: 	Use the output of nmap to print a table with ip and mac
-#				addresses and device manufacturer.
-# Usage: 		./host_discover.sh
-#				./host_discover.sh 192.168.1.0/24
-#				./host_discover.sh 192.168.1.1-30
+#		addresses and device manufacturer.
+# Usage: 	./host_discover.sh
+#		./host_discover.sh 192.168.1.0/24
+#		./host_discover.sh 192.168.1.1-30
 ########################################################################
 
 BWHITE='\033[1;37m'
@@ -25,11 +25,11 @@ echo -e "${DGRAY}Running: ${LGRAY}nmap -sn $ip_range$NC"
 out=`sudo nmap -sn $ip_range`
 
 declare -a mac_array		# mac address array
-declare -a ip_array			# ip address array
+declare -a ip_array		# ip address array
 declare -a device_array		# manufacture name array
-mac_n=1						# mac counter
-ip_n=1						# ip counter
-mac_router=true				# router boolean
+mac_n=1				# mac counter
+ip_n=1				# ip counter
+mac_router=true			# router boolean
 
 while IFS= read -r line;
 do
