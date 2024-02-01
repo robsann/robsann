@@ -1,7 +1,6 @@
 #!/bin/bash
 
 ########################################################################
-# Author: 		Robson Kalata Nazareth
 # Description: 	Use the output of nmap to print a table with ip and mac
 #			   	addresses and device manufacturer.
 # Usage: 		./host_discover.sh

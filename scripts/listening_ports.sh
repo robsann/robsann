@@ -1,7 +1,6 @@
 #!/bin/bash
 
 ########################################################################
-# Author:       Robson Kalata Nazareth
 # Description:  Use the output of ss and ps to print a table with the
 #			    listening ports.
 # Usage:        ./listening_ports.sh

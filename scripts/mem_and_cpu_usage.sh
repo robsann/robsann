@@ -1,7 +1,6 @@
 #!/bin/bash
 
 ########################################################################
-# Author:       Robson Kalata Nazareth
 # Description:  Use the output of ps to print a table with the top n cpu
 #			    and memory usage.
 # Usage:        ./mem_and_cpu_usage.sh
