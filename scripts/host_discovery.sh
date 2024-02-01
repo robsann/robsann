@@ -2,10 +2,10 @@
 
 ########################################################################
 # Description: 	Use the output of nmap to print a table with ip and mac
-#		addresses and device manufacturer.
-# Usage: 	./host_discover.sh
-#		./host_discover.sh 192.168.1.0/24
-#		./host_discover.sh 192.168.1.1-30
+#				addresses and device manufacturer.
+# Usage: 		./host_discover.sh
+#				./host_discover.sh 192.168.1.0/24
+#				./host_discover.sh 192.168.1.1-30
 ########################################################################
 
 BWHITE='\033[1;37m'
@@ -33,27 +33,31 @@ mac_router=true			# router boolean
 
 while IFS= read -r line;
 do
-	# Get ip and mac addresses of connected devices
+	# Get connected devices ip and mac addresses
+	# line=`echo $line | grep -P "(\d{1,3}(\.\d{1,3}){3}|[0-9A-F]{2}(:[0-9A-F]{2}){5})"`
 	if [ "${line:0:9}" = "Nmap scan" ]; then
 		if [[ $line =~ ([0-9]{1,3}(\.[0-9]{1,3}){3}) ]]; then
-			ip=${BASH_REMATCH[1]}
+			ip=${BASH_REMATCH[1]}			# ip address
 			ip_array[$ip_n]=$ip
 			((ip_n++))
 		fi
 	elif [ "$line" = "Host is up." ]; then
-		mac_array[$mac_n]="00:00:00:00:00:00"
-		((mac_n++))
+		line_host=$(ip a | grep "192.168.15.11" -B 1 | grep -P "link")
+		if [[ $line_host =~ ([0-9a-f]{2}(:[0-9a-f]{2}){5}) ]]; then
+			mac_array[$mac_n]=${BASH_REMATCH[1]}
+			((mac_n++))
+		fi
 	elif [ "${line:0:3}" = "MAC" ]; then
 		if [[ $line =~ ([0-9A-F]{2}(:[0-9A-F]{2}){5}).*(\(.*\))$ ]]; then
-			mac=${BASH_REMATCH[1]}
-			device=${BASH_REMATCH[3]}
+			mac=${BASH_REMATCH[1]}			# mac address
+			device=${BASH_REMATCH[3]}		# device manufacturer
 			mac_array[$mac_n]=$mac
 			device_array[$mac_n]=$device
 			((mac_n++))
 		fi
 	elif [ "${line:0:10}" = "Nmap done:" ]; then
 		if [[ $line =~ \((.*)\) ]]; then
-			hosts_up=${BASH_REMATCH[1]}
+			hosts_up=${BASH_REMATCH[1]}		# number of hosts up
 		fi
 	fi
 done <<< $out
