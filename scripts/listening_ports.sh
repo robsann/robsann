@@ -58,7 +58,6 @@ field_n=0   # for spacing formatting
 p=6         # for spacing formatting
 m=4         # for spacing formatting
 k=1         # field number
-#port=0
 line="| "
 
 echo -e "--------------------------------------------------------------------------------------------------------${NC}"
@@ -121,7 +120,7 @@ do
             line="$line${fields[1]}${fields[2]}${fields[3]}"
         fi
     fi
-    # Counters reset
+    # Reset counters
     if [ $((k%4)) -eq 0 ]; then
         echo "$line"
         line="| "
