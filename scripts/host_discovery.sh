@@ -2,10 +2,10 @@
 
 ########################################################################
 # Description: 	Use the output of nmap to print a table with ip and mac
-#				addresses and device manufacturer.
-# Usage: 		./host_discover.sh
-#				./host_discover.sh 192.168.1.0/24
-#				./host_discover.sh 192.168.1.1-30
+#		addresses and device manufacturer.
+# Usage: 	./host_discover.sh
+#		./host_discover.sh 192.168.1.0/24
+#		./host_discover.sh 192.168.1.1-30
 ########################################################################
 
 BWHITE='\033[1;37m'
@@ -34,7 +34,6 @@ mac_router=true			# router boolean
 while IFS= read -r line;
 do
 	# Get connected devices ip and mac addresses
-	# line=`echo $line | grep -P "(\d{1,3}(\.\d{1,3}){3}|[0-9A-F]{2}(:[0-9A-F]{2}){5})"`
 	if [ "${line:0:9}" = "Nmap scan" ]; then
 		if [[ $line =~ ([0-9]{1,3}(\.[0-9]{1,3}){3}) ]]; then
 			ip=${BASH_REMATCH[1]}			# ip address
@@ -70,7 +69,6 @@ echo -e "-----------------------------------------------------------------------
 
 for ((i=1; i<=${#mac_array[@]}; i++))
 do
-	#echo $i
 	if [ "`echo ${ip_array[$i]:12:1}`" = "" ]; then
 		echo "| ${mac_array[$i]} | ${ip_array[$i]}  | ${device_array[$i]}"
 	else
