@@ -56,67 +56,73 @@ fi
 
 field_n=0   # for spacing formatting
 p=6         # for spacing formatting
+m=4         # for spacing formatting
 k=1         # field number
 #port=0
 line="| "
 
 echo -e "--------------------------------------------------------------------------------------------------------${NC}"
 # Format and print the body
-body=`sudo ss -lntp | grep -v "State" | awk '{$5=$5$6;}{print $1,$4,$5}' | sort -rnk 2`
+body=`sudo ss -lntp | grep -v "State" | awk '{print $1,$4,$5,$6}' | sort -k 4`
 for field in $body;
 do
-    n=$((field_size[field_n]-${#field}))
-    for i in `seq 1 $n`
-    do
-        if [ $k -eq 2 ]; then
-            if [[ $field =~ .*:([0-9]+$) ]]; then
-                port=${BASH_REMATCH[1]}
-            fi
-            m=$(($p-${#port}))
-            if [ $m -gt 0 ]; then
+    # Process first three fields
+    if [ $k -lt 4 ]; then
+        n=$((field_size[field_n]-${#field}))
+        for i in `seq 1 $n`
+        do
+            # Format first field
+            if [ $k -eq 1 ]; then
                 field="$field "
-                ((p--))
+            # Format second field
+            elif [ $k -eq 2 ]; then
+                if [[ $field =~ .*:([0-9]+$) ]]; then
+                    port=${BASH_REMATCH[1]}
+                fi
+                m=$(($p-${#port}))
+                if [ $m -gt 0 ]; then
+                    field="$field "
+                    ((p--))
+                else
+                    field=" $field"
+                fi
+            # Format third field
             else
-                field=" $field"
+                if [ $m -gt 0 ]; then
+                    field="$field "
+                    ((m--))
+                else
+                    field=" $field"
+                fi
             fi
-        else
-            field="$field "
-        fi
-    done
-    field="$field|"
-    p=6
-    if [ `echo $field | grep pid | wc -l` -eq 1 ]; then
-        if [[ $field =~ (.*)users:\(\(\"(.*)\",pid=([0-9]+), ]]; then
-            fields[1]=${BASH_REMATCH[1]}    # peer address
-            fields[2]=${BASH_REMATCH[2]}    # process
-            fields[4]=${BASH_REMATCH[3]}    # pid
-            fields[3]=`ps aux | grep ${fields[4]} | head -1 | awk '{print $1}'`     # user
-            for j in `seq 1 4`
+        done
+        line="$line$field| "
+        p=6
+        m=4
+    # Process fourth field
+    else
+        # Extract process, pid, and user
+        if [[ $field =~ users:\(\(\"(.*)\",pid=([0-9]+), ]]; then
+            fields[1]=${BASH_REMATCH[1]}    # process
+            fields[3]=${BASH_REMATCH[2]}    # pid
+            # Extract user from ps output using pid
+            fields[2]=`ps aux | grep ${fields[3]} | head -1 | awk '{print $1}'`
+            # Format fields
+            for j in `seq 1 3`
             do
                 n=$((field_size[field_n]-${#fields[j]}))
-                m=4
                 for i in `seq 1 $n`
                 do
-                    if [ $j -eq 1 ]; then
-                        if [ $m -gt 0 ]; then
-                            fields[j]="${fields[j]} "
-                            ((m--))
-                        else
-                            fields[j]=" ${fields[j]}"
-                        fi
-                    else
-                        fields[j]+=" "
-                    fi
+                    fields[j]+=" "
                 done
                 fields[j]+="| "
                 ((field_n++))
             done
-            line="$line${fields[1]}${fields[2]}${fields[3]}${fields[4]}"
+            line="$line${fields[1]}${fields[2]}${fields[3]}"
         fi
-    else
-        line="$line$field "
     fi
-    if [ $((k%3)) -eq 0 ]; then
+    # Counters reset
+    if [ $((k%4)) -eq 0 ]; then
         echo "$line"
         line="| "
         k=1
