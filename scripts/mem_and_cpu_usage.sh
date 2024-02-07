@@ -18,8 +18,11 @@ else
 	num=$1
 fi
 
+while true
+do
+
 field_size=(7 8 5 5 6 1)		# for spacing formatting
-field_n=0				# for spacing formatting
+field_n=0						# for spacing formatting
 
 echo ""
 
@@ -39,13 +42,13 @@ do
 
     # Get header and body from ps output
     header=$(ps aux | awk '{print $1,$2,$3,$4,$6,$11}' | head -1)
-    body=$(ps aux | awk '{$6=$6/(1024*1024)"G";}{print $1,$2,$3,$4,$6=sprintf("%.2f",$6)"G",$11}' | sort -rnk $l | head -n $num)
+    body=$(ps aux | awk '{$6=$6/(1024*1024)"G";}{print $1,$2,$3,$4,$6=sprintf("%.2f",$6)"G",$11}' | sort -rnk $l | head -n $(($num+1)) | grep -v ps | head -n $num)
 
     # Loop field by field
     for field in $header $body;
     do
         # Format field
-        n=$((field_size[field_n]-${#field}))
+        n=$((${field_size[field_n]}-${#field}))
         if [ $n -gt 0 ]; then
             for i in `seq 1 $n`
             do
@@ -70,9 +73,12 @@ do
         if [ $(((field_n+1)%6)) -eq 0 ]; then
             field_n=0
         else
-            ((fild_n++))
+            ((field_n++))
         fi
         ((k++))
     done
     echo -e "$GREEN-------------------------------------------------------------------------$NC"
+done
+
+sleep 5
 done
