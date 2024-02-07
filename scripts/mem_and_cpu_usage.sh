@@ -2,7 +2,7 @@
 
 ########################################################################
 # Description:  Use the output of ps to print a table with the top n cpu
-#               and memory usage.
+#               and memory usage, update every 5 seconds.
 # Usage:        ./mem_and_cpu_usage.sh
 #               ./mem_and_cpu_usage.sh 5
 ########################################################################
