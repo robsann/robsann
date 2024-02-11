@@ -1,3 +1,20 @@
+# Badges & Skills
+[<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
+
+# Courses Certificates
+
+<div align="center">
+
+| Linkedin Learning           | TryHackMe                  | DataCamp|
+|-----------------------------|----------------------------|---------------------------|
+| 25 Learning Paths Completed | 8 Learning Paths Completed | 2 Career Tracks Completed |
+| 200 Courses Completed       | 30 Modules Completed       | 1 Skill Track Completed   |
+|                             | 172 Rooms Completed        | 3 Projects Completed      |
+|                             |                            | 35 Courses Completed      |
+| 374+ hours of learning      | 370+ hours of learning     | 140+ hours of learning    |
+
+(Learning paths and courses completed with total time estimated by the platforms - [**source**](https://github.com/robsann/robsann/blob/main/courses.md))
+
 # Learning Paths & Courses Certificates
 
 | [Linkedin Learning](https://github.com/robsann/robsann/blob/main/courses.md#linkedin-learning)            | [TryHackMe](https://github.com/robsann/robsann/blob/main/courses.md#tryhackme)                  | [DataCamp](https://github.com/robsann/robsann/blob/main/courses.md#datacamp)                  |
