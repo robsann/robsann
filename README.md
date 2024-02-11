@@ -1,6 +1,6 @@
 <div align="justify">
     
-# Hi, I'm Robson!
+# Hi, I'm Robson
 I have a keen interest in cyber security, with a focus on security operations, including network and endpoint security, log and traffic analysis, malware analysis, threat hunting, digital forensics, incident response, threat intelligence, web applications security, and vulnerability management. I use my GitHub account to curate homelabs to simulate diverse security operations scenarios, which I then use to test SOC tools. Additionally, I create content covering system administration, network administration, and cyber security topics.
 
 # Badges & Skills
