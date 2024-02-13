@@ -155,10 +155,10 @@ The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying a
 <li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code>4.0</code> Reporting and Communication</b></li>
 <br/>
 
-## 💾 Cyber Security Domains Mind Map from 2017 (credits to [MyDFIR](https://www.youtube.com/@MyDFIR))
-Mind map from 2017 that provides a comprehensive overview of the various domains within cyber security.
+## 💾 Cyber Security Domains from 2021 (credits to [MyDFIR](https://www.youtube.com/@MyDFIR))
+Mind map from 2021 that provides a comprehensive overview of the various domains within cyber security.
 
-<img src='images/Cybersecurity_Mind_Map_2021.png' align="center">
+<img src='images/cybersecurity_domains_2021.png' align="center">
 
 ## 💾 Cyber Security Hands-on Platforms
 - **[TryHackMe](https://tryhackme.com/):** Hands-on cyber security training with offensive and defensive paths.
