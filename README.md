@@ -160,7 +160,7 @@ Mind map from 2017 that provides a comprehensive overview of the various domains
 
 <img src='images/Cybersecurity_Mind_Map.png' align="center">
 
-## 💾 Hands-on Platforms
+## 💾 Cyber Security Hands-on Platforms
 - **[TryHackMe](https://tryhackme.com/):** Hands-on cyber security training with offensive and defensive paths.
 - **[HackTheBox](https://www.hackthebox.com/):** Hands-on cyber security training with offensive and defensive paths.
 - **[LetsDefend](https://letsdefend.io/):** Hands-on security operations training with alert addressing on simulated SOC environment.
