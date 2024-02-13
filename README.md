@@ -156,7 +156,7 @@ The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying a
 <br/>
 
 ## 💾 Cyber Security Domains Mind Map from 2017 (credits to [MyDFIR](https://www.youtube.com/@MyDFIR))
-Mind map from 2017 that provides a comprehensive overview of the various domains within cyber security.
+Mind map from 2021 that provides a comprehensive overview of the various domains within cyber security.
 
 <img src='images/Cybersecurity_Mind_Map_2021.png' align="center">
 
