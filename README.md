@@ -20,6 +20,9 @@ I have a keen interest in cyber security, with a focus on security operations, i
     - [Networking Concepts](https://github.com/robsann#networking-concepts)
     - [Cyber Security Concepts](https://github.com/robsann#cyber-security-concepts)
 
+---
+---
+
 <h1 align="center">Cyber Security Homelabs</h1>
 
 I've been exploring some homelabs described in YouTube channels and blogs on topics such as threat hunting (XDR), endpoint security (EDR), monitoring (SIEM), and network security (IDS/IPS)
@@ -79,6 +82,8 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 I'm developing educational materials covering IT fundamentals like system and network administration, as well as cyber security fundamentals. I started by creating visual maps to outline the content of various certification exams, including CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+. You can access these maps in PDF format on Dropbox by clicking on the images.
 <br><br>
 
+---
+
 <h1 align="center">System Administration</h1>
 
 ## 📝 CompTIA A+ Core 2 (220-1102) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
@@ -110,6 +115,8 @@ The CompTIA Linux+ certification validates essential skills in Linux system admi
 **Shawn Powers' CompTIA Linux+ (XK0-005) prep (in progress) - [YouTube Link](https://www.youtube.com/watch?v=niPWk7tgD2Q&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&ab_channel=ShawnPowers)**
 <br><br>
 
+---
+
 <h1 align="center">Network Administration</h1>
 
 ## 📝 CompTIA Network+ (N10-008) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
@@ -126,6 +133,8 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 
 **Professor Messer CompTIA Network+ (N10-008) course - [YouTube Link](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)**
 <br><br>
+
+---
 
 <h1 align="center">Cyber Security</h1>
 
