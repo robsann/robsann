@@ -151,7 +151,7 @@
         &emsp;&emsp;3. <b>Information Gathering and Vulnerability Scanning</b><br>
         &emsp;&emsp;&emsp;&emsp;Passive & Active Reconnaissance | Nmap: Live Host Discovery, Basic & Advanced Port Scans<br>
         &emsp;&emsp;4. <b>Attacks and Exploits</b><br>
-        &emsp;&emsp;&emsp;&emsp;HTTP | OWASP Top 10 & Juice Shop | Phishing | Windows Privilege Escalation | Windows Local &emsp;&emsp;&emsp;&emsp;Persistence | Active Directory Basics | Breaching Active Directory | Linux Privilege Escalation | &emsp;&emsp;&emsp;&emsp;Lateral Movement and Pivoting | Persisting Active Directory | Credentials Harvesting
+        &emsp;&emsp;&emsp;&emsp;HTTP | OWASP Top 10 & Juice Shop | Phishing | Windows Privilege Escalation | <br>&emsp;&emsp;&emsp;&emsp;Windows Local Persistence | Active Directory Basics | Breaching Active Directory | <br>&emsp;&emsp;&emsp;&emsp;Linux Privilege Escalation | Lateral Movement and Pivoting | Persisting Active Directory | <br>&emsp;&emsp;&emsp;&emsp;Credentials Harvesting
     </span>
 </details>
 
@@ -163,11 +163,11 @@
         &emsp;&emsp;1. <b>Getting Started</b><br>
         &emsp;&emsp;&emsp;&emsp;Active Reconnaissance | Vulnerability Scanning | Privilege Escalation | Web Application Attacks | CTFs<br>
         &emsp;&emsp;2. <b>Advanced Exploitation</b><br>
-        &emsp;&emsp;&emsp;&emsp;Vulnerability Scanning | Handling Public Exploits | Password Cracking | Metasploit Framework | &emsp;&emsp;&emsp;&emsp;Port Redirection | CTFs<br>
+        &emsp;&emsp;&emsp;&emsp;Vulnerability Scanning | Handling Public Exploits | Password Cracking | Metasploit Framework | <br>&emsp;&emsp;&emsp;&emsp;Port Redirection | CTFs<br>
         &emsp;&emsp;3. <b>Buffer Overflow Exploitation</b><br>
-        &emsp;&emsp;&emsp;&emsp;Windows buffer overflow vulnerabilities | Basic exploit development | Exploitation of services &emsp;&emsp;&emsp;&emsp;vulnerable to buffer overflow | CTFs<br>
+        &emsp;&emsp;&emsp;&emsp;Windows buffer overflow vulnerabilities | Basic exploit development | Exploitation of services <br>&emsp;&emsp;&emsp;&emsp;vulnerable to buffer overflow | CTFs<br>
         &emsp;&emsp;4. <b>Active Directory</b><br>
-        &emsp;&emsp;&emsp;&emsp;Active Directory (AD) Basics | Attacking Kerberos | Breaching AD | Enumerating AD | Exploiting AD | &emsp;&emsp;&emsp;&emsp;Persisting AD | Lateral Movement & Pivoting | Credentials Harvesting<br>
+        &emsp;&emsp;&emsp;&emsp;Active Directory (AD) Basics | Attacking Kerberos | Breaching AD | Enumerating AD | Exploiting AD | <br>&emsp;&emsp;&emsp;&emsp;Persisting AD | Lateral Movement & Pivoting | Credentials Harvesting<br>
         &emsp;&emsp;5. <b>Extra Credit</b><br>
         &emsp;&emsp;&emsp;&emsp;Hacking with PowerShell | CTFs
     </span>
@@ -183,18 +183,17 @@
         &emsp;&emsp;2. <b>Introduction to Pentesting</b><br>
         &emsp;&emsp;&emsp;&emsp;Pentesting Fundamentals | Pricnciples of Security<br>
         &emsp;&emsp;3. <b>Introduction to Web Hacking</b><br>
-        &emsp;&emsp;&emsp;&emsp;Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, &emsp;&emsp;&emsp;&emsp;XSS, Command Injection, and SQL Injection vulnerabilities<br>
+        &emsp;&emsp;&emsp;&emsp;Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, <br>&emsp;&emsp;&emsp;&emsp;XSS, Command Injection, and SQL Injection vulnerabilities<br>
         &emsp;&emsp;4. <b>Burp Suite</b><br>
         &emsp;&emsp;&emsp;&emsp;Basics | Repeater | Intruder | Other Modules | Extender<br>
         &emsp;&emsp;5. <b>Network Security</b><br>
-        &emsp;&emsp;&emsp;&emsp;Passive & Active Reconnaissance | Nmap: Host Discovery, Basic & Advanced Port Scans, and Post Port &emsp;&emsp;&emsp;&emsp;Scans | Protocols & Servers<br>
+        &emsp;&emsp;&emsp;&emsp;Passive & Active Reconnaissance | Nmap: Host Discovery, Basic & Advanced Port Scans, and Post Port <br>&emsp;&emsp;&emsp;&emsp;Scans | Protocols & Servers<br>
         &emsp;&emsp;6. <b>Vulnerability Research</b><br>
         &emsp;&emsp;&emsp;&emsp;Vulnerabilities 101 | Exploit Vulnerabilities<br>
         &emsp;&emsp;7. <b>Metasploit</b><br>
         &emsp;&emsp;&emsp;&emsp;Introduction | Exploitation | Meterpreter<br>
         &emsp;&emsp;8. <b>Privilege Escalation</b><br>
         &emsp;&emsp;&emsp;&emsp;Shell | Linux & Windows Privilege Escalation<br>
-        </span><br>
     </span>
 </details>
 
@@ -206,12 +205,11 @@
         &emsp;&emsp;1. <b>How The Web Works</b><br>
         &emsp;&emsp;&emsp;&emsp;DNS | HTTP | Websites<br>
         &emsp;&emsp;2. <b>Introduction to Web Hacking</b><br>
-        &emsp;&emsp;&emsp;&emsp;Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, &emsp;&emsp;&emsp;&emsp;XSS, Command Injection, and SQL Injection vulnerabilities<br>
+        &emsp;&emsp;&emsp;&emsp;Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, <br>&emsp;&emsp;&emsp;&emsp;XSS, Command Injection, and SQL Injection vulnerabilities<br>
         &emsp;&emsp;3. <b>Burp Suite</b><br>
         &emsp;&emsp;&emsp;&emsp;Basics | Repeater | Intruder | Other Modules | Extender<br>
         &emsp;&emsp;4. <b>Web Hacking Fundamentals</b><br>
         &emsp;&emsp;&emsp;&emsp;Websites | HTTP | Burp Suite | OWASP | Upload Vulnerabilities | CTFs<br>
-        </span><br>
     </span>
 </details>
 
@@ -227,7 +225,6 @@
         &emsp;&emsp;&emsp;&emsp;Web Application Security | Operatin System Security | Network Security<br>
         &emsp;&emsp;3. <b>Introduction to Defensive Security</b><br>
         &emsp;&emsp;&emsp;&emsp;Intro to Digital Forensics | Security Operations<br>
-        </span><br>
     </span>
 </details>
 
@@ -245,8 +242,7 @@
         &emsp;&emsp;4. <b>Linux Fundamentals</b><br>
         &emsp;&emsp;&emsp;&emsp;Essential commands | SSH | File system interaction | Common utilities<br>
         &emsp;&emsp;5. <b>Windows Fundamentals</b><br>
-        &emsp;&emsp;&emsp;&emsp;NTFS file system | UAC | The Control Panel | System Configuration | Resource Monitoring | The &emsp;&emsp;&emsp;&emsp;Windows Registry | Windows Updates | Windows Security | BitLocker<br>
-        </span><br>
+        &emsp;&emsp;&emsp;&emsp;NTFS file system | UAC | The Control Panel | System Configuration | Resource Monitoring | <br>&emsp;&emsp;&emsp;&emsp;The Windows Registry | Windows Updates | Windows Security | BitLocker<br>
     </span>
 </details>
 
@@ -266,12 +262,11 @@
         &emsp;&emsp;5. <b>Cryptography</b><br>
         &emsp;&emsp;&emsp;&emsp;Hashing-Crypto 101 | John The Ripper | Encryption - Crypto 101<br>
         &emsp;&emsp;6. <b>Windows Exploitation Basics</b><br>
-        &emsp;&emsp;&emsp;&emsp;Windows Fundamentals | Active Direcotry Basics | Metasploit: Introduction, Exploitation, and &emsp;&emsp;&emsp;&emsp;Meterpreter | CFTs<br>
+        &emsp;&emsp;&emsp;&emsp;Windows Fundamentals | Active Direcotry Basics | <br>&emsp;&emsp;&emsp;&emsp;Metasploit: Introduction, Exploitation, and Meterpreter | CFTs<br>
         &emsp;&emsp;7. <b>Shells and Privilege Escalation</b><br>
         &emsp;&emsp;&emsp;&emsp;Shell | Common Linux Privesc | Linux PrivEsc<br>
         &emsp;&emsp;8. <b>Basic Computer Exploitation</b><br>
         &emsp;&emsp;&emsp;&emsp;Active Recon | Web App Attacks | Privilege Escalation | Metasploit | PowerShell | CTFs<br>
-        </span><br>
     </span>
 </details>
 
