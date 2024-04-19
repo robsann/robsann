@@ -110,8 +110,6 @@
 |High		|Dec, 08, 2023, 07:34 AM	|SOC165 - Possible SQL Injection Payload Detected		|115	|Web Attack
 |High		|Nov, 26, 2023, 06:16 AM	|SOC146 - Phishing Mail Detected - Excel 4.0 Macros		|93		|Exchange
 
-⟶ [Back to top](https://github.com/robsann/robsann/blob/main/certificates.md)
-
 
 ----------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------
@@ -606,9 +604,6 @@
 </details>
 
 
-⟶ [Back to top](https://github.com/robsann/robsann/blob/main/certificates.md)
-
-
 ----------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------
 
@@ -1036,8 +1031,6 @@
 20. [**Java Essential Training: Objects and APIs**](https://www.linkedin.com/learning/certificates/5aa37e2725a0ae5a0e98030ec260e6d102a87230b8c30af66991d1a97e7324ce) (2h8m)
 21. [**Java Essential Training: Syntax and Structure**](https://www.linkedin.com/learning/certificates/1a785f81846e07f49257e965c919917981c6174157856961cce568fc6cec3319) (2h31m)
 
-⟶ [Back to top](https://github.com/robsann/robsann/blob/main/certificates.md)
-
 
 ----------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------
@@ -1061,4 +1054,3 @@
 - [The Android App Market on Google Play](https://app.datacamp.com/workspace/w/34932fa7-4023-4b2e-bb46-be174460105c)
 - [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/dc21bf3b-fd64-48ec-a4a8-51cab32e5503)
 
-⟶ [Back to top](https://github.com/robsann/robsann/blob/main/certificates.md)
