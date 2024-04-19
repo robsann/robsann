@@ -15,6 +15,7 @@
 ## Badges & Skills
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
+[<img src='images/letsdefend.png' width="23%">](https://app.letsdefend.io/user/robsann)
 
 
 ----------------------------------------------------------------------------------------------
