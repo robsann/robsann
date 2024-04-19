@@ -143,15 +143,15 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png"><b>2 - CompTIA Pentest+ (51h)</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-        1. <b>Planning and Scoping</b><br>
-        &emsp;&emsp;Pentesting Fundamentals | Red Team Engagements | Governance & Regulation<br>
-        2. <b>Tools and Code Analysis</b><br>
-        &emsp;&emsp;Metasploit | Wireshark | Burp Suite | Hydra | Python for Pentesters<br>
-        3. <b>Information Gathering and Vulnerability Scanning</b><br>
-        &emsp;&emsp;Passive & Active Reconnaissance | Nmap: Live Host Discovery, Basic & Advanced Port Scans<br>
-        4. <b>Attacks and Exploits</b><br>
-        <span style="display:inline-block;margin-left:2em;">HTTP | OWASP Top 10 & Juice Shop | Phishing | Windows Privilege Escalation | Windows Local Persistence | Active Directory Basics | Breaching Active Directory | Linux Privilege Escalation | Lateral Movement and Pivoting | Persisting Active Directory | Credentials Harvesting
+    <span style="color:black">
+        &emsp;&emsp;1. <b>Planning and Scoping</b><br>
+        &emsp;&emsp;&emsp;&emsp;Pentesting Fundamentals | Red Team Engagements | Governance & Regulation<br>
+        &emsp;&emsp;2. <b>Tools and Code Analysis</b><br>
+        &emsp;&emsp;&emsp;&emsp;Metasploit | Wireshark | Burp Suite | Hydra | Python for Pentesters<br>
+        &emsp;&emsp;3. <b>Information Gathering and Vulnerability Scanning</b><br>
+        &emsp;&emsp;&emsp;&emsp;Passive & Active Reconnaissance | Nmap: Live Host Discovery, Basic & Advanced Port Scans<br>
+        &emsp;&emsp;4. <b>Attacks and Exploits</b><br>
+        &emsp;&emsp;&emsp;&emsp;HTTP | OWASP Top 10 & Juice Shop | Phishing | Windows Privilege Escalation | Windows Local &emsp;&emsp;&emsp;&emsp;Persistence | Active Directory Basics | Breaching Active Directory | Linux Privilege Escalation | &emsp;&emsp;&emsp;&emsp;Lateral Movement and Pivoting | Persisting Active Directory | Credentials Harvesting
     </span>
 </details>
 
@@ -159,23 +159,17 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png"><b>3 - Offensive Pentesting (47h)</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-        1. <b>Getting Started</b><br>
-        &emsp;&emsp;Active Reconnaissance | Vulnerability Scanning | Privilege Escalation | Web Application Attacks | CTFs<br>
-        2. <b>Advanced Exploitation</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Vulnerability Scanning | Handling Public Exploits | Password Cracking | Metasploit Framework | Port Redirection | CTFs<br>
-        </span>
-        3. <b>Buffer Overflow Exploitation</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Windows buffer overflow vulnerabilities | Basic exploit development | Exploitation of services vulnerable to buffer overflow | CTFs<br>
-        </span>
-        4. <b>Active Directory</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Active Directory (AD) Basics | Attacking Kerberos | Breaching AD | Enumerating AD | Exploiting AD | Persisting AD | Lateral Movement & Pivoting | Credentials Harvesting<br>
-        </span>
-        5. <b>Extra Credit</b><br>
-        &emsp;&emsp;Hacking with PowerShell | CTFs
+    <span style="color:black">
+        &emsp;&emsp;1. <b>Getting Started</b><br>
+        &emsp;&emsp;&emsp;&emsp;Active Reconnaissance | Vulnerability Scanning | Privilege Escalation | Web Application Attacks | CTFs<br>
+        &emsp;&emsp;2. <b>Advanced Exploitation</b><br>
+        &emsp;&emsp;&emsp;&emsp;Vulnerability Scanning | Handling Public Exploits | Password Cracking | Metasploit Framework | &emsp;&emsp;&emsp;&emsp;Port Redirection | CTFs<br>
+        &emsp;&emsp;3. <b>Buffer Overflow Exploitation</b><br>
+        &emsp;&emsp;&emsp;&emsp;Windows buffer overflow vulnerabilities | Basic exploit development | Exploitation of services &emsp;&emsp;&emsp;&emsp;vulnerable to buffer overflow | CTFs<br>
+        &emsp;&emsp;4. <b>Active Directory</b><br>
+        &emsp;&emsp;&emsp;&emsp;Active Directory (AD) Basics | Attacking Kerberos | Breaching AD | Enumerating AD | Exploiting AD | &emsp;&emsp;&emsp;&emsp;Persisting AD | Lateral Movement & Pivoting | Credentials Harvesting<br>
+        &emsp;&emsp;5. <b>Extra Credit</b><br>
+        &emsp;&emsp;&emsp;&emsp;Hacking with PowerShell | CTFs
     </span>
 </details>
 
@@ -183,38 +177,23 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png"><b>4 - Jr Penetration Tester (64h)</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-        1. <b>Introduction to Cyber Security</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Intro to Offensive & Defensive Security | Careers in Cyber
-        </span><br>
-        2. <b>Introduction to Pentesting</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Pentesting Fundamentals | Pricnciples of Security
-        </span><br>
-        3. <b>Introduction to Web Hacking</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, XSS, Command Injection, and SQL Injection vulnerabilities
-        </span><br>
-        4. <b>Burp Suite</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Basics | Repeater | Intruder | Other Modules | Extender
-        </span><br>
-        5. <b>Network Security</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Passive & Active Reconnaissance | Nmap: Host Discovery, Basic & Advanced Port Scans, and Post Port Scans | Protocols & Servers
-        </span><br>
-        6. <b>Vulnerability Research</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Vulnerabilities 101 | Exploit Vulnerabilities
-        </span><br>
-        7. <b>Metasploit</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Introduction | Exploitation | Meterpreter
-        </span><br>
-        8. <b>Privilege Escalation</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Shell | Linux & Windows Privilege Escalation
+    <span style="color:black">
+        &emsp;&emsp;1. <b>Introduction to Cyber Security</b><br>
+        &emsp;&emsp;&emsp;&emsp;Intro to Offensive & Defensive Security | Careers in Cyber<br>
+        &emsp;&emsp;2. <b>Introduction to Pentesting</b><br>
+        &emsp;&emsp;&emsp;&emsp;Pentesting Fundamentals | Pricnciples of Security<br>
+        &emsp;&emsp;3. <b>Introduction to Web Hacking</b><br>
+        &emsp;&emsp;&emsp;&emsp;Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, &emsp;&emsp;&emsp;&emsp;XSS, Command Injection, and SQL Injection vulnerabilities<br>
+        &emsp;&emsp;4. <b>Burp Suite</b><br>
+        &emsp;&emsp;&emsp;&emsp;Basics | Repeater | Intruder | Other Modules | Extender<br>
+        &emsp;&emsp;5. <b>Network Security</b><br>
+        &emsp;&emsp;&emsp;&emsp;Passive & Active Reconnaissance | Nmap: Host Discovery, Basic & Advanced Port Scans, and Post Port &emsp;&emsp;&emsp;&emsp;Scans | Protocols & Servers<br>
+        &emsp;&emsp;6. <b>Vulnerability Research</b><br>
+        &emsp;&emsp;&emsp;&emsp;Vulnerabilities 101 | Exploit Vulnerabilities<br>
+        &emsp;&emsp;7. <b>Metasploit</b><br>
+        &emsp;&emsp;&emsp;&emsp;Introduction | Exploitation | Meterpreter<br>
+        &emsp;&emsp;8. <b>Privilege Escalation</b><br>
+        &emsp;&emsp;&emsp;&emsp;Shell | Linux & Windows Privilege Escalation<br>
         </span><br>
     </span>
 </details>
@@ -223,22 +202,15 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png"><b>5 - Web Fundamentals (32h)</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-        1. <b>How The Web Works</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        DNS | HTTP | Websites
-        </span><br>
-        2. <b>Introduction to Web Hacking</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, XSS, Command Injection, and SQL Injection vulnerabilities
-        </span><br>
-        3. <b>Burp Suite</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Basics | Repeater | Intruder | Other Modules | Extender
-        </span><br>
-        4. <b>Web Hacking Fundamentals</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Websites | HTTP | Burp Suite | OWASP | Upload Vulnerabilities | CTFs
+    <span style="color:black">
+        &emsp;&emsp;1. <b>How The Web Works</b><br>
+        &emsp;&emsp;&emsp;&emsp;DNS | HTTP | Websites<br>
+        &emsp;&emsp;2. <b>Introduction to Web Hacking</b><br>
+        &emsp;&emsp;&emsp;&emsp;Content Discovery | Subdomain Enumeration | Authentication Bypass | File Inclusion | IDOR, SSFR, &emsp;&emsp;&emsp;&emsp;XSS, Command Injection, and SQL Injection vulnerabilities<br>
+        &emsp;&emsp;3. <b>Burp Suite</b><br>
+        &emsp;&emsp;&emsp;&emsp;Basics | Repeater | Intruder | Other Modules | Extender<br>
+        &emsp;&emsp;4. <b>Web Hacking Fundamentals</b><br>
+        &emsp;&emsp;&emsp;&emsp;Websites | HTTP | Burp Suite | OWASP | Upload Vulnerabilities | CTFs<br>
         </span><br>
     </span>
 </details>
@@ -248,18 +220,13 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png"><b>6 - Introduction to Cyber Security (24h)</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-        1. <b>Introduction to Cyber Security</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Intro to Offensive & Defensive Security | Careers in Cyber
-        </span><br>
-        2. <b>Introduction to Offensive Security</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Web Application Security | Operatin System Security | Network Security
-        </span><br>
-        3. <b>Introduction to Defensive Security</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Intro to Digital Forensics | Security Operations
+    <span style="color:black">
+        &emsp;&emsp;1. <b>Introduction to Cyber Security</b><br>
+        &emsp;&emsp;&emsp;&emsp;Intro to Offensive & Defensive Security | Careers in Cyber<br>
+        &emsp;&emsp;2. <b>Introduction to Offensive Security</b><br>
+        &emsp;&emsp;&emsp;&emsp;Web Application Security | Operatin System Security | Network Security<br>
+        &emsp;&emsp;3. <b>Introduction to Defensive Security</b><br>
+        &emsp;&emsp;&emsp;&emsp;Intro to Digital Forensics | Security Operations<br>
         </span><br>
     </span>
 </details>
@@ -268,26 +235,17 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png"><b>7 - Pre Security (40h)</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-        1. <b>Introduction to Cyber Security</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Intro to Offensive & Defensive Security | Careers in Cyber
-        </span><br>
-        2. <b>Network Fundamentals</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Networking Fundamentals | Intro to LAN | OSI Model | Prackets & Frames | Extending Networks
-        </span><br>
-        3. <b>How The Web Works</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        DNS | HTTP | Websites
-        </span><br>
-        4. <b>Linux Fundamentals</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Essential commands | SSH | File system interaction | Common utilities
-        </span><br>
-        5. <b>Windows Fundamentals</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        NTFS file system | UAC | The Control Panel | System Configuration | Resource Monitoring | The Windows Registry | Windows Updates | Windows Security | BitLocker
+    <span style="color:black">
+        &emsp;&emsp;1. <b>Introduction to Cyber Security</b><br>
+        &emsp;&emsp;&emsp;&emsp;Intro to Offensive & Defensive Security | Careers in Cyber<br>
+        &emsp;&emsp;2. <b>Network Fundamentals</b><br>
+        &emsp;&emsp;&emsp;&emsp;Networking Fundamentals | Intro to LAN | OSI Model | Prackets & Frames | Extending Networks<br>
+        &emsp;&emsp;3. <b>How The Web Works</b><br>
+        &emsp;&emsp;&emsp;&emsp;DNS | HTTP | Websites<br>
+        &emsp;&emsp;4. <b>Linux Fundamentals</b><br>
+        &emsp;&emsp;&emsp;&emsp;Essential commands | SSH | File system interaction | Common utilities<br>
+        &emsp;&emsp;5. <b>Windows Fundamentals</b><br>
+        &emsp;&emsp;&emsp;&emsp;NTFS file system | UAC | The Control Panel | System Configuration | Resource Monitoring | The &emsp;&emsp;&emsp;&emsp;Windows Registry | Windows Updates | Windows Security | BitLocker<br>
         </span><br>
     </span>
 </details>
@@ -296,38 +254,23 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png"><b>8 - Complete Beginner (64h)</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-        1. <b>Complete Beginner Introduction</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Starting Out in Cyber Sec | Introductory Rearching
-        </span><br>
-        2. <b>Linux Fundamentals</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Essential commands | SSH | File system interaction | Common utilities
-        </span><br>
-        3. <b>Network Exploitation Basics</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Introductory Networking | Nmap | Network Services
-        </span><br>
-        4. <b>Web Hacking Fundamentals</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Websites | HTTP | Burp Suite | OWASP | Upload Vulnerabilities | CTFs
-        </span><br>
-        5. <b>Cryptography</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Hashing-Crypto 101 | John The Ripper | Encryption - Crypto 101
-        </span><br>
-        6. <b>Windows Exploitation Basics</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Windows Fundamentals | Active Direcotry Basics | Metasploit: Introduction, Exploitation, and Meterpreter | CFTs
-        </span><br>
-        7. <b>Shells and Privilege Escalation</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Shell | Common Linux Privesc | Linux PrivEsc
-        </span><br>
-        8. <b>Basic Computer Exploitation</b><br>
-        <span style="display:inline-block;margin-left:2em;">
-        Active Recon | Web App Attacks | Privilege Escalation | Metasploit | PowerShell | CTFs
+    <span style="color:black">
+        &emsp;&emsp;1. <b>Complete Beginner Introduction</b><br>
+        &emsp;&emsp;&emsp;&emsp;Starting Out in Cyber Sec | Introductory Rearching<br>
+        &emsp;&emsp;2. <b>Linux Fundamentals</b><br>
+        &emsp;&emsp;&emsp;&emsp;Essential commands | SSH | File system interaction | Common utilities<br>
+        &emsp;&emsp;3. <b>Network Exploitation Basics</b><br>
+        &emsp;&emsp;&emsp;&emsp;Introductory Networking | Nmap | Network Services<br>
+        &emsp;&emsp;4. <b>Web Hacking Fundamentals</b><br>
+        &emsp;&emsp;&emsp;&emsp;Websites | HTTP | Burp Suite | OWASP | Upload Vulnerabilities | CTFs<br>
+        &emsp;&emsp;5. <b>Cryptography</b><br>
+        &emsp;&emsp;&emsp;&emsp;Hashing-Crypto 101 | John The Ripper | Encryption - Crypto 101<br>
+        &emsp;&emsp;6. <b>Windows Exploitation Basics</b><br>
+        &emsp;&emsp;&emsp;&emsp;Windows Fundamentals | Active Direcotry Basics | Metasploit: Introduction, Exploitation, and &emsp;&emsp;&emsp;&emsp;Meterpreter | CFTs<br>
+        &emsp;&emsp;7. <b>Shells and Privilege Escalation</b><br>
+        &emsp;&emsp;&emsp;&emsp;Shell | Common Linux Privesc | Linux PrivEsc<br>
+        &emsp;&emsp;8. <b>Basic Computer Exploitation</b><br>
+        &emsp;&emsp;&emsp;&emsp;Active Recon | Web App Attacks | Privilege Escalation | Metasploit | PowerShell | CTFs<br>
         </span><br>
     </span>
 </details>
@@ -337,8 +280,8 @@
     <summary>
         <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png"><b>1. Burp Suite</b></a>
     </summary>
-    <span style="display:inline-block;margin-left:2em;">
-    	Burp Suite is the industry standard tool for web application hacking, and is essential in any web penetration test.
+    <span style="color:black">
+    	&emsp;&emsp;Burp Suite is the industry standard tool for web application hacking, and is essential in any web <br>&emsp;&emsp;penetration test.
     </span>
 </details>
 
@@ -346,8 +289,8 @@
 	<summary>
 		<a href="https://tryhackme.com/module/metasploit"><b>2. Metasploit</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Metasploit is the most widely used exploitation framework. Learn how to use it and unlock its full potential.
+	<span style="color:black">
+		&emsp;&emsp;Metasploit is the most widely used exploitation framework. Learn how to use it and unlock its full <br>&emsp;&emsp;potential.
 	</span>
 </details>
 
@@ -355,8 +298,8 @@
 	<summary>
 		<a href="https://tryhackme.com/module/intro-to-web-hacking"><b>3. Introduction to Web Hacking</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Get hands-on, learn about and exploit some of the most popular web application vulnerabilities seen in the industry today.
+	<span style="color:black">
+		&emsp;&emsp;Get hands-on, learn about and exploit some of the most popular web application vulnerabilities seen in <br>&emsp;&emsp;the industry today.
 	</span>
 </details>
 
@@ -364,8 +307,8 @@
 	<summary>
 		<a href="https://tryhackme.com/module/network-security"><b>4. Network Security</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn the basics of passive and active network reconnaissance. Understand how common protocols work and their attack vectors.
+	<span style="color:black">
+		&emsp;&emsp;Learn the basics of passive and active network reconnaissance. Understand how common protocols work <br>&emsp;&emsp;and their attack vectors.
 	</span>
 </details>
 
@@ -373,8 +316,8 @@
 	<summary>
 		<a href="https://tryhackme.com/module/nmap"><b>5. Nmap</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn how to leverage the Nmap network scanner to discover live hosts and open ports using basic and advanced scan options.
+	<span style="color:black">
+		&emsp;&emsp;Learn how to leverage the Nmap network scanner to discover live hosts and open ports using basic and <br>&emsp;&emsp;advanced scan options.
 	</span>
 </details>
 
@@ -382,8 +325,8 @@
 	<summary>
 		<a href="https://tryhackme.com/module/red-team-initial-access"><b>6. Initial Access</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.
+	<span style="color:black">
+		&emsp;&emsp;Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s <br>&emsp;&emsp;perspective.
 	</span>
 </details>
 
@@ -391,8 +334,8 @@
 	<summary>
 		<a href="https://tryhackme.com/module/phishing"><b>7. Phishing</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using a variety of techniques.
+	<span style="color:black">
+		&emsp;&emsp;Learn how to analyze and defend against phishing emails. Investigate real-world phishing attempts using <br>&emsp;&emsp;a variety of techniques.
 	</span>
 </details>
 
@@ -400,8 +343,8 @@
 	<summary>
 		<a href="https://tryhackme.com/module/red-team-fundamentals"><b>8. Red Team Fundamentals</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.
+	<span style="color:black">
+		&emsp;&emsp;Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.
 	</span>
 </details>
 
@@ -409,197 +352,197 @@
 	<summary>
 		<a href="https://tryhackme.com/module/introduction-to-offensive-security"><b>9. Introduction to Offensive Security</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Understand what Offensive Security entails, and practice breaking into computer systems by exploiting applications and networks.
+	<span style="color:black">
+		&emsp;&emsp;Understand what Offensive Security entails, and practice breaking into computer systems by exploiting <br>&emsp;&emsp;applications and networks.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/introduction-to-defensive-security"><b>0. Introduction to Defensive Security</b></a>
+		<a href="https://tryhackme.com/module/introduction-to-defensive-security"><b>10. Introduction to Defensive Security</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live cyber attack.
+	<span style="color:black">
+		&emsp;&emsp;Learn Defensive Security by using digital forensics in an investigation and applying security operations to <br>&emsp;&emsp;stop a live cyber attack.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/linux-fundamentals"><b>10. Linux Fundamentals</b></a>
+		<a href="https://tryhackme.com/module/linux-fundamentals"><b>11. Linux Fundamentals</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Many servers and security tools use Linux. Learn how to use the Linux operating system, a critical skill in cyber security.
+	<span style="color:black">
+		&emsp;&emsp;Many servers and security tools use Linux. Learn how to use the Linux operating system, a critical skill in <br>&emsp;&emsp;cyber security.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/how-the-web-works"><b>11. How The Web Works</b></a>
+		<a href="https://tryhackme.com/module/how-the-web-works"><b>12 How The Web Works</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		To become a better hacker it's vital to understand the underlying functions of the world wide web and what makes it work.
+	<span style="color:black">
+		&emsp;&emsp;To become a better hacker it's vital to understand the underlying functions of the world wide web and <br>&emsp;&emsp;what makes it work.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/introduction-to-offensive-pentesting"><b>12. Introduction to Pentesting</b></a>
+		<a href="https://tryhackme.com/module/introduction-to-offensive-pentesting"><b>13. Introduction to Pentesting</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Understand what a penetration test involves, including testing techniques and methodologies every pentester should know.
+	<span style="color:black">
+		&emsp;&emsp;Understand what a penetration test involves, including testing techniques and methodologies every <br>&emsp;&emsp;pentester should know.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/privilege-escalation"><b>13. Privilege Escalation</b></a>
+		<a href="https://tryhackme.com/module/privilege-escalation"><b>14. Privilege Escalation</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn the fundamental techniques that will allow you to elevate account privileges in Linux and windows systems.
+	<span style="color:black">
+		&emsp;&emsp;Learn the fundamental techniques that will allow you to elevate account privileges in Linux and windows <br>&emsp;&emsp;systems.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/intro-to-networking"><b>14. Network Exploitation Basics</b></a>
+		<a href="https://tryhackme.com/module/intro-to-networking"><b>15. Network Exploitation Basics</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Understand, enumerate and attack various networking services in real-world environments.
+	<span style="color:black">
+		&emsp;&emsp;Understand, enumerate and attack various networking services in real-world environments.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/vulnerability-research"><b>15. Vulnerability Research</b></a>
+		<a href="https://tryhackme.com/module/vulnerability-research"><b>16. Vulnerability Research</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Become cyber aware and protect yourself from common security attacks by working through interactive real-world scenarios.
+	<span style="color:black">
+		&emsp;&emsp;Become cyber aware and protect yourself from common security attacks by working through interactive <br>&emsp;&emsp;real-world scenarios.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/cyber-security-awareness"><b>16. Cyber Security Awareness</b></a>
+		<a href="https://tryhackme.com/module/cyber-security-awareness"><b>17. Cyber Security Awareness</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Become cyber aware and protect yourself from common security attacks by working through interactive real-world scenarios.
+	<span style="color:black">
+		&emsp;&emsp;Become cyber aware and protect yourself from common security attacks by working through interactive <br>&emsp;&emsp;real-world scenarios.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/web-hacking-1"><b>17. Web Hacking Fundamentals</b></a>
+		<a href="https://tryhackme.com/module/web-hacking-1"><b>18. Web Hacking Fundamentals</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Understand the core security issues with web applications, and learn how to exploit them using industry tools and techniques.
+	<span style="color:black">
+		&emsp;&emsp;Understand the core security issues with web applications, and learn how to exploit them using industry <br>&emsp;&emsp;tools and techniques.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/cryptography"><b>18. Cryptography</b></a>
+		<a href="https://tryhackme.com/module/cryptography"><b>19. Cryptography</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Cryptography is essential in security. Learn how its used to preserve integrity and confidentiality of sensitive information.
+	<span style="color:black">
+		&emsp;&emsp;Cryptography is essential in security. Learn how its used to preserve integrity and confidentiality of <br>&emsp;&emsp;sensitive information.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/introduction-to-cyber-security"><b>19. Introduction to Cyber Security</b></a>
+		<a href="https://tryhackme.com/module/introduction-to-cyber-security"><b>20. Introduction to Cyber Security</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Understand what is offensive and defensive security, and learn about careers available in cyber.
+	<span style="color:black">
+		&emsp;&emsp;Understand what is offensive and defensive security, and learn about careers available in cyber.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/hacking-windows-1"><b>20. Windows Exploitation Basics</b></a>
+		<a href="https://tryhackme.com/module/hacking-windows-1"><b>21. Windows Exploitation Basics</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Hacking Windows is often daunting. Grasp the fundamentals of core Windows concepts and Active Directory vulnerabilities.
+	<span style="color:black">
+		&emsp;&emsp;Hacking Windows is often daunting. Grasp the fundamentals of core Windows concepts and Active <br>&emsp;&emsp;Directory vulnerabilities.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/privilege-escalation-and-shells"><b>21. Shells and Privilege Escalation</b></a>
+		<a href="https://tryhackme.com/module/privilege-escalation-and-shells"><b>22. Shells and Privilege Escalation</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Once you have initial access on a machine, learn how to escalate your account privileges to root.
+	<span style="color:black">
+		&emsp;&emsp;Once you have initial access on a machine, learn how to escalate your account privileges to root.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/basic-computer-exploitation"><b>22. Basic Computer Exploitotion</b></a>
+		<a href="https://tryhackme.com/module/basic-computer-exploitation"><b>23. Basic Computer Exploitotion</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Strengthen your skills by exploiting a range of different applications and services, from networking to web to privilege escalation.
+	<span style="color:black">
+		&emsp;&emsp;Strengthen your skills by exploiting a range of different applications and services, from networking to web <br>&emsp;&emsp;to privilege escalation.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/threat-and-vulnerability-management"><b>23. Threat and Vulnerability Management</b></a>
+		<a href="https://tryhackme.com/module/threat-and-vulnerability-management"><b>24. Threat and Vulnerability Management</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Identify how attackers are developing their techniques to use in your defensive strategy.
+	<span style="color:black">
+		&emsp;&emsp;Identify how attackers are developing their techniques to use in your defensive strategy.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/security-operations-and-monitoring"><b>24. Security Operations & Monitoring</b></a>
+		<a href="https://tryhackme.com/module/security-operations-and-monitoring"><b>25. Security Operations & Monitoring</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn how to configure and utilise tooling to ensure that suspicious activity is quickly identified and dealt with in your environment.
+	<span style="color:black">
+		&emsp;&emsp;Learn how to configure and utilise tooling to ensure that suspicious activity is quickly identified and dealt <br>&emsp;&emsp;with in your environment.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/threat-emulation"><b>25. Threat Emulation</b></a>
+		<a href="https://tryhackme.com/module/threat-emulation"><b>26. Threat Emulation</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		The best way to understand how attackers work is to get hands on experience with their techniques.
+	<span style="color:black">
+		&emsp;&emsp;The best way to understand how attackers work is to get hands on experience with their techniques.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/malware-analysis"><b>26. Malware Analysis</b></a>
+		<a href="https://tryhackme.com/module/malware-analysis"><b>27. Malware Analysis</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Analyse malicious files to prevent malicious actions and identify attacks.
+	<span style="color:black">
+		&emsp;&emsp;Analyse malicious files to prevent malicious actions and identify attacks.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/network-fundamentals"><b>27. Network Fundamentals</b></a>
+		<a href="https://tryhackme.com/module/network-fundamentals"><b>28. Network Fundamentals</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn the core concepts of how computers communicate with each other and types of network weaknesses.
+	<span style="color:black">
+		&emsp;&emsp;Learn the core concepts of how computers communicate with each other and types of network <br>&emsp;&emsp;weaknesses.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/windows-fundamentals"><b>28. Windows Fundamentals</b></a>
+		<a href="https://tryhackme.com/module/windows-fundamentals"><b>29. Windows Fundamentals</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Get hands-on access to Windows and it's security controls. These basics will help you in identifying, exploiting and defending Windows.
+	<span style="color:black">
+		&emsp;&emsp;Get hands-on access to Windows and it's security controls. These basics will help you in identifying, <br>&emsp;&emsp;exploiting and defending Windows.
 	</span>
 </details>
 
 <details>
 	<summary>
-		<a href="https://tryhackme.com/module/scripting-for-pentesters"><b>29. Scripting for Pentesters</b></a>
+		<a href="https://tryhackme.com/module/scripting-for-pentesters"><b>30. Scripting for Pentesters</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		Learn to use PowerShell and Python in different stages of a penetration test and take your pentesting craft to the next level.
+	<span style="color:black">
+		&emsp;&emsp;Learn to use PowerShell and Python in different stages of a penetration test and take your pentesting <br>&emsp;&emsp;craft to the next level.
 	</span>
 </details>
 
@@ -616,10 +559,10 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/9710289cfe31e2beb371c19f15ac3a32d71f5474b0d17e4c561581e8980af722?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>1 - Prepare for the CompTIA IT Fundamentals+ (ITF+) (FC0-U61) Exams (4h51m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Computer Basics, Hardware, and Operating Systems</b><br>
-		2. <b>Files and Applications, Networking, and Security</b><br>
-		3. <b>Computer Maintenance and Troubleshooting, Databases, and Programming</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Computer Basics, Hardware, and Operating Systems</b><br>
+		&emsp;&emsp;2. <b>Files and Applications, Networking, and Security</b><br>
+		&emsp;&emsp;3. <b>Computer Maintenance and Troubleshooting, Databases, and Programming</b><br>
     </span>
 </details>
 
@@ -627,31 +570,27 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/58edd9872c07431d14c468a8cb08f56ad77c3abcfb6bdf09680d859681ec5644?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>2 - Prepare for the CompTIA A+ (220-1001 and 220-1002) Examss (34h14m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		<b>Prepare for the CompTIA A+ Core 1 (220-1001) Exam</b><br>
-		<span style="display:inline-block;margin-left:2em;">
-		1. <b>The Basics</b><br>
-		2. <b>Microprocessing and RAM</b><br>
-		3. <b>Core Hardware</b><br>
-		4. <b>Storage and Peripherals</b><br>
-		5. <b>Display Technologies</b><br>
-		6. <b>Physical Networking</b><br>
-		7. <b>Understanding Networking</b><br>
-		8. <b>Internet and the Cloud</b><br>
-		9. <b>Portable Computing</b><br>
-		10. <b>Printers</b><br>
-		</span><br>
-		<b>Prepare for the CompTIA A+ Core 2 (220-1002) Exam</b><br>
-		<span style="display:inline-block;margin-left:2em;">
-		1. <b>Getting Started</b><br>
-		2. <b>Impllementation Considerations</b><br>
-		3. <b>Windows and More</b><br>
-		4. <b>Command-Line Interface and Scripting Languages</b><br>
-		5. <b>Troubleshooting Operating Systems</b><br>
-		6. <b>Networking, Security, and More</b><br>
-		7. <b>Portable Computing</b><br>
-		8. <b>Security and Organization</b><br>
-		</span><br>
+	<span style="color:black">
+		&emsp;&emsp;<b>Prepare for the CompTIA A+ Core 1 (220-1001) Exam</b><br>
+		&emsp;&emsp;&emsp;&emsp;1. <b>The Basics</b><br>
+		&emsp;&emsp;&emsp;&emsp;2. <b>Microprocessing and RAM</b><br>
+		&emsp;&emsp;&emsp;&emsp;3. <b>Core Hardware</b><br>
+		&emsp;&emsp;&emsp;&emsp;4. <b>Storage and Peripherals</b><br>
+		&emsp;&emsp;&emsp;&emsp;5. <b>Display Technologies</b><br>
+		&emsp;&emsp;&emsp;&emsp;6. <b>Physical Networking</b><br>
+		&emsp;&emsp;&emsp;&emsp;7. <b>Understanding Networking</b><br>
+		&emsp;&emsp;&emsp;&emsp;8. <b>Internet and the Cloud</b><br>
+		&emsp;&emsp;&emsp;&emsp;9. <b>Portable Computing</b><br>
+		&emsp;&emsp;&emsp;&emsp;10. <b>Printers</b><br>
+		&emsp;&emsp;<b>Prepare for the CompTIA A+ Core 2 (220-1002) Exam</b><br>
+		&emsp;&emsp;&emsp;&emsp;1. <b>Getting Started</b><br>
+		&emsp;&emsp;&emsp;&emsp;2. <b>Impllementation Considerations</b><br>
+		&emsp;&emsp;&emsp;&emsp;3. <b>Windows and More</b><br>
+		&emsp;&emsp;&emsp;&emsp;4. <b>Command-Line Interface and Scripting Languages</b><br>
+		&emsp;&emsp;&emsp;&emsp;5. <b>Troubleshooting Operating Systems</b><br>
+		&emsp;&emsp;&emsp;&emsp;6. <b>Networking, Security, and More</b><br>
+		&emsp;&emsp;&emsp;&emsp;7. <b>Portable Computing</b><br>
+		&emsp;&emsp;&emsp;&emsp;8. <b>Security and Organization</b><br>
     </span>
 </details>
 
@@ -659,23 +598,23 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/010cac6e07e69088f96ebf18f446b0bae54e51de7cafd62a9af0d0bcb8e43be4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>3 - Cert Prep: CompTIA Linux+ (XK0-004)s (9h19m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>System Hardware</b><br>
-		2. <b>Disk Systems</b><br>
-		3. <b>Manage Users and Software</b><br>
-		4. <b>Server Infrastructure and Services</b><br>
-		5. <b>GUI and Remote Access</b><br>
-		6. <b>Create, Modify, and Redirect Files</b><br>
-		7. <b>File Security</b><br>
-		8. <b>Mandatory Access Control</b><br>
-		9. <b>System Security</b><br>
-		10. <b>Linux Firewalls</b><br>
-		11. <b>System Logging</b><br>
-		12. <b>Backup, Restore, and Compress Files</b><br>
-		13. <b>System Monitoring</b><br>
-		14. <b>Version Control</b><br>
-		15. <b>Automation and Scripting</b><br>
-		16. <b>System Orchestration</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>System Hardware</b><br>
+		&emsp;&emsp;2. <b>Disk Systems</b><br>
+		&emsp;&emsp;3. <b>Manage Users and Software</b><br>
+		&emsp;&emsp;4. <b>Server Infrastructure and Services</b><br>
+		&emsp;&emsp;5. <b>GUI and Remote Access</b><br>
+		&emsp;&emsp;6. <b>Create, Modify, and Redirect Files</b><br>
+		&emsp;&emsp;7. <b>File Security</b><br>
+		&emsp;&emsp;8. <b>Mandatory Access Control</b><br>
+		&emsp;&emsp;9. <b>System Security</b><br>
+		&emsp;&emsp;10. <b>Linux Firewalls</b><br>
+		&emsp;&emsp;11. <b>System Logging</b><br>
+		&emsp;&emsp;12. <b>Backup, Restore, and Compress Files</b><br>
+		&emsp;&emsp;13. <b>System Monitoring</b><br>
+		&emsp;&emsp;14. <b>Version Control</b><br>
+		&emsp;&emsp;15. <b>Automation and Scripting</b><br>
+		&emsp;&emsp;16. <b>System Orchestration</b><br>
     </span>
 </details>
 
@@ -683,16 +622,16 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/2061447662389771c0a8a631508ff913d362c3f95ecef54e7affb80eda1301d5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>4 - Prepare for the CompTIA Network+ (N10-008) Exams (21h39m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Understanding Networks</b><br>
-		2. <b>The Physical Network</b><br>
-		3. <b>The World of TCP/IP</b><br>
-		4. <b>Making TCP/IP Work</b><br>
-		5. <b>Securing TCP/IP</b><br>
-		6. <b>Advanced IP Networking</b><br>
-		7. <b>Wireless, Virtual, Cloud, and Data Center Networking</b><br>
-		8. <b>Network Integration and Operation</b><br>
-		9. <b>Network Security and Monitoring</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Understanding Networks</b><br>
+		&emsp;&emsp;2. <b>The Physical Network</b><br>
+		&emsp;&emsp;3. <b>The World of TCP/IP</b><br>
+		&emsp;&emsp;4. <b>Making TCP/IP Work</b><br>
+		&emsp;&emsp;5. <b>Securing TCP/IP</b><br>
+		&emsp;&emsp;6. <b>Advanced IP Networking</b><br>
+		&emsp;&emsp;7. <b>Wireless, Virtual, Cloud, and Data Center Networking</b><br>
+		&emsp;&emsp;8. <b>Network Integration and Operation</b><br>
+		&emsp;&emsp;9. <b>Network Security and Monitoring</b><br>
     </span>
 </details>
 
@@ -700,18 +639,18 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/89dcfd1c270f15e0506c9afc0a2a0db21572f214b586a356d3784de99dbe2108?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>5 - Prepare for the CompTIA Security+ (SY0-601) Exams (23h45m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Threats, Attacks, and Vulnerabilities</b><br>
-		2. <b>Secure Code Design and Implementation</b><br>
-		3. <b>Cryptography Design and Implementation</b><br>
-		4. <b>Identity and Access Management Design and Implementation</b><br>
-		5. <b>Physical Security Design and Implementation</b><br>
-		6. <b>Cloud Security Design and Implementation</b><br>
-		7. <b>Endpoint Security Design and Implementation</b><br>
-		8. <b>Network Security Design and Implementation</b><br>
-		9. <b>Operations and Incident Response</b><br>
-		10. <b>Governance, Risk, and Compliance</b><br>
-		11. <b>Audio Review</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Threats, Attacks, and Vulnerabilities</b><br>
+		&emsp;&emsp;2. <b>Secure Code Design and Implementation</b><br>
+		&emsp;&emsp;3. <b>Cryptography Design and Implementation</b><br>
+		&emsp;&emsp;4. <b>Identity and Access Management Design and Implementation</b><br>
+		&emsp;&emsp;5. <b>Physical Security Design and Implementation</b><br>
+		&emsp;&emsp;6. <b>Cloud Security Design and Implementation</b><br>
+		&emsp;&emsp;7. <b>Endpoint Security Design and Implementation</b><br>
+		&emsp;&emsp;8. <b>Network Security Design and Implementation</b><br>
+		&emsp;&emsp;9. <b>Operations and Incident Response</b><br>
+		&emsp;&emsp;10. <b>Governance, Risk, and Compliance</b><br>
+		&emsp;&emsp;11. <b>Audio Review</b><br>
     </span>
 </details>
 
@@ -719,14 +658,14 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/d570c35e140d2846a7daadba55f4e3a2a4958b5ee6a6ec8c89807796011a3f14?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>6 - Prepare for the CompTIA Cybersecurity Analyst (CySA+) (CS0-002) Exams (18h42m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Threat Management</b><br>
-		2. <b>Vulnerability Management</b><br>
-		3. <b>Identity and Access Management</b><br>
-		4. <b>Software and Systems Security</b><br>
-		5. <b>Security Operations and Monitoring</b><br>
-		6. <b>Incident Response</b><br>
-		7. <b>Compliance and Assessment</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Threat Management</b><br>
+		&emsp;&emsp;2. <b>Vulnerability Management</b><br>
+		&emsp;&emsp;3. <b>Identity and Access Management</b><br>
+		&emsp;&emsp;4. <b>Software and Systems Security</b><br>
+		&emsp;&emsp;5. <b>Security Operations and Monitoring</b><br>
+		&emsp;&emsp;6. <b>Incident Response</b><br>
+		&emsp;&emsp;7. <b>Compliance and Assessment</b><br>
     </span>
 </details>
 
@@ -734,13 +673,13 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/0b3426d44e88a5a9bbf974bb31ae0e36fcc9158cc1ea4396eec2c0e9247edf95?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>7 - Prepare for the CompTIA PenTest+ (PT0-001) Exams (10h35m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Planning and Scoping</b><br>
-		2. <b>Survey the Target</b><br>
-		3. <b>Select Your Attacks</b><br>
-		4. <b>Select Your Attacks (II)</b><br>
-		5. <b>Selecting Pen Testing Tools</b><br>
-		6. <b>Using Scripting in Pen Testing</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Planning and Scoping</b><br>
+		&emsp;&emsp;2. <b>Survey the Target</b><br>
+		&emsp;&emsp;3. <b>Select Your Attacks</b><br>
+		&emsp;&emsp;4. <b>Select Your Attacks (II)</b><br>
+		&emsp;&emsp;5. <b>Selecting Pen Testing Tools</b><br>
+		&emsp;&emsp;6. <b>Using Scripting in Pen Testing</b><br>
     </span>
 </details>
 
@@ -748,10 +687,10 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/19f7bbfc0255e380c8d378e79aff0e20cd26c6a14bcfbe0f5f60df742982d4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>8 - Prepare for the CompTIA Cloud+ (CV0-002) Exams (10h14m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Introduction to the Cloud and System Requirements</b><br>
-		2. <b>Storage, Compute, Networking, and Security</b><br>
-		3. <b>Migrating, Maintaining, and Troubleshooting</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Introduction to the Cloud and System Requirements</b><br>
+		&emsp;&emsp;2. <b>Storage, Compute, Networking, and Security</b><br>
+		&emsp;&emsp;3. <b>Migrating, Maintaining, and Troubleshooting</b><br>
     </span>
 </details>
 
@@ -759,11 +698,11 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/1e12447efe2c6f54dc0c184426cd43177f683167c06848e7ce42123f3bef453d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>9 - Prepare for the CompTIA Advanced Security Practitioner (CASP+) (CAS-004) Exams (28h46m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Security Architecture</b><br>
-		2. <b>Security Operations</b><br>
-		3. <b>Security Engineering and Cryptography</b><br>
-		4. <b>Governance, Risk, and Compliance</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Security Architecture</b><br>
+		&emsp;&emsp;2. <b>Security Operations</b><br>
+		&emsp;&emsp;3. <b>Security Engineering and Cryptography</b><br>
+		&emsp;&emsp;4. <b>Governance, Risk, and Compliance</b><br>
     </span>
 </details>
 
@@ -771,12 +710,12 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/8c945450d841fadc5b9205aa0dd4a4d104cbbf11af38f3d65aa40222be5381ed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>10 - Become a Cybersecurity Professionals (6h28m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Cybersecurity Foundations</b><br>
-		2. <b>The Cybersecurity Threat Landscape</b><br>
-		3. <b>Learning the OWASP Top 10</b><br>
-		4. <b>Cybersecurity Careers and Certifications</b><br>
-		5. <b>Land Your First Cybersecurity Job</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Cybersecurity Foundations</b><br>
+		&emsp;&emsp;2. <b>The Cybersecurity Threat Landscape</b><br>
+		&emsp;&emsp;3. <b>Learning the OWASP Top 10</b><br>
+		&emsp;&emsp;4. <b>Cybersecurity Careers and Certifications</b><br>
+		&emsp;&emsp;5. <b>Land Your First Cybersecurity Job</b><br>
     </span>
 </details>
 
@@ -784,19 +723,19 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/a1f31627fddefa1d45b975883580e67c7d92affc920d7c6e6c82346f50245f1c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>11 - Become an IT Security Specialists (20h7m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>IT Security Foundations: Core Concepts</b><br>
-		2. <b>Cybersecurity Foundations</b><br>
-		3. <b>IT Security Foundations: Operating System Security</b><br>
-		4. <b>IT Security Foundations: Network Security</b><br>
-		5. <b>Learning SSL/TLS</b><br>
-		6. <b>Cybersecurity with Cloud Computing</b><br>
-		7. <b>Learning Computer Forensics</b><br>
-		8. <b>Learning Vulnerability Management</b><br>
-		9. <b>Learning Threat Modeling for Security Professionals</b><br>
-		10. <b>Artificial Intelligence for Cybersecurity</b><br>
-		11. <b>Ethics in Information Security</b><br>
-		12. <b>Soft Skills for Information Security Professionals</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>IT Security Foundations: Core Concepts</b><br>
+		&emsp;&emsp;2. <b>Cybersecurity Foundations</b><br>
+		&emsp;&emsp;3. <b>IT Security Foundations: Operating System Security</b><br>
+		&emsp;&emsp;4. <b>IT Security Foundations: Network Security</b><br>
+		&emsp;&emsp;5. <b>Learning SSL/TLS</b><br>
+		&emsp;&emsp;6. <b>Cybersecurity with Cloud Computing</b><br>
+		&emsp;&emsp;7. <b>Learning Computer Forensics</b><br>
+		&emsp;&emsp;8. <b>Learning Vulnerability Management</b><br>
+		&emsp;&emsp;9. <b>Learning Threat Modeling for Security Professionals</b><br>
+		&emsp;&emsp;10. <b>Artificial Intelligence for Cybersecurity</b><br>
+		&emsp;&emsp;11. <b>Ethics in Information Security</b><br>
+		&emsp;&emsp;12. <b>Soft Skills for Information Security Professionals</b><br>
     </span>
 </details>
 
@@ -804,14 +743,14 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/6aa3c9de05e7be24848dc006b5752afbb26bc81c25d2fc46d2c32c2f8c99a74d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BdwcJYNRmTQ6beUgVL4TjNw%3D%3D"><b>12 - CyberSec First Responder (CFR-310)s (13h16m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Threats and Attacks</b><br>
-		2. <b>Gaining Access</b><br>
-		3. <b>Post-Exploitation</b><br>
-		4. <b>Threat Research and Incident Prep</b><br>
-		5. <b>Data Collection and Analysis</b><br>
-		6. <b>Incident Response Technique</b><br>
-		7. <b>Vulnerability Assessments</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Threats and Attacks</b><br>
+		&emsp;&emsp;2. <b>Gaining Access</b><br>
+		&emsp;&emsp;3. <b>Post-Exploitation</b><br>
+		&emsp;&emsp;4. <b>Threat Research and Incident Prep</b><br>
+		&emsp;&emsp;5. <b>Data Collection and Analysis</b><br>
+		&emsp;&emsp;6. <b>Incident Response Technique</b><br>
+		&emsp;&emsp;7. <b>Vulnerability Assessments</b><br>
     </span>
 </details>
 
@@ -819,16 +758,16 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/d50975052658aa54eda01d93fd25571230264b2cb7ab877a7ff8e0a28f61123a"><b>13 - Explore a Career in Computer Forensicss (15h55m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>The Cybersecurity Threat Landscape</b><br>
-		2. <b>Learning Computer Forensics</b><br>
-		3. <b>Operating System Forensics</b><br>
-		4. <b>Network Forensics</b><br>
-		5. <b>Wireshark: Malware and Forensics</b><br>
-		6. <b>Protecting Your Network with Open Source Software</b><br>
-		7. <b>Learning Autopsy for Digital Forensics</b><br>
-		8. <b>Soft Skills for Information Security Professionals</b><br>
-		9. <b>Ethics in Information Security</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>The Cybersecurity Threat Landscape</b><br>
+		&emsp;&emsp;2. <b>Learning Computer Forensics</b><br>
+		&emsp;&emsp;3. <b>Operating System Forensics</b><br>
+		&emsp;&emsp;4. <b>Network Forensics</b><br>
+		&emsp;&emsp;5. <b>Wireshark: Malware and Forensics</b><br>
+		&emsp;&emsp;6. <b>Protecting Your Network with Open Source Software</b><br>
+		&emsp;&emsp;7. <b>Learning Autopsy for Digital Forensics</b><br>
+		&emsp;&emsp;8. <b>Soft Skills for Information Security Professionals</b><br>
+		&emsp;&emsp;9. <b>Ethics in Information Security</b><br>
     </span>
 </details>
 
@@ -836,12 +775,12 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/c515f73cc5e2f46098be432b54a7df91519be97580953ec9ac1b8cb39e850d53?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>14 - Improve Your Wireshark Skillss (9h5m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Wireshark: Essential Training</b><br>
-		2. <b>Wireshark: Functionality</b><br>
-		3. <b>Wireshark: Network Troubleshooting</b><br>
-		4. <b>Wireshark: Malware and Forensics</b><br>
-		5. <b>Wireshark: VoIP</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Wireshark: Essential Training</b><br>
+		&emsp;&emsp;2. <b>Wireshark: Functionality</b><br>
+		&emsp;&emsp;3. <b>Wireshark: Network Troubleshooting</b><br>
+		&emsp;&emsp;4. <b>Wireshark: Malware and Forensics</b><br>
+		&emsp;&emsp;5. <b>Wireshark: VoIP</b><br>
     </span>
 </details>
 
@@ -849,13 +788,13 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/485e10dbcfcec848d79fa171b0b5fbf6a53c5fbef67c88f5c23dd5f8097d1fb1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>15 - Improve Your Threat Modeling Skillss (3h50m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Learning Threat Modeling for Security Professionals</b><br>
-		2. <b>Threat Modeling: Spoofing In Depth</b><br>
-		3. <b>Threat Modeling: Tampering in Depth</b><br>
-		4. <b>Threat Modeling: Repudiation in Depth</b><br>
-		5. <b>Threat Modeling: Information Disclosure in Depth</b><br>
-		6. <b>Threat Modeling: Denial of Service and Elevation of Privilege</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Learning Threat Modeling for Security Professionals</b><br>
+		&emsp;&emsp;2. <b>Threat Modeling: Spoofing In Depth</b><br>
+		&emsp;&emsp;3. <b>Threat Modeling: Tampering in Depth</b><br>
+		&emsp;&emsp;4. <b>Threat Modeling: Repudiation in Depth</b><br>
+		&emsp;&emsp;5. <b>Threat Modeling: Information Disclosure in Depth</b><br>
+		&emsp;&emsp;6. <b>Threat Modeling: Denial of Service and Elevation of Privilege</b><br>
     </span>
 </details>
 
@@ -863,13 +802,13 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/d94f36298fe0fb9b36f49a4d21048b4fef7f5058087bd93e85d5b1fd67829c4c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>16 - Master Vulnerability Managements (8h51m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Implementing a Vulnerability Management Lifecycle</b><br>
-		2. <b>Learning Vulnerability Management</b><br>
-		3. <b>Security Testing Essential Training</b><br>
-		4. <b>Security Testing: Vulnerability Management with Nessus</b><br>
-		5. <b>Ethical Hacking: Vulnerability Analysis</b><br>
-		6. <b>Vulnerability Management: Assessing the Risks with CVSS v3.1</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Implementing a Vulnerability Management Lifecycle</b><br>
+		&emsp;&emsp;2. <b>Learning Vulnerability Management</b><br>
+		&emsp;&emsp;3. <b>Security Testing Essential Training</b><br>
+		&emsp;&emsp;4. <b>Security Testing: Vulnerability Management with Nessus</b><br>
+		&emsp;&emsp;5. <b>Ethical Hacking: Vulnerability Analysis</b><br>
+		&emsp;&emsp;6. <b>Vulnerability Management: Assessing the Risks with CVSS v3.1</b><br>
     </span>
 </details>
 
@@ -877,14 +816,14 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/acf2822ac1322082548d581b9e7300e688f74fc03a0941ab4798faa815946201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BErq61CJZRpm8IqcdA7h2Iw%3D%3D"><b>17 - Explore a Career in Application Securitys (16h20m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Software Development Life Cycle (SDLC)</b><br>
-		2. <b>Penetration Testing Essential Training</b><br>
-		3. <b>Learning the OWASP Top 10</b><br>
-		4. <b>Security Testing Essential Training</b><br>
-		5. <b>Dynamic Application Security Testing</b><br>
-		6. <b>Static Application Security Testing (SAST) (2019)</b><br>
-		7. <b>Soft Skills for Information Security Professionals</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Software Development Life Cycle (SDLC)</b><br>
+		&emsp;&emsp;2. <b>Penetration Testing Essential Training</b><br>
+		&emsp;&emsp;3. <b>Learning the OWASP Top 10</b><br>
+		&emsp;&emsp;4. <b>Security Testing Essential Training</b><br>
+		&emsp;&emsp;5. <b>Dynamic Application Security Testing</b><br>
+		&emsp;&emsp;6. <b>Static Application Security Testing (SAST) (2019)</b><br>
+		&emsp;&emsp;7. <b>Soft Skills for Information Security Professionals</b><br>
     </span>
 </details>
 
@@ -892,13 +831,13 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/de4f8df3aff0e940c22cbe9138d8470ec21a977d1c3fe121a234b7c69dafd3ce?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>18 - Master the OWASP Top 10s (3h9m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Learning the OWASP Top 10 (2018)</b><br>
-		2. <b>OWASP Top 10: #1 Injection and #2 Broken Authentication</b><br>
-		3. <b>OWASP Top 10: #3 Sensitive Data Exposure and #4 External Entities (XXE) (2019)</b><br>
-		4. <b>OWASP Top 10: #5 Broken Access Control and #6 Security Misconfiguration (2019)</b><br>
-		5. <b>OWASP Top 10: #7 XSS and #8 Insecure Deserialization</b><br>
-		6. <b>OWASP Top 10: #9 Components with Known Vulnerabilities and #10 Insufficient Logging and Monitoring</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Learning the OWASP Top 10 (2018)</b><br>
+		&emsp;&emsp;2. <b>OWASP Top 10: #1 Injection and #2 Broken Authentication</b><br>
+		&emsp;&emsp;3. <b>OWASP Top 10: #3 Sensitive Data Exposure and #4 External Entities (XXE) (2019)</b><br>
+		&emsp;&emsp;4. <b>OWASP Top 10: #5 Broken Access Control and #6 Security Misconfiguration (2019)</b><br>
+		&emsp;&emsp;5. <b>OWASP Top 10: #7 XSS and #8 Insecure Deserialization</b><br>
+		&emsp;&emsp;6. <b>OWASP Top 10: #9 Components with Known Vulnerabilities and #10 Insufficient Logging and <br>&emsp;&emsp;Monitoring</b><br>
     </span>
 </details>
 
@@ -906,12 +845,12 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/b863d094f52624fe264813f65f98bffbeec1b138f4f5109886c5f034b51ac083?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>19 - Get Ahead in DevSecOpss (5h57m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>DevOps Foundations: DevSecOps</b><br>
-		2. <b>DevSecOps: Automated Security Testing</b><br>
-		3. <b>DevSecOps: Building a Secure Continuous Delivery Pipeline</b><br>
-		4. <b>Application Security in DevSecOps</b><br>
-		5. <b>DevSecOps: Tips for Success</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>DevOps Foundations: DevSecOps</b><br>
+		&emsp;&emsp;2. <b>DevSecOps: Automated Security Testing</b><br>
+		&emsp;&emsp;3. <b>DevSecOps: Building a Secure Continuous Delivery Pipeline</b><br>
+		&emsp;&emsp;4. <b>Application Security in DevSecOps</b><br>
+		&emsp;&emsp;5. <b>DevSecOps: Tips for Success</b><br>
     </span>
 </details>
 
@@ -919,26 +858,26 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/ca6914782c5866434cf65e61aa0a8357650da5614c81025262d0ab073334998a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>20 - Become an Ethical Hackers (30h16m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Introduction to Ethical Hacking</b><br>
-		2. <b>Footprinting and Reconnaissance</b><br>
-		3. <b>Scanning Networks</b><br>
-		4. <b>Enumeration</b><br>
-		5. <b>Vulnerability Analysis</b><br>
-		6. <b>System Hacking</b><br>
-		7. <b>The Complete Malware Analysis Process</b><br>
-		8. <b>Sniffers</b><br>
-		9. <b>Social Engineering</b><br>
-		10. <b>Denial of Service</b><br>
-		11. <b>Session Hijacking</b><br>
-		12. <b>Evading IDS, Firewalls, and Honeypots</b><br>
-		13. <b>Hacking Web Servers and Web Applications</b><br>
-		14. <b>Wireless Networks</b><br>
-		15. <b>Mobile Devices and Platforms</b><br>
-		16. <b>Hacking IoT Devices</b><br>
-		17. <b>Cryptography</b><br>
-		18. <b>Cloud Computing</b><br>
-		19. <b>SQL Injection</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Introduction to Ethical Hacking</b><br>
+		&emsp;&emsp;2. <b>Footprinting and Reconnaissance</b><br>
+		&emsp;&emsp;3. <b>Scanning Networks</b><br>
+		&emsp;&emsp;4. <b>Enumeration</b><br>
+		&emsp;&emsp;5. <b>Vulnerability Analysis</b><br>
+		&emsp;&emsp;6. <b>System Hacking</b><br>
+		&emsp;&emsp;7. <b>The Complete Malware Analysis Process</b><br>
+		&emsp;&emsp;8. <b>Sniffers</b><br>
+		&emsp;&emsp;9. <b>Social Engineering</b><br>
+		&emsp;&emsp;10. <b>Denial of Service</b><br>
+		&emsp;&emsp;11. <b>Session Hijacking</b><br>
+		&emsp;&emsp;12. <b>Evading IDS, Firewalls, and Honeypots</b><br>
+		&emsp;&emsp;13. <b>Hacking Web Servers and Web Applications</b><br>
+		&emsp;&emsp;14. <b>Wireless Networks</b><br>
+		&emsp;&emsp;15. <b>Mobile Devices and Platforms</b><br>
+		&emsp;&emsp;16. <b>Hacking IoT Devices</b><br>
+		&emsp;&emsp;17. <b>Cryptography</b><br>
+		&emsp;&emsp;18. <b>Cloud Computing</b><br>
+		&emsp;&emsp;19. <b>SQL Injection</b><br>
     </span>
 </details>
 
@@ -946,15 +885,15 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/bee0b067d52836dfef901bde0e95bf2378c5e5aff3781964e938a54fb77ba659?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>21 - Become a Penetration Testers (12h50m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Cybersecurity Careers: Become a Penetration Tester</b><br>
-		2. <b>Learning Penetration Testing</b><br>
-		3. <b>Penetration Testing Essential Training</b><br>
-		4. <b>Advanced Kali Linux</b><br>
-		5. <b>Penetration Testing: Advanced Web Testing</b><br>
-		6. <b>Penetration Testing Active Directory</b><br>
-		7. <b>Burp Suite Essential Training</b><br>
-		8. <b>Advanced Techniques for Ethical Hacking</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Cybersecurity Careers: Become a Penetration Tester</b><br>
+		&emsp;&emsp;2. <b>Learning Penetration Testing</b><br>
+		&emsp;&emsp;3. <b>Penetration Testing Essential Training</b><br>
+		&emsp;&emsp;4. <b>Advanced Kali Linux</b><br>
+		&emsp;&emsp;5. <b>Penetration Testing: Advanced Web Testing</b><br>
+		&emsp;&emsp;6. <b>Penetration Testing Active Directory</b><br>
+		&emsp;&emsp;7. <b>Burp Suite Essential Training</b><br>
+		&emsp;&emsp;8. <b>Advanced Techniques for Ethical Hacking</b><br>
     </span>
 </details>
 
@@ -962,11 +901,11 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/ecc42d1738ebbc784df460addad992feab6461129dd9379cffd1fc15bac08a41?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>22 - Advance Your Data Privacy Skillss (4h9m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Understanding and Prioritizing Data Privacy</b><br>
-		2. <b>Privacy in the New World of Work</b><br>
-		3. <b>Privacy for Executives and Aspiring Executives</b><br>
-		4. <b>GDPR Compliance: Essential Training</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Understanding and Prioritizing Data Privacy</b><br>
+		&emsp;&emsp;2. <b>Privacy in the New World of Work</b><br>
+		&emsp;&emsp;3. <b>Privacy for Executives and Aspiring Executives</b><br>
+		&emsp;&emsp;4. <b>GDPR Compliance: Essential Training</b><br>
     </span>
 </details>
 
@@ -974,12 +913,12 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/cc9111e8447439d034ed9c8a054e41c1c34aa3c7b40133f68f86553360f01909?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>23 - Starting Your Career in Tech: Securitys (5h37m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Land Your First Cybersecurity Job</b><br>
-		2. <b>Writing a Tech Resume</b><br>
-		3. <b>Nail Your Cybersecurity Interview</b><br>
-		4. <b>Cybersecurity Careers and Certifications</b><br>
-		5. <b>Soft Skills for Information Security Professionals</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Land Your First Cybersecurity Job</b><br>
+		&emsp;&emsp;2. <b>Writing a Tech Resume</b><br>
+		&emsp;&emsp;3. <b>Nail Your Cybersecurity Interview</b><br>
+		&emsp;&emsp;4. <b>Cybersecurity Careers and Certifications</b><br>
+		&emsp;&emsp;5. <b>Soft Skills for Information Security Professionals</b><br>
     </span>
 </details>
 
@@ -987,10 +926,10 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/0a92c6db2a1f8dfbd28f93066117670a6fdb5fb9c3faf4a667329551561df9ee?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>24 - Getting Started with Continuous Integration / Continuous Delivery (CI/CD)s (4h42m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>Software Development Life Cycle (SDLC)</b><br>
-		2. <b>DevOps Foundations: Continuous Delivery/Continuous Integration</b><br>
-		3. <b>Continuous Integration: Tools</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>Software Development Life Cycle (SDLC)</b><br>
+		&emsp;&emsp;2. <b>DevOps Foundations: Continuous Delivery/Continuous Integration</b><br>
+		&emsp;&emsp;3. <b>Continuous Integration: Tools</b><br>
     </span>
 </details>
 
@@ -998,12 +937,12 @@
 	<summary>
 		<a href="https://www.linkedin.com/learning/certificates/fffbc88079c132d39a838fef7d6ae829c5f055ff29393fb690225b6469bdd8f8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3il2kxEPT8a31sNM0JMVXA%3D%3D"><b>25 - Getting Started with DevOpss (12h29m)</b></a>
 	</summary>
-	<span style="display:inline-block;margin-left:2em;">
-		1. <b>DevOps Foundations</b><br>
-		2. <b>DevOps Foundations: Continuous Delivery/Continuous Integration</b><br>
-		3. <b>DevOps Foundations: Infrastructure as Code (2017)</b><br>
-		4. <b>DevOps Foundations: Monitoring and Observability</b><br>
-		5. <b>DevOps Foundations: Your First Project</b><br>
+	<span style="color:black">
+		&emsp;&emsp;1. <b>DevOps Foundations</b><br>
+		&emsp;&emsp;2. <b>DevOps Foundations: Continuous Delivery/Continuous Integration</b><br>
+		&emsp;&emsp;3. <b>DevOps Foundations: Infrastructure as Code (2017)</b><br>
+		&emsp;&emsp;4. <b>DevOps Foundations: Monitoring and Observability</b><br>
+		&emsp;&emsp;5. <b>DevOps Foundations: Your First Project</b><br>
     </span>
 </details>
 
