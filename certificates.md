@@ -273,7 +273,7 @@
 ## Modules Completed
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png"><b>1. Burp Suite</b></a>
+        <a href="https://tryhackme.com/module/learn-burp-suite"><b>1. Burp Suite</b></a>
     </summary>
     <span style="color:black">
     	&emsp;&emsp;Burp Suite is the industry standard tool for web application hacking, and is essential in any web <br>&emsp;&emsp;penetration test.
