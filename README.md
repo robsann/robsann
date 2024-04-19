@@ -72,6 +72,7 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 **Source:** https://github.com/robsann/NetworkSecurityWithSnort
 
 ---
+---
 
 <h1 align="center">IT and Cyber Security Fundamentals</h1>
 
@@ -168,6 +169,8 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 </div>
 
 ---
+---
+
 <h1 align="center">IT and Cyber Security Concepts</h1>
 
 <h1 align="center">SysAdmin Concepts</h1>
