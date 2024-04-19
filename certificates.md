@@ -1,4 +1,4 @@
-# Learning Paths & Courses Certificates
+<h1 align="center">Learning Paths & Courses Certificates</h1>
 
 <h2 align="center">Courses Completed</h2>
 
@@ -12,7 +12,7 @@
 | 3 Challenges 		|                   |                   | 3 Projects 		|
 </div>
 
-# Badges & Skills
+<h2 align="center">Badges & Skills</h2>
 [<img src="https://tryhackme-badges.s3.amazonaws.com/robsann.png" alt="TryHackMe">](https://tryhackme.com/p/robsann)
 
 
