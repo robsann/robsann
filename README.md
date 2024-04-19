@@ -73,7 +73,7 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 
 ---
 
-<h1 align="center">IT and Cyber Security Fundamental</h1>
+<h1 align="center">IT and Cyber Security Fundamentals</h1>
 
 I'm developing educational materials covering IT fundamentals like system and network administration, as well as cyber security fundamentals. I started by creating visual maps to outline the content of various certification exams, including CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+. You can access these maps in PDF format on Dropbox by clicking on the images.
 <br><br>
