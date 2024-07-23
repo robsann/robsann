@@ -11,7 +11,7 @@ I have a keen interest in cyber security, with a focus on security operations, i
     - [Detection & Response with LimaCharlie (EDR)](https://github.com/robsann#-detection--response-with-limacharlie-edr)
     - [Attack Monitoring with Microsoft Sentinel (SIEM)](https://github.com/robsann#-attack-monitoring-with-microsoft-sentinel-siem)
     - [Network Security with Snort (IDS/IPS)](https://github.com/robsann#-network-security-with-snort-idsips)
-- [IT and Cyber Security Fundamentals](https://github.com/robsann#it-and-cyber-security-fundamentals)
+- [IT and Cyber Security Popular Certifications](https://github.com/robsann#it-and-cyber-security-popular-certifications)
     - [System Administration](https://github.com/robsann#system-administration)
     - [Network Administration](https://github.com/robsann#network-administration)
     - [Cyber Security](https://github.com/robsann#cyber-security)
@@ -77,12 +77,11 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 ---
 ---
 
-<h1 align="center">IT and Cyber Security Fundamentals</h1>
+<h1 align="center">IT and Cyber Security Popular Certifications</h1>
 
-I'm developing educational materials covering IT fundamentals like system and network administration, as well as cyber security fundamentals. I started by creating visual maps to outline the content of various certification exams, including CompTIA A+, CompTIA Linux+, CompTIA Network+, CompTIA Security+, and CompTIA CySA+. You can access these maps in PDF format on Dropbox by clicking on the images.
+A brief overview of popular CompTIA certifications, with mind maps detailing exam domains and links to related YouTube resources is provided here. This includes System Administration and Network Administration certifications such as CompTIA A+, CompTIA Linux+, and CompTIA Network+, as well as Cyber Security certifications like CompTIA Security+ and CompTIA CySA+. You can access these mind maps in high-resolution PDF format on Dropbox by clicking on the images.
 <br><br>
 
----
 
 <h1 align="center">System Administration</h1>
 
@@ -242,7 +241,7 @@ TCP (Transmission Control Protocol) is a connection-oriented and reliable transp
 <br>
 
 ## 💾 DHCP
-The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client-server architecture.
+The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks that in 4 steps, automatically assigns IP addresses and other communication parameters to devices connected to the network using a client-server architecture.
 
 <div align="center">
 <img src='images/dhcp.png' width="75%">
