@@ -21,7 +21,6 @@ I have a keen interest in cyber security, with a focus on security operations, i
     - [Cyber Security Concepts](https://github.com/robsann#cyber-security-concepts)
 
 ---
----
 
 <h1 align="center">Cyber Security Homelabs</h1>
 
@@ -75,7 +74,6 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 **Source:** https://github.com/robsann/NetworkSecurityWithSnort
 
 ---
----
 
 <h1 align="center">IT and Cyber Security Popular Certifications</h1>
 
@@ -114,7 +112,6 @@ The CompTIA Linux+ certification validates essential skills in Linux system admi
 **Shawn Powers' CompTIA Linux+ (XK0-005) prep (in progress) - [YouTube Link](https://www.youtube.com/watch?v=niPWk7tgD2Q&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&ab_channel=ShawnPowers)**
 <br><br>
 
----
 
 <h1 align="center">Network Administration</h1>
 
@@ -133,7 +130,6 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 **Professor Messer CompTIA Network+ (N10-008) course - [YouTube Link](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)**
 <br><br>
 
----
 
 <h1 align="center">Cyber Security</h1>
 
@@ -164,19 +160,21 @@ The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying a
 <li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code>4.0</code> Reporting and Communication</b></li>
 <br/>
 
+
+<h1 align="center">Cyber Security Resources</h1>
+
 ## 📝 Cyber Security Domains from 2021 (credits to [MyDFIR](https://www.youtube.com/@MyDFIR))
 Mind map from 2021 that provides a comprehensive overview of the various domains within cyber security.
 
 <img src='images/cybersecurity_domains_2021.png' align="center">
 
-## 📝 Cyber Security Hands-on Platforms
-- **[TryHackMe](https://tryhackme.com/):** Hands-on cyber security training with offensive and defensive paths.
-- **[HackTheBox](https://www.hackthebox.com/):** Hands-on cyber security training with offensive and defensive paths.
+## 📝 Hands-on Platforms for Cyber Security Operations
 - **[LetsDefend](https://letsdefend.io/):** Hands-on security operations training with alert addressing on simulated SOC environment.
 - **[CyberDefenders](https://cyberdefenders.org/):** A blue team training platform.
+- **[TryHackMe](https://tryhackme.com/):** Hands-on cyber security training with offensive and defensive paths.
+- **[HackTheBox](https://www.hackthebox.com/):** Hands-on cyber security training with offensive and defensive paths.
 </div>
 
----
 ---
 
 <h1 align="center">IT and Cyber Security Concepts</h1>
@@ -220,7 +218,6 @@ Linux commands help users navigate the file system, interact with the files, and
 </div>
 <br>
 
----
 
 <h1 align="center">Networking Concepts</h1>
 
@@ -256,7 +253,6 @@ The Domain Name System (DNS) is a naming database that translates human-readable
 </div>
 <br>
 
----
 
 <h1 align="center">Cyber Security Concepts</h1>
 
