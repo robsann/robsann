@@ -259,6 +259,8 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 
 <h1 align="center" id="it-and-cyber-security-concepts">💾 IT and Cyber Security Concepts</h1>
 
+Below are brief descriptions accompanied by images to help illustrate popular concepts in IT and Cyber Security.
+
 <details>
 <summary>
 <h2 id="sysadmin-concepts">SysAdmin Concepts</h2>
