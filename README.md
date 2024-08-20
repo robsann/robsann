@@ -11,8 +11,8 @@ I have a keen interest in cyber security, with a focus on security operations, i
 - [Cyber Security Homelabs](#cyber-security-homelabs)
     - [Threat Hunting with Elastic Stack 8 (XDR)](#elastic-stack)
     - [Detection & Response with LimaCharlie (EDR)](#limacharlie)
+	- [Network Security with Snort (IDS/IPS)](#snort)
     - [Attack Monitoring with Microsoft Sentinel (SIEM)](#microsoft-sentinel)
-    - [Network Security with Snort (IDS/IPS)](#snort)
 - [IT and Cyber Security Popular Certifications](#it-and-cyber-sec-certs)
     - [System Administration](#system-administration-cert)
     - [Network Administration](#network-administration-cert)
@@ -27,13 +27,14 @@ I have a keen interest in cyber security, with a focus on security operations, i
 ----------------------------------------------------------------------------------------------------
 
 
-<h1 align="center" id="cyber-security-homelabs">Cyber Security Homelabs</h1>
+<h1 align="center" id="cyber-security-homelabs">🌱 Cyber Security Homelabs</h1>
 
 I've been exploring some homelabs described in YouTube channels and blogs on topics such as threat hunting (XDR), endpoint security (EDR), monitoring (SIEM), and network security (IDS/IPS)
 
+
 <details>
 <summary>
-<h2 id="elastic-stack">🌱 Threat Hunting with Elastic Stack 8 (XDR)</h2>
+<h2 id="elastic-stack">Threat Hunting with Elastic Stack 8 (XDR)</h2>
 </summary>
 <span style="color:gray">
 
@@ -53,9 +54,10 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 </span>
 </details>
 
+
 <details>
 <summary>
-<h2 id="limacharlie">🌱 Detection & Response with LimaCharlie (EDR)</h2>
+<h2 id="limacharlie">Detection & Response with LimaCharlie (EDR)</h2>
 </summary>
 <span style="color:gray">
 
@@ -74,25 +76,10 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 </span>
 </details>
 
-<details>
-<summary>
-<h2 id="microsoft-sentinel">🌱 Attack Monitoring with Microsoft Sentinel (SIEM)</h2>
-</summary>
-<span style="color:gray">
-
-- Microsoft Sentinel was used to monitor failed RDP login attempts from global attackers on an exposed Windows 10 virtual machine configured in Microsoft Azure.
-- A custom log file (`failed_rdp.log`) was generated using a PowerShell script that extracts failed login events from Security Log on Event Viewer and forwards them to a third-party API to get geolocation data.
-- A custom table (`FAILED_RDP_WITH_GEO_CL`) was created in Log Analytics Workspace on Microsoft Azure using the generated log file (`failed_rdp.log`). Custom fields were extracted from the table using a Kusto Query Language (KQL) query.
-- A workbook was created in Microsoft Sentinel using KQL to query data from the `FAILED_RDP_WITH_GEO_CL` table to display global attackers (RDP login failure) on the world map according to physical location and magnitude (attack count).
-
-**Source:** https://github.com/robsann/AzureSentinelSIEMAttackMap
-
-</span>
-</details>
 
 <details>
 <summary>
-<h2 id="snort">🌱 Network Security with Snort (IDS/IPS)</h2>
+<h2 id="snort">Network Security with Snort (IDS/IPS)</h2>
 </summary>
 <span style="color:gray">
 
@@ -111,16 +98,33 @@ I've been exploring some homelabs described in YouTube channels and blogs on top
 </details>
 
 
+<details>
+<summary>
+<h2 id="microsoft-sentinel">Attack Monitoring with Microsoft Sentinel (SIEM)</h2>
+</summary>
+<span style="color:gray">
+
+- Microsoft Sentinel was used to monitor failed RDP login attempts from global attackers on an exposed Windows 10 virtual machine configured in Microsoft Azure.
+- A custom log file (`failed_rdp.log`) was generated using a PowerShell script that extracts failed login events from Security Log on Event Viewer and forwards them to a third-party API to get geolocation data.
+- A custom table (`FAILED_RDP_WITH_GEO_CL`) was created in Log Analytics Workspace on Microsoft Azure using the generated log file (`failed_rdp.log`). Custom fields were extracted from the table using a Kusto Query Language (KQL) query.
+- A workbook was created in Microsoft Sentinel using KQL to query data from the `FAILED_RDP_WITH_GEO_CL` table to display global attackers (RDP login failure) on the world map according to physical location and magnitude (attack count).
+
+**Source:** https://github.com/robsann/AzureSentinelSIEMAttackMap
+
+</span>
+</details>
+
+
 ----------------------------------------------------------------------------------------------------
 
 
-<h1 align="center" id="it-and-cyber-sec-certs">IT and Cyber Security Popular Certifications</h1>
+<h1 align="center" id="it-and-cyber-sec-certs">📝 IT and Cyber Security Popular Certifications</h1>
 
 A brief overview of popular CompTIA certifications, with mind maps detailing exam domains and links to related YouTube resources is provided here. This includes System Administration and Network Administration certifications such as CompTIA A+, CompTIA Linux+, and CompTIA Network+, as well as Cyber Security certifications like CompTIA Security+ and CompTIA CySA+. You can access these mind maps in high-resolution PDF format on Dropbox by clicking on the images.
 
 <details>
 <summary>
-<h2 id="system-administration-cert">📝 System Administration Certifications</h2>
+<h2 id="system-administration-cert">System Administration Certifications</h2>
 </summary>
 <span style="color:gray">
 
@@ -161,7 +165,7 @@ The CompTIA Linux+ certification validates essential skills in Linux system admi
 
 <details>
 <summary>
-<h2 id="network-administration-cert">📝 Network Administration Certifications</h2>
+<h2 id="network-administration-cert">Network Administration Certifications</h2>
 </summary>
 <span style="color:gray">
 
@@ -187,7 +191,7 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 
 <details>
 <summary>
-<h2 id="cyber-security-cert">📝 Cyber Security Certifications</h2>
+<h2 id="cyber-security-cert">Cyber Security Certifications</h2>
 </summary>
 <span style="color:gray">
 
@@ -228,7 +232,7 @@ The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying a
 
 <details>
 <summary>
-<h2 id="cyber-security-resources">📝 Cyber Security Resources</h2>
+<h2 id="cyber-security-resources">Cyber Security Resources</h2>
 </summary>
 <span style="color:gray">
 
@@ -253,11 +257,11 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 ----------------------------------------------------------------------------------------------------
 
 
-<h1 align="center" id="it-and-cyber-security-concepts">IT and Cyber Security Concepts</h1>
+<h1 align="center" id="it-and-cyber-security-concepts">💾 IT and Cyber Security Concepts</h1>
 
 <details>
 <summary>
-<h2 id="sysadmin-concepts">💾 SysAdmin Concepts</h2>
+<h2 id="sysadmin-concepts">SysAdmin Concepts</h2>
 </summary>
 <span style="color:gray">
 
@@ -306,7 +310,7 @@ Linux commands help users navigate the file system, interact with the files, and
 
 <details>
 <summary>
-<h2 id="networking-concepts">💾 Networking Concepts</h2>
+<h2 id="networking-concepts">Networking Concepts</h2>
 </summary>
 <span style="color:gray">
 
@@ -351,7 +355,7 @@ The Domain Name System (DNS) is a naming database that translates human-readable
 
 <details>
 <summary>
-<h2 id="cyber-security-concepts">💾 Cyber Security Concepts</h2>
+<h2 id="cyber-security-concepts">Cyber Security Concepts</h2>
 </summary>
 <span style="color:gray">
 
