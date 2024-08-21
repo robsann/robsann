@@ -274,7 +274,7 @@ Below are brief descriptions accompanied by images to help illustrate popular co
 The Linux File System is a hierarchical structure that organizes and stores files on a Linux system. It uses a tree-like directory structure, starting with the root directory ("/"), with directories and files arranged systematically to facilitate efficient file management and access.
 
 <div align="center">
-<img src='images/linux_file_system.png' width="50%">
+<img src='images/linux_file_system.png' width="45%">
 </div>
 <br>
 
@@ -305,7 +305,7 @@ Linux commands help users navigate the file system, interact with the files, and
 - **Log files (/var/log/)** store system and application logs, aiding in troubleshooting by capturing events, errors, and diagnostic information for analysis and monitoring.
 
 <div align="center">
-<img src='images/linux_files_and_logs.png' width="75%">
+<img src='images/linux_files_and_logs.png' width="70%">
 </div>
 <br>
 
@@ -332,7 +332,7 @@ The Open Systems Interconnection (OSI) model is a conceptual framework used to d
 TCP (Transmission Control Protocol) is a connection-oriented and reliable transport layer protocol, that ensures data integrity and ordered delivery. UDP (User Datagram Protocol) is a connectionless and lightweight transport layer protocol that sacrifices reliability for reduced latency, making it suitable for real-time applications where occasional data loss is acceptable.
 
 <div align="center">
-<img src='images/tcp_vs_udp.png' width="75%">
+<img src='images/tcp_vs_udp.png' width="70%">
 </div>
 <br>
 
@@ -350,7 +350,7 @@ The Dynamic Host Configuration Protocol (DHCP) is a network management protocol 
 The Domain Name System (DNS) is a naming database that translates human-readable domain names (e.g., www.example.com) to machine-readable IP addresses (e.g., 93.184.216.34) used for device communication. If the website is not cached, the DNS resolver will query Root Servers, Top-Level Domain (TLD) Servers, and Authoritative Nameservers to retrieve the IP address.
 
 <div align="center">
-<img src='images/dns.png' width="75%">
+<img src='images/dns.png' width="85%">
 </div>
 <br>
 
@@ -395,7 +395,7 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 The Pyramid of Pain is a conceptual framework in cybersecurity that categorizes indicators of compromise (IOCs) in six levels based on the difficulty for adversaries to change or evade detection. The pyramid is structured in ascending order of difficulty, as illustrated below:
 
 <div align="center">
-<img src='images/pyramid_of_pain.png' width="75%">
+<img src='images/pyramid_of_pain.png' width="85%">
 </div>
 <br>
 
@@ -413,7 +413,7 @@ Security Operations Center (SOC) technologies encompass a range of tools designe
 The NIST Incident Response Framework provides a systematic approach for organizations to prepare for, detect, respond to, and recover from cybersecurity incidents. It guides the development of robust incident response capabilities through a four-phase process: preparation, detection and analysis, containment, eradication, recovery, and post-incident activity.
 
 <div align="center">
-<img src='images/nist_ir.png' width="75%">
+<img src='images/nist_ir.png' width="65%">
 </div>
 <br>
 
