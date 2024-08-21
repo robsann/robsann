@@ -30,8 +30,7 @@ I have a keen interest in cyber security, with a focus on security operations, i
 
 <h1 align="center" id="cyber-security-homelabs">🌱 Cyber Security Homelabs</h1>
 
-I've been exploring some homelabs described in YouTube channels and blogs on topics such as threat hunting (XDR), endpoint security (EDR), monitoring (SIEM), and network security (IDS/IPS)
-
+I have been exploring various homelabs featured in YouTube channels and blogs, focusing on topics like threat hunting (XDR), endpoint security (EDR), network security (IDS/IPS), and log monitoring (SIEM). I have been documenting step-by-step procedures for setting up these labs in a self-hosted, cost-free manner.
 
 <details>
 <summary>
