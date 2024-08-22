@@ -438,7 +438,7 @@ The SANS Incident Response Framework provides a structured approach for organiza
 
 ## AutoBlue MS17-010 Python 3 Fix
 
-Here is a suggestion to address the issue related to `bytes` and `str` types when running the AutoBlue MS17-010 exploit on Python 3. You can access the solution by clicking [here](https://github.com/robsann/AutoBlue-MS17-010-python3-fix).
+Here is a suggestion to address the issue related to `bytes` and `str` types when running the AutoBlue MS17-010 exploit on Python 3. You can access the suggestions by clicking [here](https://github.com/robsann/AutoBlue-MS17-010-python3-fix).
 
 ## Useful Shell Scripts
 
