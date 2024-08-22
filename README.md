@@ -434,7 +434,7 @@ The SANS Incident Response Framework provides a structured approach for organiza
 ----------------------------------------------------------------------------------------------------
 
 
-<h1 align="center" id="cyber-security-homelabs">💻 Other Stuff</h1>
+<h1 align="center" id="other-stuff">💻 Other Stuff</h1>
 
 ## AutoBlue MS17-010 Python 3 Fix
 
