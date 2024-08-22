@@ -18,11 +18,8 @@ else
 	num=$1
 fi
 
-while true
-do
-
 field_size=(7 8 5 5 6 1)		# for spacing formatting
-field_n=0				# for spacing formatting
+field_n=0						# for spacing formatting
 
 echo ""
 
@@ -69,7 +66,7 @@ do
             fi
             line=""
         fi
-	# Counters
+		# Counters
         if [ $(((field_n+1)%6)) -eq 0 ]; then
             field_n=0
         else
@@ -78,7 +75,4 @@ do
         ((k++))
     done
     echo -e "$GREEN-------------------------------------------------------------------------$NC"
-done
-
-sleep 5
 done

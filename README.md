@@ -22,7 +22,7 @@ I have a keen interest in cyber security, with a focus on security operations, i
     - [SysAdmin Concepts](#sysadmin-concepts)
     - [Networking Concepts](#networking-concepts)
     - [Cyber Security Concepts](#cyber-security-concepts)
-
+- [Other Stuff](#other-stuff)
 
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
@@ -428,6 +428,65 @@ The SANS Incident Response Framework provides a structured approach for organiza
 
 </span>
 </details>
+
+
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+
+<h1 align="center" id="cyber-security-homelabs">💻 Other Stuff</h1>
+
+## AutoBlue MS17-010 Python 3 Fix
+
+This is a suggetion to fix the problem to run the AutoBlue MS17-010 exploit on Python 3, which can be found [here](https://github.com/robsann/AutoBlue-MS17-010-python3-fix).
+
+## Useful Shell Scripts
+
+<details>
+<summary>
+<h3>Top CPU and Memory Usage</h3>
+</summary>
+<span style="color:gray">
+
+This script utilizes the `ps` command to display the top n processes based on CPU and Memory usage. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/mem_and_cpu_usage.sh).
+
+<div align="center">
+<img src='images/mem_cpu_usage.png' width="90%">
+</div>
+
+</span>
+</details>
+
+<details>
+<summary>
+<h3>Listening Ports</h3>
+</summary>
+<span style="color:gray">
+
+This script utilizes the `ss` and `ps` commands to show the listening ports along with the corresponding process and user names, as well as the PID number. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/listening_ports.sh).
+
+<div align="center">
+<img src='images/listening_ports.png' width="90%">
+</div>
+
+</span>
+</details>
+
+<details>
+<summary>
+<h3>Host Discovery</h3>
+</summary>
+<span style="color:gray">
+
+This script utilizes Nmap to retrieve the IP addresses and MAC addresses of devices connected to the network, then compiles them into a table. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/host_discovery.sh).
+
+<div align="center">
+<img src='images/host_discovery.png' width="90%">
+</div>
+
+</span>
+</details>
+
 
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
