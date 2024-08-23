@@ -6,8 +6,8 @@
 
 |[LetsDefend](https://github.com/robsann/robsann/blob/main/certificates.md#letsdefend)				|[TryHackMe](https://github.com/robsann/robsann/blob/main/certificates.md#tryhackme)                  |[Linkedin Learning](https://github.com/robsann/robsann/blob/main/certificates.md#linkedin-learning)            |[DataCamp](https://github.com/robsann/robsann/blob/main/certificates.md#datacamp) 	|
 |-------------------|-------------------|-------------------|-------------------|
-| 3 Learning Paths 	| 8 Learning Paths 	| 25 Learning Paths | 2 Career Tracks 	|
-| 35 Courses 		| 172 Rooms  		| 200 Courses 		| 35 Courses	 	|
+| 4 Learning Paths 	| 8 Learning Paths 	| 25 Learning Paths | 2 Career Tracks 	|
+| 66 Courses 		| 172 Rooms  		| 200 Courses 		| 35 Courses	 	|
 | 8 Alerts 			| 30 Modules		|                   | 1 Skill Track		|
 | 3 Challenges 		|                   |                   | 3 Projects 		|
 </div>
@@ -28,74 +28,111 @@
 
 <details>
     <summary>
-        <a href="https://app.letsdefend.io/certificate/show/c2cf0d01-1e64-4daf-bfba-449a645dd8ba"><b>1. Malware Analysis Skill Path</b></a>
+        <a href="https://app.letsdefend.io/certificate/show/5c1ff4b6-5dfb-4712-8a2c-2ecfafe13d35"><b>1. Incident Responder Path</b></a>
     </summary>
     <span style="color:black">
-        &emsp;&emsp;<b>COURSES</b><br>
-        &emsp;&emsp;1. <b>Malware Analysis Fundamentals</b><br>
-        &emsp;&emsp;2. <b>Dynamic Malware Analysis</b><br>
-        &emsp;&emsp;3. <b>Building a Malware Analysis Lab</b><br>
-        &emsp;&emsp;4. <b>Malware Traffic Analysis with Wireshark</b><br>
-        &emsp;&emsp;5. <b>Static Malware Analysis</b><br>
-        &emsp;&emsp;6. <b>Malicious Document Analysis</b><br>
-        &emsp;&emsp;7. <b>Reverse Engineering</b><br>
-        &emsp;&emsp;8. <b>Reverse Engineering 2</b><br>
-        &emsp;&emsp;9. <b>VirusTotal for SOC Analysts</b>
+
+### COURSES
+1. **Cybersecurity Incident Handling Guide**
+2. **Incident Response on Windows**
+3. **Incident Response on Linux**
+4. **IR - Malware - Event ID: 139**
+5. **Hacked Web Server Analysis**
+6. **SA - Web Attack - Event ID: 115**
+7. **Log Analysis with Sysmon**
+8. **Forensic Acquisition and Triage**
+9. **Memory Forensics**
+10. **Memory Analysis**
+11. **Registry Forensics**
+12. **Event Log Analysis**
+13. **IR - Malware - Event ID: 101**
+14. **Browser Forensics**
+15. **Suspicious Browser Extension**
+16. **GTFOBins**
+17. **Hunting AD Attacks**
+18. **Writing a Report on Security Incident**
+19. **How to Prepare a Cyber Crisis Management Plan?**
+20. **Advanced Event Log Analysis**
+21. **USB Forensics**
+22. **Windows Disk Forensics**
+	</span>
+</details>
+
+
+<details>
+    <summary>
+        <a href="https://app.letsdefend.io/certificate/show/c2cf0d01-1e64-4daf-bfba-449a645dd8ba"><b>2. Malware Analysis Skill Path</b></a>
+    </summary>
+    <span style="color:black">
+
+### COURSES
+1. **Malware Analysis Fundamentals**
+2. **Dynamic Malware Analysis**
+3. **Building a Malware Analysis Lab**
+4. **Malware Traffic Analysis with Wireshark**
+5. **Static Malware Analysis**
+6. **Malicious Document Analysis**
+7. **Reverse Engineering**
+8. **Reverse Engineering 2**
+9. **VirusTotal for SOC Analysts**
+	</span>
+</details>
+
+<details>
+    <summary>
+        <a href="https://app.letsdefend.io/certificate/show/f3801d83-a93f-4376-a7cd-509f422cc5cc"><b>3. SOC Analyst Learning Path</b></a>
+    </summary>
+    <span style="color:black">
+
+### COURSES
+1. **SOC Fundamentals**
+2. **Cyber Kill Chain**
+3. **MITRE ATT&CK Framework**
+4. **Phishing Email Analysis**
+5. **Detecting Web Attacks**
+6. **Detecting Web Attacks - 2**
+7. **Investigate Web Attack (Challenge)**
+8. **Malware Analysis Fundamentals**
+9. **SA - Malware - Event ID: 77 (Alert)**
+10. **Dynamic Malware Analysis**
+11. **MSHTML (Challenge)**
+12. **Malicious Document Analysis**
+13. **Security Solutions**
+14. **Network Log Analysis**
+15. **SIEM 101**
+16. **Incident Management 101**
+17. **Splunk**
+18. **Cyber Threat Intelligence**
+19. **VirusTotal for SOC Analysts**
+20. **SA - Malware - Event ID: 76 (Alert)**
+21. **IT Security Basis for Corporates**
+22. **Detecting Brute Force Attacks**
+23. **Building a Malware Analysis Lab**
+24. **Building a SOC Lab at Home**
     </span>
 </details>
 
 <details>
     <summary>
-        <a href="https://app.letsdefend.io/certificate/show/f3801d83-a93f-4376-a7cd-509f422cc5cc"><b>2. SOC Analyst Learning Path</b></a>
+    	<a href="https://app.letsdefend.io/certificate/show/4dc903dd-58c1-4287-a8f0-5b31fa0c6b9a"><b>4. Cybersecurity for Studens</b></a>
     </summary>
     <span style="color:black">
-        &emsp;&emsp;<b>COURSES</b><br>
-        &emsp;&emsp;1. <b>SOC Fundamentals</b><br>
-        &emsp;&emsp;2. <b>Cyber Kill Chain</b><br>
-        &emsp;&emsp;3. <b>MITRE ATT&CK Framework</b><br>
-        &emsp;&emsp;4. <b>Phishing Email Analysis</b><br>
-        &emsp;&emsp;5. <b>Detecting Web Attacks</b><br>
-        &emsp;&emsp;6. <b>Detecting Web Attacks - 2</b><br>
-        &emsp;&emsp;7. <b>Investigate Web Attack (Challenge)</b><br>
-        &emsp;&emsp;8. <b>Malware Analysis Fundamentals</b><br>
-        &emsp;&emsp;9. <b>SA - Malware - Event ID: 77 (Alert)</b><br>
-        &emsp;&emsp;10. <b>Dynamic Malware Analysis</b><br>
-        &emsp;&emsp;11. <b>MSHTML (Challenge)</b><br>
-        &emsp;&emsp;12. <b>Malicious Document Analysis</b><br>
-        &emsp;&emsp;13. <b>Security Solutions</b><br>
-        &emsp;&emsp;14. <b>Network Log Analysis</b><br>
-        &emsp;&emsp;15. <b>SIEM 101</b><br>
-        &emsp;&emsp;16. <b>Incident Management 101</b><br>
-        &emsp;&emsp;17. <b>Splunk</b><br>
-        &emsp;&emsp;18. <b>Cyber Threat Intelligence</b><br>
-        &emsp;&emsp;19. <b>VirusTotal for SOC Analysts</b><br>
-        &emsp;&emsp;20. <b>SA - Malware - Event ID: 76 (Alert)</b><br>
-        &emsp;&emsp;21. <b>IT Security Basis for Corporates</b><br>
-        &emsp;&emsp;22. <b>Detecting Brute Force Attacks</b><br>
-        &emsp;&emsp;23. <b>Building a Malware Analysis Lab</b><br>
-        &emsp;&emsp;24. <b>Building a SOC Lab at Home</b>
+
+### COURSES
+1. **Network Fundamentals**
+2. **Network Fundamentals II**
+3. **Windows Fundamentals**
+4. **Linux for Blue Team**
+5. **Network Protocols**
+6. **Network Protocols - 2**
+7. **Introduction to Cryptology**
+8. **Malware Analysis Fundamentals**
+9. **Malware Traffic Analysis with Wireshark**
+10. **Remote Working**
+11. **Job Hunting**
     </span>
 </details>
 
-<details>
-    <summary>
-    	<a href="https://app.letsdefend.io/certificate/show/4dc903dd-58c1-4287-a8f0-5b31fa0c6b9a"><b>3. Cybersecurity for Studens</b></a>
-    </summary>
-    <span style="color:black">
-    	&emsp;&emsp;<b>COURSES</b><br>
-        &emsp;&emsp;1. <b>Network Fundamentals</b><br>
-        &emsp;&emsp;2. <b>Network Fundamentals II</b><br>
-        &emsp;&emsp;3. <b>Windows Fundamentals</b><br>
-        &emsp;&emsp;4. <b>Linux for Blue Team</b><br>
-        &emsp;&emsp;5. <b>Network Protocols</b><br>
-        &emsp;&emsp;6. <b>Network Protocols - 2</b><br>
-        &emsp;&emsp;7. <b>Introduction to Cryptology</b><br>
-        &emsp;&emsp;8. <b>Malware Analysis Fundamentals</b><br>
-        &emsp;&emsp;9. <b>Malware Traffic Analysis with Wireshark</b><br>
-        &emsp;&emsp;10. <b>Remote Working</b><br>
-        &emsp;&emsp;11. <b>Job Hunting</b>
-    </span>
-</details>
 
 ## Alert Handling
 
