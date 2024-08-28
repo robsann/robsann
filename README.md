@@ -2,7 +2,9 @@
     
 # Hi, I'm Robson
 
-I have a keen interest in cyber security, with a focus on security operations, including network and endpoint security, log and traffic analysis, malware analysis, threat hunting, digital forensics, incident response, threat intelligence, web applications security, and vulnerability management. I use my GitHub account to curate homelabs to simulate diverse security operations scenarios, which I then use to test SOC tools. Additionally, I create content covering system administration, network administration, and cyber security topics. My certificates can be found [here](https://github.com/robsann/robsann/blob/main/docs/certificates.md).
+I have extensive programming experience and a keen interest in cybersecurity, with a focus on security operations and data flow automation. I leverage my GitHub account to curate homelabs to simulate various security operations scenarios and test tools used in the Security Operations Center (SOC). Additionally, whenever possible, I try to create some small snippets of content covering topics in systems administration, network administration, and cybersecurity. My certificates can be found [here](https://github.com/robsann/robsann/blob/main/docs/certificates.md).
+
+I leverage my GitHub account to curate homelabs that simulate a wide range of security operations scenarios. These homelabs serve as a testing ground for various SOC tools.
 
 </div>
 
