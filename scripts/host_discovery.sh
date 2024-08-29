@@ -16,7 +16,7 @@ GREEN='\033[0;32m'
 NC='\033[0m' # No ColorNC='\033[0m' # No Color
 
 if [ -z $1 ]; then
-	read -p "Enter IP range (e.g., 192.168.1.0/24 or 192.168.1.1-20): " ip_range
+	read -p "Enter IP range (format: 192.168.1.0/24 or 192.168.1.1-20): " ip_range
 else
 	ip_range=$1
 fi
@@ -61,6 +61,17 @@ do
 		fi
 	fi
 done <<< $out
+
+# Add host ip address
+ip_array[$ip_n]=$(echo $ip_range | sed -E 's/(.*)\..*/\1/g')
+((ip_n++))
+# Add host mac address
+net=$(echo $ip_range | sed -E 's/(.*)\..*/\1/g')
+line=$(ip a | grep "$net" -B 1 | head -n 1)
+mac_array[$mac_n]=$(echo $line | sed -E 's/.*\s([0-9a-f:]+)\s.*/\1/g')
+# Add device name
+device_array[$mac_n]=$(hostname)
+((mac_n++))
 
 # Print table
 echo -e $BWHITE$hosts_up$NC
