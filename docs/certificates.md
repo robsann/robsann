@@ -4,7 +4,7 @@
 
 <div align="left">
 
-|[LetsDefend](https://github.com/robsann/robsann/blob/main/certificates.md#letsdefend)				|[TryHackMe](https://github.com/robsann/robsann/blob/main/certificates.md#tryhackme)                  |[Linkedin Learning](https://github.com/robsann/robsann/blob/main/certificates.md#linkedin-learning)            |[DataCamp](https://github.com/robsann/robsann/blob/main/certificates.md#datacamp) 	|
+|[LetsDefend](#letsdefend)	|[TryHackMe](#tryhackme)	|[Linkedin Learning](#linkedin-learning)	|[DataCamp](#datacamp) 	|
 |-------------------|-------------------|-------------------|-------------------|
 | 4 Learning Paths 	| 8 Learning Paths 	| 25 Learning Paths | 2 Career Tracks 	|
 | 66 Courses 		| 172 Rooms  		| 200 Courses 		| 35 Courses	 	|
