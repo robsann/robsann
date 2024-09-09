@@ -7,7 +7,7 @@ I have extensive programming experience and a keen interest in Cyber Ssecurity, 
 
 </div>
 
-# Outline
+## Table of Content
 
 - [Cyber Security Homelabs](#cyber-security-homelabs)
     - [Threat Hunting with Elastic Stack 8 (XDR)](#elastic-stack)
