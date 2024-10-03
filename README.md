@@ -499,6 +499,55 @@ I wrote a suggestion to address the issue related to `bytes` and `str` types whe
 </details>
 
 
+## Tools
+
+<details>
+<summary>
+<h3>Zabbix</h3>
+</summary>
+<span style="color:gray">
+
+Zabbix is an open-source monitoring software tool used for monitoring the performance and availability of servers, network devices, and other IT infrastructure components. It provides real-time monitoring, alerting, and visualization features to help IT teams identify and resolve issues quickly. Zabbix can monitor a wide range of devices and applications, making it a versatile tool for managing and maintaining IT systems.
+
+<details>
+<summary>
+<h4>Zabbix Installation</h4>
+</summary>
+<span style="color:gray">
+
+The procedure for the Zabbix installation can be found [here](https://github.com/robsann/robsann/blob/main/docs/zabbix_install.md)
+
+</span>
+</details>
+
+<details>
+<summary>
+<h4>Screenshots</h4>
+</summary>
+<span style="color:gray">
+
+Docker containers:
+
+<img src='images/zabbix0.png' width="90%">
+
+Hosts monitoring:
+
+<img src='images/zabbix1.png' width="90%">
+
+Problems monitoring:
+
+<img src='images/zabbix2.png' width="90%">
+
+Host dashboard:
+
+<img src='images/zabbix3.png' width="90%">
+
+</span>
+</details>
+
+</span>
+</details>
+
 <!--
 **robsann/robsann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
