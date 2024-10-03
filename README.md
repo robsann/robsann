@@ -509,7 +509,7 @@ I wrote a suggestion to address the issue related to `bytes` and `str` types whe
 
 Zabbix is an open-source monitoring software tool used for monitoring the performance and availability of servers, network devices, and other IT infrastructure components. It provides real-time monitoring, alerting, and visualization features to help IT teams identify and resolve issues quickly. Zabbix can monitor a wide range of devices and applications, making it a versatile tool for managing and maintaining IT systems.
 
-The procedure for the Zabbix installation can be found [here](https://github.com/robsann/robsann/blob/main/docs/zabbix_install.md)
+The procedure for the Zabbix installation can be found [here](https://github.com/robsann/robsann/blob/main/docs/zabbix_install.md).
 
 <details>
 <summary>
