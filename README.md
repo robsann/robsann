@@ -502,19 +502,19 @@ The procedure for the Zabbix installation can be found [here](https://github.com
 </summary>
 <span style="color:gray">
 
-Docker containers:
+- **Docker containers**
 
 <img src='images/zabbix0.png' width="90%">
 
-Hosts monitoring:
+- **Hosts monitoring**
 
 <img src='images/zabbix1.png' width="90%">
 
-Problems monitoring:
+- **Problems monitoring**
 
 <img src='images/zabbix2.png' width="90%">
 
-Host dashboard:
+- **Host dashboard**
 
 <img src='images/zabbix3.png' width="90%">
 
