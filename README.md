@@ -436,7 +436,7 @@ The SANS Incident Response Framework provides a structured approach for organiza
 
 <h1 align="center" id="other-stuff">💻 Other Stuff</h1>
 
-## Useful Shell Scripts
+## 📣 Useful Shell Scripts
 
 <details>
 <summary>
@@ -483,7 +483,7 @@ This script utilizes Nmap to retrieve the IP addresses and MAC addresses of devi
 </span>
 </details>
 
-## Random Stuff
+## 🎯 Random Stuff
 
 <details>
 <summary>
@@ -497,7 +497,7 @@ I wrote a suggestion to address the issue related to `bytes` and `str` types whe
 </details>
 
 
-## Tools
+## 🛠️ Tools
 
 <details>
 <summary>
