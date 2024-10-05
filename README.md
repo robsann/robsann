@@ -6,22 +6,11 @@ I have extensive programming experience and a keen interest in Cyber Ssecurity, 
 
 </div>
 
-## Table of Contents
+## Outline
 
 - [Cyber Security Homelabs](#cyber-security-homelabs)
-    - [Threat Hunting with Elastic Stack 8 (XDR)](#elastic-stack)
-    - [Detection & Response with LimaCharlie (EDR)](#limacharlie)
-	- [Network Security with Snort (IDS/IPS)](#snort)
-    - [Attack Monitoring with Microsoft Sentinel (SIEM)](#microsoft-sentinel)
 - [IT and Cyber Security Popular Certifications](#it-and-cyber-sec-certs)
-    - [System Administration](#system-administration-cert)
-    - [Network Administration](#network-administration-cert)
-    - [Cyber Security](#cyber-security-cert)
-	- [Cyber Security Resources](#cyber-security-resources)
 - [IT and Cyber Security Concepts](#it-and-cyber-security-concepts)
-    - [SysAdmin Concepts](#sysadmin-concepts)
-    - [Networking Concepts](#networking-concepts)
-    - [Cyber Security Concepts](#cyber-security-concepts)
 - [Other Stuff](#other-stuff)
 
 ----------------------------------------------------------------------------------------------------
