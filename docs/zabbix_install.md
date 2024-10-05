@@ -23,106 +23,106 @@ To perform the installation follow the steps below:
 	```yml
 	services:
 	  zabbix-server:
-	    container_name: "zabbix-server"
-	    image: zabbix/zabbix-server-pgsql:alpine-7.0-latest
-	    restart: always
-	    ports:
-	      - 10051:10051
-	    networks:
-	      - zabbix-net
-	    volumes:
-	      - /etc/localtime:/etc/localtime:ro
-	      - /etc/timezone:/etc/timezone:ro
-	    environment:
-	      ZBX_CACHESIZE: 4096M
-	      ZBX_HISTORYCACHESIZE: 1024M
-	      ZBX_HISTORYINDEXCACHESIZE: 1024M
-	      ZBX_TRENDCACHESIZE: 1024M
-	      ZBX_VALUECACHESIZE: 1024M
-	      DB_SERVER_HOST: "zabbix-db"
-	      DB_PORT: 5432
-	      POSTGRES_USER: "zabbix"
-	      POSTGRES_PASSWORD: "zabbix123"
-	      POSTGRES_DB: "zabbix-db"
-	    stop_grace_period: 30s
-	    labels:
-	      com.zabbix.description: "Zabbix server with PostgreSQL database support"
-	      com.zabbix.company: "Zabbix LLC"
-	      com.zabbix.component: "zabbix-server"
-	      com.zabbix.dbtype: "pgsql"
-	      com.zabbix.os: "alpine"
+		container_name: "zabbix-server"
+		image: zabbix/zabbix-server-pgsql:alpine-7.0-latest
+		restart: always
+		ports:
+		  - 10051:10051
+		networks:
+		  - zabbix-net
+		volumes:
+		  - /etc/localtime:/etc/localtime:ro
+		  - /etc/timezone:/etc/timezone:ro
+		environment:
+		  ZBX_CACHESIZE: 4096M
+		  ZBX_HISTORYCACHESIZE: 1024M
+		  ZBX_HISTORYINDEXCACHESIZE: 1024M
+		  ZBX_TRENDCACHESIZE: 1024M
+		  ZBX_VALUECACHESIZE: 1024M
+		  DB_SERVER_HOST: "zabbix-db"
+		  DB_PORT: 5432
+		  POSTGRES_USER: "zabbix"
+		  POSTGRES_PASSWORD: "zabbix123"
+		  POSTGRES_DB: "zabbix-db"
+		stop_grace_period: 30s
+		labels:
+		  com.zabbix.description: "Zabbix server with PostgreSQL database support"
+		  com.zabbix.company: "Zabbix LLC"
+		  com.zabbix.component: "zabbix-server"
+		  com.zabbix.dbtype: "pgsql"
+		  com.zabbix.os: "alpine"
 
 	  zabbix-web-nginx-pgsql:
-	    container_name: "zabbix-web"
-	    image: zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
-	    restart: always
-	    ports:
-	      - 8080:8080
-	      - 8443:8443
-	    volumes:
-	      - /etc/localtime:/etc/localtime:ro
-	      - /etc/timezone:/etc/timezone:ro
-	      - ./cert/:/usr/share/zabbix/conf/certs/:ro
-	    networks:
-	      - zabbix-net
-	    environment:
-	      DB_SERVER_HOST: "zabbix-db"
-	      DB_PORT: 5432
-	      POSTGRES_USER: "zabbix"
-	      POSTGRES_PASSWORD: "zabbix123"
-	      POSTGRES_DB: "zabbix-db"
-	      ZBX_MEMORYLIMIT: "1024M"
-	    depends_on:
-	      - zabbix-server
-	    healthcheck:
-	      test: ["CMD", "curl", "-f", "http://localhost:8080/ping"]
-	      interval: 10s
-	      timeout: 5s
-	      retries: 3
-	      start_period: 30s
-	    stop_grace_period: 10s
-	    labels:
-	      com.zabbix.description: "Zabbix frontend on Nginx web-server with PostgreSQL database support"
-	      com.zabbix.company: "Zabbix LLC"
-	      com.zabbix.component: "zabbix-frontend"
-	      com.zabbix.webserver: "nginx"
-	      com.zabbix.dbtype: "pgsql"
-	      com.zabbix.os: "alpine"
+		container_name: "zabbix-web"
+		image: zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
+		restart: always
+		ports:
+		  - 8080:8080
+		  - 8443:8443
+		volumes:
+		  - /etc/localtime:/etc/localtime:ro
+		  - /etc/timezone:/etc/timezone:ro
+		  - ./cert/:/usr/share/zabbix/conf/certs/:ro
+		networks:
+		  - zabbix-net
+		environment:
+		  DB_SERVER_HOST: "zabbix-db"
+		  DB_PORT: 5432
+		  POSTGRES_USER: "zabbix"
+		  POSTGRES_PASSWORD: "zabbix123"
+		  POSTGRES_DB: "zabbix-db"
+		  ZBX_MEMORYLIMIT: "1024M"
+		depends_on:
+		  - zabbix-server
+		healthcheck:
+		  test: ["CMD", "curl", "-f", "http://localhost:8080/ping"]
+		  interval: 10s
+		  timeout: 5s
+		  retries: 3
+		  start_period: 30s
+		stop_grace_period: 10s
+		labels:
+		  com.zabbix.description: "Zabbix frontend on Nginx web-server with PostgreSQL database support"
+		  com.zabbix.company: "Zabbix LLC"
+		  com.zabbix.component: "zabbix-frontend"
+		  com.zabbix.webserver: "nginx"
+		  com.zabbix.dbtype: "pgsql"
+		  com.zabbix.os: "alpine"
 
-   	  zabbix-db-agent:
-	    container_name: "zabbix-agent"
-	    image: zabbix/zabbix-agent:alpine-7.0-latest
-	    depends_on:
-	      - zabbix-server
-	    volumes:
-	      - /etc/localtime:/etc/localtime:ro
-	      - /etc/timezone:/etc/timezone:ro
-	      - /run/docker.sock:/var/run/docker.sock
-	    environment:
-	      ZBX_HOSTNAME: "zabbix-host"
-	      ZBX_SERVER_HOST: "zabbix-server"
-	      ZBX_ENABLEREMOTECOMMANDS: "1"
-	    ports:
-	      - 10050:10050
-	      - 31999:31999
-	    networks:
-	      - zabbix-net
-	    stop_grace_period: 5s
+	  zabbix-db-agent:
+		container_name: "zabbix-agent"
+		image: zabbix/zabbix-agent:alpine-7.0-latest
+		depends_on:
+		  - zabbix-server
+		volumes:
+		  - /etc/localtime:/etc/localtime:ro
+		  - /etc/timezone:/etc/timezone:ro
+		  - /run/docker.sock:/var/run/docker.sock
+		environment:
+		  ZBX_HOSTNAME: "zabbix-host"
+		  ZBX_SERVER_HOST: "zabbix-server"
+		  ZBX_ENABLEREMOTECOMMANDS: "1"
+		ports:
+		  - 10050:10050
+		  - 31999:31999
+		networks:
+		  - zabbix-net
+		stop_grace_period: 5s
 
 	  db:
-	    container_name: "zabbix-db"
-	    image: postgres:16-bullseye
-	    restart: always
-	    volumes:
-	      - ./pgsql-volume:/var/lib/postgresql/data
-	    ports:
-	      - 5432:5432
-	    networks:
-	      - zabbix-net
-	    environment:
-	      POSTGRES_USER: "zabbix"
-	      POSTGRES_PASSWORD: "zabbix123"
-	      POSTGRES_DB: "zabbix-db"
+		container_name: "zabbix-db"
+		image: postgres:16-bullseye
+		restart: always
+		volumes:
+		  - ./pgsql-volume:/var/lib/postgresql/data
+		ports:
+		  - 5432:5432
+		networks:
+		  - zabbix-net
+		environment:
+		  POSTGRES_USER: "zabbix"
+		  POSTGRES_PASSWORD: "zabbix123"
+		  POSTGRES_DB: "zabbix-db"
 
 	networks:
 	  zabbix-net:
@@ -277,6 +277,43 @@ Configure the Zabbix Agent on an Ubuntu Server.
 	$ docker exec -it zabbix-server zabbix_server -R config_cache_reload
 	```
 6. Check the host status on the Zabbix UI and fix any problems.
+
+## Configure Zabbix Agent on Ubuntu Server (VirtualBox VM)
+
+Configure the Zabbix Agent on an Ubuntu Server.
+
+1. On the Zabbix UI, under `Hosts` configure the `Debian Web Server` with the parameters below:
+	- Host name: `debian-server`
+	- Visible name: `Debian Server`
+	- Templates: `Templates/Operating systems` > `Linux by Zabbix agent`
+	- Host groups: `Virtual machines`
+	- Agent: `192.168.57.4`
+	- Then click `Update`.
+2. On the Debian Server, install the Zabbix Agent:
+	```bash
+	$ sudo apt install zabbix-agent
+	```
+3. Configure server IP address at the Zabbix Agent config file:
+	- Open the configuration file:
+		```bash
+		$ sudo nano /etc/zabbix/zabbix_agentd.conf
+		```
+	- Set the parameters below:
+		```yml
+		Server=192.168.57.1						# Zabbix Server IP Address
+		ServerActive=192.168.57.1:10051			# Zabbix Server IP:Port
+		Hostname=debian-server					# Hostname set at Zabbix UI
+		```
+4. Restart the Zabbix Agent:
+	```bash
+	$ sudo systemctl restart zabbix-agent
+	```
+5. Run the command below using the zabbix-server container id:
+	```bash
+	$ docker exec -it zabbix-server zabbix_server -R config_cache_reload
+	```
+6. Check the host status on the Zabbix UI and fix any problems.
+
 
 ## TROUBLESHOOTING
 
