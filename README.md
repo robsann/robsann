@@ -506,17 +506,22 @@ The procedure for the Zabbix installation can be found [here](https://github.com
 
 <img src='images/zabbix0.png' width="90%">
 
-- **Hosts monitoring**
+- **Dashboards**
 
 <img src='images/zabbix1.png' width="90%">
 
-- **Problems monitoring**
+- **Hosts monitoring**
 
 <img src='images/zabbix2.png' width="90%">
 
-- **Host dashboard**
+- **Problems monitoring**
 
 <img src='images/zabbix3.png' width="90%">
+
+- **Host dashboard**
+
+<img src='images/zabbix4.png' width="90%">
+
 
 </span>
 </details>
