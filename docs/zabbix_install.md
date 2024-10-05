@@ -278,9 +278,9 @@ Configure the Zabbix Agent on an Ubuntu Server.
 	```
 6. Check the host status on the Zabbix UI and fix any problems.
 
-## Configure Zabbix Agent on Ubuntu Server (VirtualBox VM)
+## Configure Zabbix Agent on Debian Server (VirtualBox VM)
 
-Configure the Zabbix Agent on an Ubuntu Server.
+Configure the Zabbix Agent on an Debian Server.
 
 1. On the Zabbix UI, under `Hosts` configure the `Debian Web Server` with the parameters below:
 	- Host name: `debian-server`
