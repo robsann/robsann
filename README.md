@@ -10,6 +10,7 @@ I have extensive programming experience and a keen interest in Cyber Ssecurity, 
 
 - [Cyber Security Homelabs](#cyber-security-homelabs)
 - [IT and Cyber Security Popular Certifications](#it-and-cyber-sec-certs)
+- [NIST Standards Overview](#nist-standards-overview)
 - [IT and Cyber Security Concepts](#it-and-cyber-security-concepts)
 - [Other Stuff](#other-stuff)
 
@@ -245,11 +246,11 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 ----------------------------------------------------------------------------------------------------
 
 
-<h1 align="center" id="nist-standards-overview">💾 NIST Standards Overview</h1>
+<h1 align="center" id="nist-standards-overview">📁 NIST Standards Overview</h1>
 
 <details>
 <summary>
-<h2 id="cyber-security-resources">The NIST Cybersecurity Framework (CSF) 2.0</h2>
+<h3 id="cyber-security-resources">The NIST Cybersecurity Framework (CSF) 2.0</h3>
 </summary>
 
 - The NIST Cybersecurity Framework (CSF) 2.0 is a set of guidelines and best practices for **managing cybersecurity risks**.
@@ -257,7 +258,7 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 - The framework helps organizations **identify**, **protect**, **detect**, **respond** to, and **recover** from cybersecurity threats.
 - It is a flexible and customizable tool that can be adapted to meet the specific needs of different organizations.
 
-[<img src="images/NIST_CSF_2.0.png" height="180" width="140" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_Cybersecurity_Framework_CSF_2.0.pdf)
+[<img src="images/NIST_CSF_2.0.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_Cybersecurity_Framework_CSF_2.0.pdf)
 
 ### Table of Contents
 
@@ -267,6 +268,183 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 <li><b><code>4.</code>Introduction to Online Resources That Supplement the CSF</b></li>
 <li><b><code>5.</code>Improving Cybersecurity Risk Communication and Integration</b></li>
 
+<br><br><br><br><br>
+</details>
+
+
+<details>
+<summary>
+<h3 id="nist-sp-800-12">NIST SP 800-12 Rev. 1:<br> An Introduction to Information Security</h3>
+</summary>
+
+- NIST SP 800-12 Rev. 1 is a publication that serves as an introduction to information security.
+- It provides guidance on understanding the importance of **information security**, the **risks and threats** that organizations face, and the best practices for **protecting information assets**.
+- The document covers topics such as **security policies**, **risk management**, **security controls**, and **incident response**.
+- It is designed to help organizations establish a strong foundation for their information security programs and ensure the confidentiality, integrity, and availability of their data and systems.
+
+[<img src="images/NIST_sp_800-12.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-12_rev1.pdf)
+
+### Table of Content
+
+<li><b><code>1.</code>Introduction</b></li>
+<li><b><code>2.</code>Elements of Information Security</b></li>
+<li><b><code>3.</code>Roles and Responsibilities</b></li>
+<li><b><code>4.</code>Threats and Vulnerabilities: A Brief Overview</b></li>
+<li><b><code>5.</code>Information Security Policy</b></li>
+<li><b><code>6.</code>Information Security Risk Management</b></li>
+<li><b><code>7.</code>Assurance</b></li>
+<li><b><code>8.</code>Security Considerations in System Support and Operations</b></li>
+<li><b><code>9.</code>Cryptography</b></li>
+<li><b><code>10.</code>Control Families</b></li>
+
+</details>
+
+
+<details>
+<summary>
+<h3 id="nist-sp-800-37">NIST SP 800-37 Rev. 2:<br> Risk Management Framework for Information Systems and Organizations</h3>
+</summary>
+
+- NIST SP 800-37 Rev. 2 is a publication that outlines a structured approach to managing risks associated with information systems and organizations.
+- The framework provides a systematic process for **identifying, assessing, and responding to risks**, with the goal of protecting critical assets and ensuring the confidentiality, integrity, and availability of information.
+- It emphasizes **continuous monitoring and improvement**, as well as **collaboration** between stakeholders to effectively manage and mitigate risks.
+- The framework is designed to be flexible and scalable, making it applicable to organizations of all sizes and industries.
+
+[<img src="images/NIST_sp_800-37.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-37_rev2.pdf)
+
+### Table of Contents
+
+<li><b><code>1.</code>Introduction</b></li>
+<li><b><code>2.</code>The Fundamentals</b></li>
+<li><b><code>3.</code>The Process</b></li>
+
+<br><br><br><br><br><br><br><br><br>
+</details>
+
+
+<details>
+<summary>
+<h3 id="nist-sp-800-53">NIST SP 800-53 Rev. 5:<br> Security and Privacy Controls for Information Systems and Organizations</h3>
+</summary>
+
+- NIST SP 800-53 Rev. 5 is a publication that provides a comprehensive set of security and privacy controls for information systems and organizations.
+- These controls are designed to help organizations **protect** their **sensitive information** and **systems** from **various threats**, including **cyber attacks**, **data breaches**, and **unauthorized access**.
+- The publication outlines a framework for implementing **security and privacy measures**, including **policies**, **procedures**, and **technical safeguards**, to ensure the confidentiality, integrity, and availability of information.
+- It is widely used by government agencies, private sector organizations, and other entities to enhance their cybersecurity posture and compliance with regulations.
+
+[<img src="images/NIST_sp_800-53.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-53_rev5.pdf)
+
+### Table of Contents
+
+<li><b><code>1.</code>Introduction</b></li>
+<li><b><code>2.</code>The Fundamentals</b></li>
+<li><b><code>3.</code>The Controls</b></li>
+
+<br><br><br><br><br><br><br><br><br>
+</details>
+
+
+<details>
+<summary>
+<h3 id="nist-sp-800-61">NIST SP 800-61 Rev 2:<br> Computer Security Incident Handling Guide</h3>
+</summary>
+
+- NIST SP 800-61 Rev 2 is a comprehensive guide to help organizations effectively respond to and manage computer security incidents.
+- It provides a structured approach for **handling incidents**, including **preparation**, **detection**, **analysis**, **containment**, **eradication**, **recovery**, and **post-incident activities**.
+- The guide outlines best practices for **incident response**, including **establishing an incident response team**, **creating incident response policies and procedures**, and **conducting post-incident reviews** to improve future incident handling.
+- By following the guidelines outlined in NIST SP 800-61 Rev 2, organizations can better protect their systems and data from cyber threats.
+
+[<img src="images/NIST_sp_800-61.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-61_rev2.pdf)
+
+### Table of Contents
+
+<b>Executive Summary</b>
+
+<li><b><code>1.</code>Introduction</b></li>
+<li><b><code>2.</code>Organizing a Computer Security Incident Response Capability</b></li>
+<li><b><code>3.</code>Handling an Incident</b></li>
+<li><b><code>4.</code>Coordination and Information Sharing</b></li>
+
+<br><br><br><br><br><br>
+</details>
+
+
+<details>
+<summary>
+<h3 id="nist-sp-800-63-3">NIST SP 800-63-3:<br> Digital Identity Guidelines</h3>
+</summary>
+
+- NIST SP 800-63-3 is a set of guidelines created to help organizations improve the security and usability of digital identity systems.
+- The guidelines provide recommendations for **identity proofing**, **authentication**, and **lifecycle management**, with a focus on **protecting against identity theft and fraud**.
+- By following these guidelines, organizations can enhance the security of their digital systems and better protect the privacy and security of their users' identities.
+
+[<img src="images/NIST_sp_800-63-3.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-63-3.pdf)
+
+### Table of Contents
+
+<li><b><code>1.</code>Purpose</b></li>
+<li><b><code>2.</code>Introduction</b></li>
+<li><b><code>3.</code>Definitions and Abbreviations</b></li>
+<li><b><code>4.</code>Digital Identity Model</b></li>
+<li><b><code>5.</code>Digital Identity Risk Management</b></li>
+<li><b><code>6.</code>Selecting Assurance Levels</b></li>
+<li><b><code>7.</code>Federation Considerations</b></li>
+<li><b><code>8.</code>References</b></li>
+
+<br><br>
+</details>
+
+
+<details>
+<summary>
+<h3 id="nist-sp-800-82">NIST SP 800-82 Rev. 3:<br> Guide to Operational Technology (OT) Security</h3>
+</summary>
+
+- NIST SP 800-82 Rev. 3 is a guide developed to help organizations secure their Operational Technology (OT) systems.
+- It provides recommendations and best practices for **protecting OT systems**, which are used to **monitor and control physical processes in industries** such as **manufacturing**, **energy**, and **transportation**.
+- The guide covers topics such as **risk management**, **access control**, **network security**, and **incident response**, helping organizations to identify and mitigate potential threats to their OT systems and ensure the reliability and safety of their operations.
+
+[<img src="images/NIST_sp_800-82.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-82_rev1.pdf)
+
+### Table of Contents
+
+<li><b><code>1.</code>Introduction</b></li>
+<li><b><code>2.</code>OT Overview</b></li>
+<li><b><code>3.</code>OT Cybersecurity Program Development</b></li>
+<li><b><code>4.</code>Risk Management for OT Systems</b></li>
+<li><b><code>5.</code>OT Cybersecurity Architecture</b></li>
+<li><b><code>6.</code>Applying the Cybersecurity Framework to OT</b></li>
+
+<br><br><br><br><br>
+</details>
+
+
+<details>
+<summary>
+<h3 id="nist-sp-800-115">NIST SP 800-115:<br> Technical Guide to Information Security Testing and Assessment</h3>
+</summary>
+
+- NIST SP 800-115 is a technical guide that provides organizations with guidance on conducting information security testing and assessments.
+- The document outlines best practices for evaluating the **effectiveness of security controls**, **identifying vulnerabilities**, and **assessing the overall security posture** of an organization's **systems and networks**.
+- It covers various **testing methodologies**, **tools**, and **techniques** that can be used to assess the security of an organization's information systems.
+- The guide aims to help organizations improve their security posture and protect their sensitive information from cyber threats.
+
+[<img src="images/NIST_sp_800-115.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-115.pdf)
+
+### Table of Contents
+
+Executive Summary
+
+<li><b><code>1.</code>Introduction</b></li>
+<li><b><code>2.</code>Security Testing and Examination Overview</b></li>
+<li><b><code>3.</code>Review Techniques</b></li>
+<li><b><code>4.</code>Target Identification and Analysis Techniques</b></li>
+<li><b><code>5.</code>Target Vulnerability Validation Techniques</b></li>
+<li><b><code>6.</code>Security Assessment Planning</b></li>
+<li><b><code>7.</code>Security Assessment Execution</b></li>
+<li><b><code>8.</code>Post-Testing Activities</b></li>
+
+<br>
 </details>
 
 
