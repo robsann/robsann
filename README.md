@@ -543,7 +543,7 @@ Executive Summary
 <li><b><code>9.</code>Operation</b></li>
 <li><b><code>10.</code>Leveraging related ISMS processes</b></li>
 
-<br><br>
+<br><br><br>
 </details>
 
 <details>
