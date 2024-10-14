@@ -10,7 +10,7 @@ I have extensive programming experience and a keen interest in Cyber Ssecurity, 
 
 - [Cyber Security Homelabs](#cyber-security-homelabs)
 - [IT and Cyber Security Popular Certifications](#it-and-cyber-sec-certs)
-- [NIST Standards Overview](#nist-standards-overview)
+- [Standards Overview](#standards-overview)
 - [IT and Cyber Security Concepts](#it-and-cyber-security-concepts)
 - [Other Stuff](#other-stuff)
 
