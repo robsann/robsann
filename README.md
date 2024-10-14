@@ -514,7 +514,7 @@ Executive Summary
 <li><b><code>7.</code>Physical controls</b></li>
 <li><b><code>8.</code>Technological controls</b></li>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 </details>
 
 <details>
@@ -639,7 +639,7 @@ Executive Summary
 <li><b><code>7.</code>Additional ISO/IEC 27002 guidance for PII controllers</b></li>
 <li><b><code>8.</code>Additional ISO/IEC 27002 guidance for PII processors</b></li>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 </details>
 
 </details>
