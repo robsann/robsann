@@ -626,7 +626,7 @@ Executive Summary
 - The standard helps organizations to **identify and manage privacy risks**, **comply with privacy regulations**, and **build trust with stakeholders** by demonstrating a commitment to protecting personal information.
 - By implementing ISO/IEC 27701, organizations can enhance their privacy practices, improve data protection measures, and ensure the confidentiality, integrity, and availability of personal information.
 
-[<img src="images/isoiec_27701.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27707-2019.pdf)
+[<img src="images/isoiec_27701.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27701-2019.pdf)
 
 ### Contents
 
