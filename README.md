@@ -247,7 +247,10 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 
 <h1 align="center" id="nist-standards-overview">💾 NIST Standards Overview</h1>
 
-## The NIST Cybersecurity Framework (CSF) 2.0
+<details>
+<summary>
+<h2 id="cyber-security-resources">The NIST Cybersecurity Framework (CSF) 2.0</h2>
+</summary>
 
 - The NIST Cybersecurity Framework (CSF) 2.0 is a set of guidelines and best practices for **managing cybersecurity risks**.
 - It provides a common language for organizations to **communicate about cybersecurity** and **assess** their current **cybersecurity posture**.
@@ -263,6 +266,8 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 <li><b><code>3.</code>Introduction to CSF Profiles and Tiers</b></li>
 <li><b><code>4.</code>Introduction to Online Resources That Supplement the CSF</b></li>
 <li><b><code>5.</code>Improving Cybersecurity Risk Communication and Integration</b></li>
+
+</details>
 
 
 ----------------------------------------------------------------------------------------------------
