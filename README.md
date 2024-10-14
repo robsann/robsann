@@ -460,8 +460,187 @@ Executive Summary
 
 <details>
 <summary>
-<h2 id="nist-standards-overview">ISO Standards Overview</h2>
+<h2 id="nist-standards-overview">ISO/IEC Standards Overview</h2>
 </summary>
+
+<details>
+<summary>
+<h3 id="isoiec-27001">ISO/IEC 27001:2022:<br> Information Security Management System (ISMS)</h3>
+</summary>
+
+- ISO/IEC 27001 is an internationally recognized standard that outlines the requirements for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS).
+- The ISMS is a systematic approach to managing sensitive company information, ensuring its confidentiality, integrity, and availability.
+- By implementing ISO/IEC 27001, organizations can identify and mitigate **information security risks**, **comply with legal and regulatory requirements**, and **demonstrate their commitment to protecting data**.
+- This standard helps organizations build a culture of security, improve their reputation, and enhance customer trust.
+
+[<img src="images/isoiec_27001.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/isoiec_27001-2022.pdf)
+
+### Contents
+
+<li><b><code>1.</code>Scope</b></li>
+<li><b><code>2.</code>Normative references</b></li>
+<li><b><code>3.</code>Terms and definitions</b></li>
+<li><b><code>4.</code>Context of the organization</b></li>
+<li><b><code>5.</code>Leadership</b></li>
+<li><b><code>6.</code>Planning</b></li>
+<li><b><code>7.</code>Support</b></li>
+<li><b><code>8.</code>Operation</b></li>
+<li><b><code>9.</code>Performance evaluation</b></li>
+<li><b><code>10.</code>Improvement</b></li>
+
+<br><br>
+</details>
+
+<details>
+<summary>
+<h3 id="isoiec-27002">ISO/IEC 27002:2022:<br> Information security controls</h3>
+</summary>
+
+- ISO/IEC 27002 is a globally recognized standard that provides guidelines and best practices for implementing information security controls within an organization.
+- It covers a wide range of security topics, including **risk assessment**, **access control**, **cryptography**, **incident management**, and **compliance**.
+- The standard helps organizations establish a comprehensive framework for protecting their information assets and managing security risks effectively.
+- By following the recommendations outlined in ISO/IEC 27002, organizations can improve their overall security posture, enhance their resilience to cyber threats, and demonstrate their commitment to safeguarding sensitive information.
+
+[<img src="images/isoiec_27002.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/isoiec_27002-2022.pdf)
+
+### Contents
+
+<li><b><code>1.</code>Scope</b></li>
+<li><b><code>2.</code>Normative references</b></li>
+<li><b><code>3.</code>Terms, definitions and abbreviated terms</b></li>
+<li><b><code>4.</code>Structure of this document</b></li>
+<li><b><code>5.</code>Organizational controls</b></li>
+<li><b><code>6.</code>People controls</b></li>
+<li><b><code>7.</code>Physical controls</b></li>
+<li><b><code>8.</code>Technological controls</b></li>
+
+<br><br><br><br>
+</details>
+
+<details>
+<summary>
+<h3 id="isoiec-27005">ISO/IEC 27005:2022:<br> Guidance on managing information security risks</h3>
+</summary>
+
+- ISO/IEC 27005 is a standard that provides guidelines for implementing an effective information security risk management process.
+- It helps organizations **identify**, **assess**, and **manage risks to their information assets**.
+- The standard outlines a systematic approach to **risk management**, including **risk assessment**, **risk treatment**, and **risk monitoring** and **review**.
+- By following the principles and guidelines set forth in ISO/IEC 27005, organizations can better protect their sensitive information from threats and vulnerabilities, ensuring the confidentiality, integrity, and availability of their data.
+- This standard is essential for organizations looking to establish a robust information security risk management framework.
+
+[<img src="images/isoiec_27005.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/isoiec_27005-2022.pdf)
+
+### Contents
+
+<li><b><code>1.</code>Scope</b></li>
+<li><b><code>2.</code>Normative references</b></li>
+<li><b><code>3.</code>Terms and definitions</b></li>
+<li><b><code>4.</code>Structure of this document</b></li>
+<li><b><code>5.</code>Information security risk management</b></li>
+<li><b><code>6.</code>Context establishment</b></li>
+<li><b><code>7.</code>Information security risk assessment process</b></li>
+<li><b><code>8.</code>Information security risk treatment process</b></li>
+<li><b><code>9.</code>Operation</b></li>
+<li><b><code>10.</code>Leveraging related ISMS processes</b></li>
+
+<br><br>
+</details>
+
+<details>
+<summary>
+<h3 id="isoiec-27017">ISO/IEC 27017:2015:<br> Code of Practice for Information Security Controls for Cloud Services</h3>
+</summary>
+
+- ISO/IEC 27017 is a code of practice that provides guidelines for implementing information security controls in cloud services.
+- It outlines specific security measures that cloud service providers should implement to protect the confidentiality, integrity, and availability of data stored in the cloud.
+- The standard covers areas such as **data encryption**, **access control**, **incident response**, and **compliance with legal and regulatory requirements**.
+- By following the guidelines outlined in ISO/IEC 27017, organizations can ensure that their data is secure and protected when using cloud services.
+
+[<img src="images/isoiec_27017.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/isoiec_27017-2015.pdf)
+
+### Contents
+
+<li><b><code>1.</code>Scope</b></li>
+<li><b><code>2.</code>Normative references</b></li>
+<li><b><code>3.</code>Definitions and abbreviations</b></li>
+<li><b><code>4.</code>Cloud sector-specific concepts</b></li>
+<li><b><code>5.</code>Information security policies</b></li>
+<li><b><code>6.</code>Organization of information security</b></li>
+<li><b><code>7.</code>Human resource security</b></li>
+<li><b><code>8.</code>Asset management</b></li>
+<li><b><code>9.</code>Access control</b></li>
+<li><b><code>10.</code>Cryptography</b></li>
+<li><b><code>11.</code>Physical and environmental security</b></li>
+<li><b><code>12.</code>Operations security</b></li>
+<li><b><code>13.</code>Communications security</b></li>
+<li><b><code>14.</code>System acquisition, development and maintenance
+<li><b><code>15.</code>Supplier relationships</b></li>
+<li><b><code>16.</code>Information security incident management</b></li>
+<li><b><code>17.</code>Information security aspects of business continuity management</b></li>
+<li><b><code>18.</code>Compliance</b></li>
+
+</details>
+
+<details>
+<summary>
+<h3 id="isoiec-27018">ISO/IEC 27018:2019:<br> Code of practice for protection of personally identifiable information (PII)<br> in public clouds acting as PII processors</h3>
+</summary>
+
+- ISO/IEC 27018 is a code of practice that provides guidelines for protecting personal data in the cloud.
+- It outlines specific controls and measures that cloud service providers should implement to ensure the privacy and security of personal information stored in the cloud.
+- This standard addresses issues such as **data encryption**, **data retention**, **data access controls**, and **transparency in data processing**.
+- By following the guidelines set forth in ISO/IEC 27018, organizations can demonstrate their commitment to protecting personal data and build trust with their customers regarding the handling of their sensitive information in the cloud.
+
+[<img src="images/isoiec_27018.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/isoiec_27018-2019.pdf)
+
+### Contents
+
+<li><b><code>1.</code>Scope</b></li>
+<li><b><code>2.</code>Normative references</b></li>
+<li><b><code>3.</code>Terms and definitions</b></li>
+<li><b><code>4.</code>Overview</b></li>
+<li><b><code>5.</code>Information security policies</b></li>
+<li><b><code>6.</code>Organization of information security</b></li>
+<li><b><code>7.</code>Human resource security</b></li>
+<li><b><code>8.</code>Asset management</b></li>
+<li><b><code>9.</code>Access control</b></li>
+<li><b><code>10.</code>Cryptography</b></li>
+<li><b><code>11.</code>Physical and environmental security</b></li>
+<li><b><code>12.</code>Operations security</b></li>
+<li><b><code>13.</code>Communications security</b></li>
+<li><b><code>14.</code>System acquisition, development and maintenance</b></li>
+<li><b><code>15.</code>Supplier relationships</b></li>
+<li><b><code>16.</code>Information security incident management</b></li>
+<li><b><code>17.</code>Information security aspects of business continuity management</b></li>
+<li><b><code>18.</code>Compliance</b></li>
+
+</details>
+
+<details>
+<summary>
+<h3 id="isoiec-27701">ISO/IEC 27701:2019:<br> Privacy Information Management System (PIMS)</h3>
+</summary>
+
+- ISO/IEC 27701 is a standard that provides guidelines for establishing, implementing, maintaining, and continually improving a Privacy Information Management System (PIMS).
+- It is an extension to the ISO/IEC 27001 standard, focusing specifically on **privacy management** within an organization.
+- The standard helps organizations to **identify and manage privacy risks**, **comply with privacy regulations**, and **build trust with stakeholders** by demonstrating a commitment to protecting personal information.
+- By implementing ISO/IEC 27701, organizations can enhance their privacy practices, improve data protection measures, and ensure the confidentiality, integrity, and availability of personal information.
+
+[<img src="images/isoiec_27701.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/isoiec_27707-2019.pdf)
+
+### Contents
+
+<li><b><code>1.</code>Scope</b></li>
+<li><b><code>2.</code>Normative references</b></li>
+<li><b><code>3.</code>Terms, definitions and abbreviations</b></li>
+<li><b><code>4.</code>General</b></li>
+<li><b><code>5.</code>PIMS-specific requirements related to ISO/IEC 27001</b></li>
+<li><b><code>6.</code>PIMS-specific guidance related to ISO/IEC 27002</b></li>
+<li><b><code>7.</code>Additional ISO/IEC 27002 guidance for PII controllers</b></li>
+<li><b><code>8.</code>Additional ISO/IEC 27002 guidance for PII processors</b></li>
+
+<br><br><br><br>
+</details>
 
 </details>
 
