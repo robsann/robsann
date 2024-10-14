@@ -434,7 +434,7 @@ Executive Summary
 <li><b><code>11.</code>Physical and environmental security</b></li>
 <li><b><code>12.</code>Operations security</b></li>
 <li><b><code>13.</code>Communications security</b></li>
-<li><b><code>14.</code>System acquisition, development and maintenance
+<li><b><code>14.</code>System acquisition, development and maintenance</b></li>
 <li><b><code>15.</code>Supplier relationships</b></li>
 <li><b><code>16.</code>Information security incident management</b></li>
 <li><b><code>17.</code>Information security aspects of business continuity management</b></li>
