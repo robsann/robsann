@@ -246,7 +246,15 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 ----------------------------------------------------------------------------------------------------
 
 
-<h1 align="center" id="nist-standards-overview">📁 NIST Standards Overview</h1>
+<h1 align="center" id="nist-standards-overview">📁 Standards Overview</h1>
+
+Standards in cybersecurity are guidelines and best practices that organizations follow to protect their systems, networks, and data from cyber threats. These standards help ensure that security measures are consistently implemented and maintained, reducing the risk of breaches and data loss.
+
+<details>
+<summary>
+<h2 id="nist-standards-overview">NIST Standards Overview</h2>
+</summary>
+
 
 <details>
 <summary>
@@ -273,7 +281,7 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 
 
 <details>
-<summary>
+<summary flex-shrink="0">
 <h3 id="nist-sp-800-12">NIST SP 800-12 Rev. 1:<br> An Introduction to Information Security</h3>
 </summary>
 
@@ -445,6 +453,16 @@ Executive Summary
 <li><b><code>8.</code>Post-Testing Activities</b></li>
 
 <br>
+</details>
+
+</details>
+
+
+<details>
+<summary>
+<h2 id="nist-standards-overview">ISO Standards Overview</h2>
+</summary>
+
 </details>
 
 
