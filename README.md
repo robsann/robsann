@@ -248,7 +248,7 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 
 <h1 align="center" id="standards-overview">📁 Standards Overview</h1>
 
-Standards in cybersecurity are guidelines and best practices that organizations follow to protect their systems, networks, and data from cyber threats. These standards help ensure that security measures are consistently implemented and maintained, reducing the risk of breaches and data loss.
+Standards in cybersecurity are guidelines and best practices that organizations follow to protect their systems, networks, and data from cyber threats. These standards help ensure that security measures are consistently implemented and maintained, improving overall security posture.
 
 <details>
 <summary>
