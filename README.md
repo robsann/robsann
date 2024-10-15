@@ -9,7 +9,7 @@ I have extensive programming experience and a keen interest in Cyber Ssecurity, 
 ## Outline
 
 - [Cyber Security Homelabs](#cyber-security-homelabs)
-- [Standards Overview](#standards-overview)
+- [Cyber Security Standards Overview](#standards-overview)
 - [IT and Cyber Security Popular Certifications](#it-and-cyber-sec-certs)
 - [IT and Cyber Security Concepts](#it-and-cyber-security-concepts)
 - [Other Stuff](#other-stuff)
@@ -107,7 +107,7 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 ----------------------------------------------------------------------------------------------------
 
 
-<h1 align="center" id="standards-overview">📁 Standards Overview</h1>
+<h1 align="center" id="standards-overview">📁 Cyber Security Standards Overview</h1>
 
 Standards in cybersecurity are guidelines and best practices that organizations follow to protect their systems, networks, and data from cyber threats. These standards help ensure that security measures are consistently implemented and maintained, improving overall security posture.
 
