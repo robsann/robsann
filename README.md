@@ -2,7 +2,7 @@
     
 # Hi, I'm Robson
 
-I have extensive programming experience and a keen interest in Cyber Ssecurity, with a focus on security operations and data flow automation. I leverage my GitHub account to curate homelabs to simulate various security operations scenarios and test tools used in Security Operations Centers (SOCs). Additionally, whenever possible, I try to create some small snippets of content covering topics in systems administration, network administration, and cybersecurity. My certificates can be found [here](https://github.com/robsann/robsann/blob/main/docs/certificates.md).
+I have extensive programming experience and a keen interest in Cyber Ssecurity, with a focus on security operations and data flow automation. I leverage my GitHub account to curate homelabs to simulate various security operations scenarios and test tools used in Security Operations Centers (SOCs). Additionally, whenever possible, I try to create some small snippets of content covering topics in systems administration, network administration, and cyber security. My certificates can be found [here](https://github.com/robsann/robsann/blob/main/docs/certificates.md).
 
 </div>
 
@@ -109,7 +109,7 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 
 <h1 align="center" id="standards-overview">📁 Cyber Security Standards Overview</h1>
 
-Standards in cybersecurity are guidelines and best practices that organizations follow to protect their systems, networks, and data from cyber threats. These standards help ensure that security measures are consistently implemented and maintained, improving overall security posture.
+Standards in cyber security are guidelines and best practices that organizations follow to protect their systems, networks, and data from cyber threats. These standards help ensure that security measures are consistently implemented and maintained, improving overall security posture.
 
 <details>
 <summary>
@@ -122,9 +122,9 @@ Standards in cybersecurity are guidelines and best practices that organizations 
 <h3 id="cyber-security-resources">The NIST Cybersecurity Framework (CSF) 2.0</h3>
 </summary>
 
-- The NIST Cybersecurity Framework (CSF) 2.0 is a set of guidelines and best practices for **managing cybersecurity risks**.
-- It provides a common language for organizations to **communicate about cybersecurity** and **assess** their current **cybersecurity posture**.
-- The framework helps organizations **identify**, **protect**, **detect**, **respond** to, and **recover** from cybersecurity threats.
+- The NIST Cybersecurity Framework (CSF) 2.0 is a set of guidelines and best practices for **managing cyber security risks**.
+- It provides a common language for organizations to **communicate about cyber security** and **assess** their current **cyber security posture**.
+- The framework helps organizations **identify**, **protect**, **detect**, **respond** to, and **recover** from cyber security threats.
 - It is a flexible and customizable tool that can be adapted to meet the specific needs of different organizations.
 
 [<img src="images/NIST_CSF_2.0.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_Cybersecurity_Framework_CSF_2.0.pdf)
@@ -199,7 +199,7 @@ Standards in cybersecurity are guidelines and best practices that organizations 
 - NIST SP 800-53 Rev. 5 is a publication that provides a comprehensive set of security and privacy controls for information systems and organizations.
 - These controls are designed to help organizations **protect** their **sensitive information** and **systems** from **various threats**, including **cyber attacks**, **data breaches**, and **unauthorized access**.
 - The publication outlines a framework for implementing **security and privacy measures**, including **policies**, **procedures**, and **technical safeguards**, to ensure the confidentiality, integrity, and availability of information.
-- It is widely used by government agencies, private sector organizations, and other entities to enhance their cybersecurity posture and compliance with regulations.
+- It is widely used by government agencies, private sector organizations, and other entities to enhance their cyber security posture and compliance with regulations.
 
 [<img src="images/NIST_sp_800-53.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-53_rev5.pdf)
 
@@ -588,7 +588,7 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 
 ### CompTIA Security+ (SY0-501) Objectives - [CompTIA link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 
-The CompTIA Security+ certification objectives cover essential topics in cybersecurity, including network security, threats and vulnerabilities, access control, identity management, cryptography, and risk management. It also emphasizes security compliance, incident response, and security architecture. Successfully mastering these objectives demonstrates proficiency in securing IT systems.
+The CompTIA Security+ certification objectives cover essential topics in cyber security, including network security, threats and vulnerabilities, access control, identity management, cryptography, and risk management. It also emphasizes security compliance, incident response, and security architecture. Successfully mastering these objectives demonstrates proficiency in securing IT systems.
 
 [<img src='images/CompTIA_Security+_Legal.png' height="240" width="140" align="left">](https://www.dropbox.com/scl/fi/pqs0pm897xufw0f3jzqhd/CompTIA_Security-_Legal.pdf?rlkey=nqhsmt3kgkzq5324dumz3pd99&dl=0)
 
@@ -606,7 +606,7 @@ The CompTIA Security+ certification objectives cover essential topics in cyberse
 
 ### CompTIA Cybersecurity Analyst (CySA+) (CS0-003) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-cysa-cs0-003-exam-objectives-2-0.pdf)
 
-The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying and responding to security threats and vulnerabilities in a cybersecurity context. CySA+ certified professionals demonstrate skills in threat detection, analysis, and response using various tools and techniques. They are proficient in analyzing data to identify vulnerabilities, threats, and risks to an organization's information systems. CySA+ certification validates expertise in cybersecurity operations, enhancing an individual's ability to protect and secure organizational assets against cyber threats.
+The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying and responding to security threats and vulnerabilities in a cyber security context. CySA+ certified professionals demonstrate skills in threat detection, analysis, and response using various tools and techniques. They are proficient in analyzing data to identify vulnerabilities, threats, and risks to an organization's information systems. CySA+ certification validates expertise in cyber security operations, enhancing an individual's ability to protect and secure organizational assets against cyber threats.
 
 [<img src='images/CompTIA_CySA+_Legal.png' height="180" width="140" align="left">](https://www.dropbox.com/scl/fi/5vt0e27y6buj902nbz0wu/CompTIA_CySA-_Legal.pdf?rlkey=yhogwiipsb8nykzaeeru4l7tr&dl=0)
 
@@ -781,7 +781,7 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 
 ### Pyramid of Pain
 
-The Pyramid of Pain is a conceptual framework in cybersecurity that categorizes indicators of compromise (IOCs) in six levels based on the difficulty for adversaries to change or evade detection. The pyramid is structured in ascending order of difficulty, as illustrated below:
+The Pyramid of Pain is a conceptual framework in cyber security that categorizes indicators of compromise (IOCs) in six levels based on the difficulty for adversaries to change or evade detection. The pyramid is structured in ascending order of difficulty, as illustrated below:
 
 <div align="center">
 <img src='images/pyramid_of_pain.png' width="85%">
@@ -799,7 +799,7 @@ Security Operations Center (SOC) technologies encompass a range of tools designe
 
 ### NIST Incident Response Framework
 
-The NIST Incident Response Framework provides a systematic approach for organizations to prepare for, detect, respond to, and recover from cybersecurity incidents. It guides the development of robust incident response capabilities through a four-phase process: preparation, detection and analysis, containment, eradication, recovery, and post-incident activity.
+The NIST Incident Response Framework provides a systematic approach for organizations to prepare for, detect, respond to, and recover from cyber security incidents. It guides the development of robust incident response capabilities through a four-phase process: preparation, detection and analysis, containment, eradication, recovery, and post-incident activity.
 
 <div align="center">
 <img src='images/nist_ir.png' width="65%">
@@ -808,7 +808,7 @@ The NIST Incident Response Framework provides a systematic approach for organiza
 
 ### SANS Incident Response Framework
 
-The SANS Incident Response Framework provides a structured approach for organizations to effectively respond to cybersecurity incidents, comprising six key phases: Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned. It guides the development of robust incident response capabilities to detect, mitigate, and recover from security incidents.
+The SANS Incident Response Framework provides a structured approach for organizations to effectively respond to cyber security incidents, comprising six key phases: Preparation, Identification, Containment, Eradication, Recovery, and Lessons Learned. It guides the development of robust incident response capabilities to detect, mitigate, and recover from security incidents.
 
 <div align="center">
 <img src='images/sans_ir.png' width="75%">
