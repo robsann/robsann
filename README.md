@@ -23,9 +23,32 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 
 <details>
 <summary>
+<h2 id="elastic-stack">Just Another Homelabe: Web Server Monitoring</h2>
+</summary>
+
+- Configured a Host-Only Network in VirtualBox with:
+	- HDCP Server
+	- Ubuntu Server (SOC Tools)
+	- Debian (Web Server)
+- Configured the following security tools on an Ubuntu Server VM:
+	- Wazuh (SIEM/XDR)
+	- Suricata (IDS/IPS)
+	- TheHive (CMS)
+	- Admyral (SOAR)
+	- MISP (TI)
+- Configured the following vulnerable web servers on a Debian VM:
+	- DVWA
+	- bWAPP
+
+**Source:** https://github.com/robsann/JAHWebServerMonitoring
+
+</details>
+
+
+<details>
+<summary>
 <h2 id="elastic-stack">Threat Hunting with Elastic Stack 8 (XDR)</h2>
 </summary>
-<span style="color:gray">
 
 - Configured in VirtualBox an Internal Network with:
     - DHCP Server
@@ -40,7 +63,6 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 
 **Source:** https://github.com/robsann/ElasticStackLab
 
-</span>
 </details>
 
 
@@ -48,7 +70,6 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 <summary>
 <h2 id="limacharlie">Detection & Response with LimaCharlie (EDR)</h2>
 </summary>
-<span style="color:gray">
 
 - Configured in VirtualBox a NAT Network with:
     - DHCP Server and Host Gateway access.
@@ -62,7 +83,6 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 
 **Source:** https://github.com/robsann/LimaCharlieEDRTelemetry
 
-</span>
 </details>
 
 
@@ -70,7 +90,6 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 <summary>
 <h2 id="snort">Network Security with Snort (IDS/IPS)</h2>
 </summary>
-<span style="color:gray">
 
 - Snort network IDS mode configuration in Ubuntu Server.
 - NMAP scan detection using Snort (NIDS):
@@ -83,7 +102,6 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 
 **Source:** https://github.com/robsann/NetworkSecurityWithSnort
 
-</span>
 </details>
 
 
@@ -91,7 +109,6 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 <summary>
 <h2 id="microsoft-sentinel">Attack Monitoring with Microsoft Sentinel (SIEM)</h2>
 </summary>
-<span style="color:gray">
 
 - Microsoft Sentinel was used to monitor failed RDP login attempts from global attackers on an exposed Windows 10 virtual machine configured in Microsoft Azure.
 - A custom log file (`failed_rdp.log`) was generated using a PowerShell script that extracts failed login events from Security Log on Event Viewer and forwards them to a third-party API to get geolocation data.
@@ -100,7 +117,6 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 
 **Source:** https://github.com/robsann/AzureSentinelSIEMAttackMap
 
-</span>
 </details>
 
 
@@ -517,7 +533,6 @@ A brief overview of popular CompTIA certifications, with mind maps detailing exa
 <summary>
 <h2 id="system-administration-cert">System Administration Certifications</h2>
 </summary>
-<span style="color:gray">
 
 ### CompTIA A+ Core 2 (220-1102) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
 
@@ -551,14 +566,12 @@ The CompTIA Linux+ certification validates essential skills in Linux system admi
 
 **Shawn Powers' CompTIA Linux+ (XK0-005) prep (in progress) - [YouTube Link](https://www.youtube.com/watch?v=niPWk7tgD2Q&list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&ab_channel=ShawnPowers)**
 
-</span>
 </details>
 
 <details>
 <summary>
 <h2 id="network-administration-cert">Network Administration Certifications</h2>
 </summary>
-<span style="color:gray">
 
 ### CompTIA Network+ (N10-008) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
 
@@ -577,14 +590,12 @@ The CompTIA Network+ certification validates essential skills in networking, cov
 
 **Professor Messer CompTIA Network+ (N10-008) course - [YouTube Link](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)**
 
-</span>
 </details>
 
 <details>
 <summary>
 <h2 id="cyber-security-cert">Cyber Security Certifications</h2>
 </summary>
-<span style="color:gray">
 
 ### CompTIA Security+ (SY0-501) Objectives - [CompTIA link](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 
@@ -618,14 +629,12 @@ The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying a
 <li><img src="https://placehold.co/15x15/f1a91e/f1a91e.png"> <b><code>4.0</code> Reporting and Communication</b></li>
 <br>
 
-</span>
 </details>
 
 <details>
 <summary>
 <h2 id="cyber-security-resources">Cyber Security Resources</h2>
 </summary>
-<span style="color:gray">
 
 ### Cyber Security Domains from 2021 (credits to [MyDFIR](https://www.youtube.com/@MyDFIR))
 
@@ -641,7 +650,6 @@ Mind map from 2021 that provides a comprehensive overview of the various domains
 - **[HackTheBox](https://www.hackthebox.com/):** Hands-on cyber security training with offensive and defensive paths.
 </div>
 
-</span>
 </details>
 
 
@@ -656,7 +664,6 @@ Below are brief descriptions accompanied by images to help illustrate popular co
 <summary>
 <h2 id="sysadmin-concepts">SysAdmin Concepts</h2>
 </summary>
-<span style="color:gray">
 
 ### Linux File System
 
@@ -698,14 +705,12 @@ Linux commands help users navigate the file system, interact with the files, and
 </div>
 <br>
 
-</span>
 </details>
 
 <details>
 <summary>
 <h2 id="networking-concepts">Networking Concepts</h2>
 </summary>
-<span style="color:gray">
 
 ### OSI Model
 
@@ -743,14 +748,12 @@ The Domain Name System (DNS) is a naming database that translates human-readable
 </div>
 <br>
 
-</span>
 </details>
 
 <details>
 <summary>
 <h2 id="cyber-security-concepts">Cyber Security Concepts</h2>
 </summary>
-<span style="color:gray">
 
 ### The CIA Triad
 
@@ -815,7 +818,6 @@ The SANS Incident Response Framework provides a structured approach for organiza
 </div>
 <br>
 
-</span>
 </details>
 
 
@@ -830,7 +832,6 @@ The SANS Incident Response Framework provides a structured approach for organiza
 <summary>
 <h3>Top CPU and Memory Usage</h3>
 </summary>
-<span style="color:gray">
 
 This script utilizes the `ps` command to display the top n processes based on CPU and Memory usage. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/mem_and_cpu_usage.sh).
 
@@ -838,14 +839,12 @@ This script utilizes the `ps` command to display the top n processes based on CP
 <img src='images/mem_cpu_usage.png' width="90%">
 </div>
 
-</span>
 </details>
 
 <details>
 <summary>
 <h3>Listening Ports</h3>
 </summary>
-<span style="color:gray">
 
 This script utilizes the `ss` and `ps` commands to show the listening ports along with the corresponding process and user names, as well as the PID number. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/listening_ports.sh).
 
@@ -853,14 +852,12 @@ This script utilizes the `ss` and `ps` commands to show the listening ports alon
 <img src='images/listening_ports.png' width="90%">
 </div>
 
-</span>
 </details>
 
 <details>
 <summary>
 <h3>Host Discovery</h3>
 </summary>
-<span style="color:gray">
 
 This script utilizes Nmap to retrieve the IP addresses and MAC addresses of devices connected to the network, then compiles them into a table. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/host_discovery.sh).
 
@@ -868,7 +865,6 @@ This script utilizes Nmap to retrieve the IP addresses and MAC addresses of devi
 <img src='images/host_discovery.png' width="90%">
 </div>
 
-</span>
 </details>
 
 
@@ -878,7 +874,6 @@ This script utilizes Nmap to retrieve the IP addresses and MAC addresses of devi
 <summary>
 <h3>Zabbix</h3>
 </summary>
-<span style="color:gray">
 
 Zabbix is an open-source monitoring software tool used for monitoring the performance and availability of servers, network devices, and other IT infrastructure components. It provides real-time monitoring, alerting, and visualization features to help IT teams identify and resolve issues quickly. Zabbix can monitor a wide range of devices and applications, making it a versatile tool for managing and maintaining IT systems.
 
@@ -888,7 +883,6 @@ The procedure for the Zabbix installation can be found [here](https://github.com
 <summary>
 <h4>Screenshots</h4>
 </summary>
-<span style="color:gray">
 
 - **Docker containers**
 
@@ -911,10 +905,8 @@ The procedure for the Zabbix installation can be found [here](https://github.com
 <img src='images/zabbix4.png' width="90%">
 
 
-</span>
 </details>
 
-</span>
 </details>
 
 
@@ -924,11 +916,9 @@ The procedure for the Zabbix installation can be found [here](https://github.com
 <summary>
 <h3>AutoBlue MS17-010 Python 3 Fix</h3>
 </summary>
-<span style="color:gray">
 
 I wrote a suggestion to address the issue related to `bytes` and `str` types when running the AutoBlue MS17-010 exploit on Python 3, which was originally developed for Python 2. You can access the suggestions by clicking [here](https://github.com/robsann/AutoBlue-MS17-010-python3-fix).
 
-</span>
 </details>
 
 
