@@ -23,7 +23,7 @@ I have been exploring various homelabs featured in YouTube channels and blogs, f
 
 <details>
 <summary>
-<h2 id="elastic-stack">Just Another Homelabe: Web Server Monitoring</h2>
+<h2 id="elastic-stack">Just Another Homelab: Web Server Monitoring</h2>
 </summary>
 
 - Configured a Host-Only Network in VirtualBox with:
