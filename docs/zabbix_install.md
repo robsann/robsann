@@ -234,6 +234,7 @@ Configure the Zabbix Agent on an Kali Linux.
 		```
 4. Restart the Zabbix Agent:
 	```bash
+ 	$ sudo systemctl enable zabbix-agent
 	$ sudo systemctl restart zabbix-agent
 	```
 5. Run the command below using the zabbix-server container id:
@@ -270,6 +271,7 @@ Configure the Zabbix Agent on an Ubuntu Server.
 		```
 4. Restart the Zabbix Agent:
 	```bash
+ 	$ sudo systemctl enable zabbix-agent
 	$ sudo systemctl restart zabbix-agent
 	```
 5. Run the command below using the zabbix-server container id:
@@ -306,6 +308,7 @@ Configure the Zabbix Agent on an Debian Server.
 		```
 4. Restart the Zabbix Agent:
 	```bash
+ 	$ sudo systemctl enable zabbix-agent
 	$ sudo systemctl restart zabbix-agent
 	```
 5. Run the command below using the zabbix-server container id:
