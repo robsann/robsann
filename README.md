@@ -143,7 +143,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The framework helps organizations **identify**, **protect**, **detect**, **respond** to, and **recover** from cyber security threats.
 - It is a flexible and customizable tool that can be adapted to meet the specific needs of different organizations.
 
-[<img src="images/NIST_CSF_2.0.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_Cybersecurity_Framework_CSF_2.0.pdf)
+[<img src="images/NIST_CSF_2.0.png" height="300" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_Cybersecurity_Framework_CSF_2.0.pdf)
 
 ### Table of Contents
 
@@ -167,7 +167,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The document covers topics such as **security policies**, **risk management**, **security controls**, and **incident response**.
 - It is designed to help organizations establish a strong foundation for their information security programs and ensure the confidentiality, integrity, and availability of their data and systems.
 
-[<img src="images/NIST_sp_800-12.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-12_rev1.pdf)
+[<img src="images/NIST_sp_800-12.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-12_rev1.pdf)
 
 ### Table of Content
 
@@ -195,7 +195,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - It emphasizes **continuous monitoring and improvement**, as well as **collaboration** between stakeholders to effectively manage and mitigate risks.
 - The framework is designed to be flexible and scalable, making it applicable to organizations of all sizes and industries.
 
-[<img src="images/NIST_sp_800-37.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-37_rev2.pdf)
+[<img src="images/NIST_sp_800-37.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-37_rev2.pdf)
 
 ### Table of Contents
 
@@ -203,7 +203,7 @@ Standards in cyber security are guidelines and best practices that organizations
 <li><b><code>2.</code>The Fundamentals</b></li>
 <li><b><code>3.</code>The Process</b></li>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 </details>
 
 
@@ -217,7 +217,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The publication outlines a framework for implementing **security and privacy measures**, including **policies**, **procedures**, and **technical safeguards**, to ensure the confidentiality, integrity, and availability of information.
 - It is widely used by government agencies, private sector organizations, and other entities to enhance their cyber security posture and compliance with regulations.
 
-[<img src="images/NIST_sp_800-53.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-53_rev5.pdf)
+[<img src="images/NIST_sp_800-53.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-53_rev5.pdf)
 
 ### Table of Contents
 
@@ -225,7 +225,7 @@ Standards in cyber security are guidelines and best practices that organizations
 <li><b><code>2.</code>The Fundamentals</b></li>
 <li><b><code>3.</code>The Controls</b></li>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 </details>
 
 
@@ -239,7 +239,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The guide outlines best practices for **incident response**, including **establishing an incident response team**, **creating incident response policies and procedures**, and **conducting post-incident reviews** to improve future incident handling.
 - By following the guidelines outlined in NIST SP 800-61 Rev 2, organizations can better protect their systems and data from cyber threats.
 
-[<img src="images/NIST_sp_800-61.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-61_rev2.pdf)
+[<img src="images/NIST_sp_800-61.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-61_rev2.pdf)
 
 ### Table of Contents
 
@@ -250,7 +250,7 @@ Standards in cyber security are guidelines and best practices that organizations
 <li><b><code>3.</code>Handling an Incident</b></li>
 <li><b><code>4.</code>Coordination and Information Sharing</b></li>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 </details>
 
 
@@ -263,7 +263,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The guidelines provide recommendations for **identity proofing**, **authentication**, and **lifecycle management**, with a focus on **protecting against identity theft and fraud**.
 - By following these guidelines, organizations can enhance the security of their digital systems and better protect the privacy and security of their users' identities.
 
-[<img src="images/NIST_sp_800-63-3.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-63-3.pdf)
+[<img src="images/NIST_sp_800-63-3.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-63-3.pdf)
 
 ### Table of Contents
 
@@ -289,7 +289,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - It provides recommendations and best practices for **protecting OT systems**, which are used to **monitor and control physical processes in industries** such as **manufacturing**, **energy**, and **transportation**.
 - The guide covers topics such as **risk management**, **access control**, **network security**, and **incident response**, helping organizations to identify and mitigate potential threats to their OT systems and ensure the reliability and safety of their operations.
 
-[<img src="images/NIST_sp_800-82.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-82_rev1.pdf)
+[<img src="images/NIST_sp_800-82.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-82_rev1.pdf)
 
 ### Table of Contents
 
@@ -314,7 +314,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - It covers various **testing methodologies**, **tools**, and **techniques** that can be used to assess the security of an organization's information systems.
 - The guide aims to help organizations improve their security posture and protect their sensitive information from cyber threats.
 
-[<img src="images/NIST_sp_800-115.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-115.pdf)
+[<img src="images/NIST_sp_800-115.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-115.pdf)
 
 ### Table of Contents
 
@@ -350,7 +350,7 @@ Executive Summary
 - By implementing ISO/IEC 27001, organizations can identify and mitigate **information security risks**, **comply with legal and regulatory requirements**, and **demonstrate their commitment to protecting data**.
 - This standard helps organizations build a culture of security, improve their reputation, and enhance customer trust.
 
-[<img src="images/isoiec_27001.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27001-2022.pdf)
+[<img src="images/isoiec_27001.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27001-2022.pdf)
 
 ### Contents
 
@@ -365,7 +365,6 @@ Executive Summary
 <li><b><code>9.</code>Performance evaluation</b></li>
 <li><b><code>10.</code>Improvement</b></li>
 
-<br><br><br><br>
 </details>
 
 <details>
@@ -378,7 +377,7 @@ Executive Summary
 - The standard helps organizations establish a comprehensive framework for protecting their information assets and managing security risks effectively.
 - By following the recommendations outlined in ISO/IEC 27002, organizations can improve their overall security posture, enhance their resilience to cyber threats, and demonstrate their commitment to safeguarding sensitive information.
 
-[<img src="images/isoiec_27002.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27002-2022.pdf)
+[<img src="images/isoiec_27002.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27002-2022.pdf)
 
 ### Contents
 
@@ -391,7 +390,7 @@ Executive Summary
 <li><b><code>7.</code>Physical controls</b></li>
 <li><b><code>8.</code>Technological controls</b></li>
 
-<br><br><br><br><br><br><br>
+<br><br>
 </details>
 
 <details>
@@ -405,7 +404,7 @@ Executive Summary
 - By following the principles and guidelines set forth in ISO/IEC 27005, organizations can better protect their sensitive information from threats and vulnerabilities, ensuring the confidentiality, integrity, and availability of their data.
 - This standard is essential for organizations looking to establish a robust information security risk management framework.
 
-[<img src="images/isoiec_27005.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27005-2022.pdf)
+[<img src="images/isoiec_27005.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27005-2022.pdf)
 
 ### Contents
 
@@ -420,7 +419,6 @@ Executive Summary
 <li><b><code>9.</code>Operation</b></li>
 <li><b><code>10.</code>Leveraging related ISMS processes</b></li>
 
-<br><br><br>
 </details>
 
 <details>
@@ -433,7 +431,7 @@ Executive Summary
 - The standard covers areas such as **data encryption**, **access control**, **incident response**, and **compliance with legal and regulatory requirements**.
 - By following the guidelines outlined in ISO/IEC 27017, organizations can ensure that their data is secure and protected when using cloud services.
 
-[<img src="images/isoiec_27017.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27017-2015.pdf)
+[<img src="images/isoiec_27017.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27017-2015.pdf)
 
 ### Contents
 
@@ -468,7 +466,7 @@ Executive Summary
 - This standard addresses issues such as **data encryption**, **data retention**, **data access controls**, and **transparency in data processing**.
 - By following the guidelines set forth in ISO/IEC 27018, organizations can demonstrate their commitment to protecting personal data and build trust with their customers regarding the handling of their sensitive information in the cloud.
 
-[<img src="images/isoiec_27018.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27018-2019.pdf)
+[<img src="images/isoiec_27018.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27018-2019.pdf)
 
 ### Contents
 
@@ -503,7 +501,7 @@ Executive Summary
 - The standard helps organizations to **identify and manage privacy risks**, **comply with privacy regulations**, and **build trust with stakeholders** by demonstrating a commitment to protecting personal information.
 - By implementing ISO/IEC 27701, organizations can enhance their privacy practices, improve data protection measures, and ensure the confidentiality, integrity, and availability of personal information.
 
-[<img src="images/isoiec_27701.png" width="270" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27701-2019.pdf)
+[<img src="images/isoiec_27701.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/ISOIEC_27701-2019.pdf)
 
 ### Contents
 
@@ -516,7 +514,7 @@ Executive Summary
 <li><b><code>7.</code>Additional ISO/IEC 27002 guidance for PII controllers</b></li>
 <li><b><code>8.</code>Additional ISO/IEC 27002 guidance for PII processors</b></li>
 
-<br><br><br><br><br><br><br>
+<br><br><br>
 </details>
 
 </details>
