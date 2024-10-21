@@ -167,7 +167,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The document covers topics such as **security policies**, **risk management**, **security controls**, and **incident response**.
 - It is designed to help organizations establish a strong foundation for their information security programs and ensure the confidentiality, integrity, and availability of their data and systems.
 
-[<img src="images/NIST_sp_800-12.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-12_rev1.pdf)
+[<img src="images/NIST_SP_800-12.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-12_rev1.pdf)
 
 ### Table of Content
 
@@ -195,7 +195,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - It emphasizes **continuous monitoring and improvement**, as well as **collaboration** between stakeholders to effectively manage and mitigate risks.
 - The framework is designed to be flexible and scalable, making it applicable to organizations of all sizes and industries.
 
-[<img src="images/NIST_sp_800-37.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-37_rev2.pdf)
+[<img src="images/NIST_SP_800-37.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-37_rev2.pdf)
 
 ### Table of Contents
 
@@ -217,7 +217,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The publication outlines a framework for implementing **security and privacy measures**, including **policies**, **procedures**, and **technical safeguards**, to ensure the confidentiality, integrity, and availability of information.
 - It is widely used by government agencies, private sector organizations, and other entities to enhance their cyber security posture and compliance with regulations.
 
-[<img src="images/NIST_sp_800-53.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-53_rev5.pdf)
+[<img src="images/NIST_SP_800-53.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-53_rev5.pdf)
 
 ### Table of Contents
 
@@ -239,7 +239,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The guide outlines best practices for **incident response**, including **establishing an incident response team**, **creating incident response policies and procedures**, and **conducting post-incident reviews** to improve future incident handling.
 - By following the guidelines outlined in NIST SP 800-61 Rev 2, organizations can better protect their systems and data from cyber threats.
 
-[<img src="images/NIST_sp_800-61.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-61_rev2.pdf)
+[<img src="images/NIST_SP_800-61.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-61_rev2.pdf)
 
 ### Table of Contents
 
@@ -263,7 +263,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - The guidelines provide recommendations for **identity proofing**, **authentication**, and **lifecycle management**, with a focus on **protecting against identity theft and fraud**.
 - By following these guidelines, organizations can enhance the security of their digital systems and better protect the privacy and security of their users' identities.
 
-[<img src="images/NIST_sp_800-63-3.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-63-3.pdf)
+[<img src="images/NIST_SP_800-63-3.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-63-3.pdf)
 
 ### Table of Contents
 
@@ -289,7 +289,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - It provides recommendations and best practices for **protecting OT systems**, which are used to **monitor and control physical processes in industries** such as **manufacturing**, **energy**, and **transportation**.
 - The guide covers topics such as **risk management**, **access control**, **network security**, and **incident response**, helping organizations to identify and mitigate potential threats to their OT systems and ensure the reliability and safety of their operations.
 
-[<img src="images/NIST_sp_800-82.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-82_rev1.pdf)
+[<img src="images/NIST_SP_800-82.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-82_rev1.pdf)
 
 ### Table of Contents
 
@@ -314,7 +314,7 @@ Standards in cyber security are guidelines and best practices that organizations
 - It covers various **testing methodologies**, **tools**, and **techniques** that can be used to assess the security of an organization's information systems.
 - The guide aims to help organizations improve their security posture and protect their sensitive information from cyber threats.
 
-[<img src="images/NIST_sp_800-115.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-115.pdf)
+[<img src="images/NIST_SP_800-115.png" height="320" align="left">](https://github.com/robsann/robsann/blob/main/docs/NIST_sp_800-115.pdf)
 
 ### Table of Contents
 
