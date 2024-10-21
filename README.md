@@ -276,7 +276,7 @@ Standards in cyber security are guidelines and best practices that organizations
 <li><b><code>7.</code>Federation Considerations</b></li>
 <li><b><code>8.</code>References</b></li>
 
-<br><br>
+<br><br><br>
 </details>
 
 
