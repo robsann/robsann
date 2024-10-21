@@ -2,7 +2,7 @@
     
 # Hi, I'm Robson
 
-I have extensive programming experience and a keen interest in Cyber Security, with a focus on security operations and data flow automation. I leverage my GitHub account to curate homelabs to simulate various security operations scenarios and test tools used in Security Operations Centers (SOCs). Additionally, whenever possible, I try to create some small snippets of content covering topics in systems administration, network administration, and cyber security. My certificates can be found [here](https://github.com/robsann/robsann/blob/main/docs/certificates.md).
+I have extensive programming experience and a keen interest in Cyber Security, with a focus on security operations and data flow automation. I leverage my GitHub account to curate homelabs to simulate various security operations scenarios and test tools used in Security Operations Centres (SOCs). Additionally, whenever possible, I try to create some small snippets of content covering topics in systems administration, network administration, and cyber security. My certificates can be found [here](https://github.com/robsann/robsann/blob/main/docs/certificates.md).
 
 </div>
 
@@ -525,7 +525,7 @@ Executive Summary
 
 <h1 align="center" id="it-and-cyber-sec-certs">📝 IT and Cyber Security Popular Certifications</h1>
 
-A brief overview of popular CompTIA certifications, with mind maps detailing exam domains and links to related YouTube resources is provided here. This includes System Administration and Network Administration certifications such as CompTIA A+, CompTIA Linux+, and CompTIA Network+, as well as Cyber Security certifications like CompTIA Security+ and CompTIA CySA+. You can access these mind maps in high-resolution PDF format on Dropbox by clicking on the images.
+A brief overview of popular CompTIA certifications, with mind maps detailing exam domains and links to related YouTube resources, is provided here. This includes System Administration and Network Administration certifications such as CompTIA A+, CompTIA Linux+, and CompTIA Network+, as well as Cyber Security certifications like CompTIA Security+ and CompTIA CySA+. You can access these mind maps in high-resolution PDF format on Dropbox by clicking on the images.
 
 <details>
 <summary>
@@ -615,7 +615,7 @@ The CompTIA Security+ certification objectives cover essential topics in cyber s
 
 ### CompTIA Cybersecurity Analyst (CySA+) (CS0-003) Objectives - [CompTIA link](https://partners.comptia.org/docs/default-source/resources/comptia-cysa-cs0-003-exam-objectives-2-0.pdf)
 
-The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying and responding to security threats and vulnerabilities in a cyber security context. CySA+ certified professionals demonstrate skills in threat detection, analysis, and response using various tools and techniques. They are proficient in analyzing data to identify vulnerabilities, threats, and risks to an organization's information systems. CySA+ certification validates expertise in cyber security operations, enhancing an individual's ability to protect and secure organizational assets against cyber threats.
+The CompTIA Cybersecurity Analyst (CySA+) certification focuses on identifying and responding to security threats and vulnerabilities in a cyber security context. CySA+ certified professionals demonstrate skills in threat detection, analysis, and response using various tools and techniques. They are proficient in analysing data to identify vulnerabilities, threats, and risks to an organization's information systems. CySA+ certification validates expertise in cyber security operations, enhancing an individual's ability to protect and secure organizational assets against cyber threats.
 
 [<img src='images/CompTIA_CySA+_Legal.png' height="180" width="140" align="left">](https://www.dropbox.com/scl/fi/5vt0e27y6buj902nbz0wu/CompTIA_CySA-_Legal.pdf?rlkey=yhogwiipsb8nykzaeeru4l7tr&dl=0)
 
@@ -730,7 +730,7 @@ TCP (Transmission Control Protocol) is a connection-oriented and reliable transp
 
 ### DHCP
 
-The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks that in 4 steps, automatically assigns IP addresses and other communication parameters to devices connected to the network using a client-server architecture.
+The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on IP networks that, in 4 steps, automatically assigns IP addresses and other communication parameters to devices connected to the network using a client-server architecture.
 
 <div align="center">
 <img src='images/dhcp.png' width="75%">
@@ -764,7 +764,7 @@ The CIA Triad is a fundamental concept in information security, representing the
 
 ### The Cyber Kill Chain
 
-The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from initial reconnaissance to achieving the attacker's objectives, providing a structured approach for understanding, analyzing, and defending against advanced cyber threats.
+The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from initial reconnaissance to achieving the attacker's objectives, providing a structured approach for understanding, analysing, and defending against advanced cyber threats.
 
 <div align="center">
 <img src='images/cyber_kill_chain.png' width="75%">
@@ -773,7 +773,7 @@ The Cyber Kill Chain is a framework outlining the stages of a cyber attack, from
 
 ### MITRE ATT&CK Matrix
 
-[MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge)](https://attack.mitre.org/) is a knowledge base that catalogs and describes the tactics, techniques, and procedures used by cyber adversaries. It provides a comprehensive framework for understanding and analyzing the full spectrum of cyber threats, aiding organizations in improving their detection, defense, and response capabilities.
+[MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge)](https://attack.mitre.org/) is a knowledge base that catalogues and describes the tactics, techniques, and procedures used by cyber adversaries. It provides a comprehensive framework for understanding and analysing the full spectrum of cyber threats, aiding organizations in improving their detection, defence, and response capabilities.
 
 <div align="center">
 <img src='images/mitre_att&ck.png' width="100%">
@@ -791,7 +791,7 @@ The Pyramid of Pain is a conceptual framework in cyber security that categorizes
 
 ### SOC Technologies
 
-Security Operations Center (SOC) technologies encompass a range of tools designed to monitor, analyze, and respond to cyber security threats. These include SIEM for log analysis, EDR for endpoint protection, SOAR for orchestration, and other solutions that collectively fortify an organization's cyber security posture.
+Security Operations Center (SOC) technologies encompass a range of tools designed to monitor, analyse, and respond to cyber security threats. These include SIEM for log analysis, EDR for endpoint protection, SOAR for orchestration, and other solutions that collectively fortify an organization's cyber security posture.
 
 <div align="center">
 <img src='images/soc_technologies.png' width="75%">
@@ -846,7 +846,7 @@ This script utilizes the `ps` command to display the top n processes based on CP
 <h3>Listening Ports</h3>
 </summary>
 
-This script utilizes the `ss` and `ps` commands to show the listening ports along with the corresponding process and user names, as well as the PID number. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/listening_ports.sh).
+This script utilizes the `ss` and `ps` commands to show the listening ports along with the corresponding process and usernames, as well as the PID number. You can access the script by clicking [here](https://github.com/robsann/robsann/blob/main/scripts/listening_ports.sh).
 
 <div align="center">
 <img src='images/listening_ports.png' width="90%">
