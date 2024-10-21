@@ -826,7 +826,7 @@ The SANS Incident Response Framework provides a structured approach for organiza
 
 Below are some helpful shell scripts, instructions for installing tools, and other miscellaneous resources.
 
-## 📣📣📣 Useful Shell Scripts
+## 📣 Useful Shell Scripts
 
 <details>
 <summary>
@@ -868,7 +868,7 @@ This script utilizes Nmap to retrieve the IP addresses and MAC addresses of devi
 </details>
 
 
-## 🛠️🛠️🛠️ Tools
+## 🛠️ Tools
 
 <details>
 <summary>
@@ -910,7 +910,7 @@ The procedure for the Zabbix installation can be found [here](https://github.com
 </details>
 
 
-## 🎯🎯🎯 Random Stuff
+## 🎯 Random Stuff
 
 <details>
 <summary>
