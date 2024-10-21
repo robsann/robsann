@@ -826,6 +826,8 @@ The SANS Incident Response Framework provides a structured approach for organiza
 
 <h1 align="center" id="other-stuff">💻 Other Stuff</h1>
 
+Below are some helpful shell scripts, instructions for installing tools, and other miscellaneous resources.
+
 ## 📣📣📣 Useful Shell Scripts
 
 <details>
