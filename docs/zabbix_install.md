@@ -239,7 +239,7 @@ The steps below show how to configure the Zabbix Agent on the Docker host, which
     - Set the parameters below:
         ```yml
         Server=172.18.0.2                    # Zabbix Server IP address
-        ListenPort=10052                    # Zabbix Agent listen port
+        ListenPort=10052                     # Zabbix Agent listen port
         ServerActive=172.18.0.2:10051        # Zabbix Server IP:Port
         Hostname=kali                        # Hostname set at Zabbix GUI
         ```
