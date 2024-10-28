@@ -9,7 +9,7 @@ To set up Zabbix on Docker, we will utilize Docker Compose to install the `zabbi
 - [zabbix-agent:alpine-7.0-latest](https://hub.docker.com/r/zabbix/zabbix-agent)
 - [postgres:16-bullseye](https://hub.docker.com/_/postgres)
 
-To perform the installation follow the steps below:
+To perform the installation, follow the steps below:
 
 1. First, create a directory to store the Docker Compose file:
     ```bash
@@ -178,11 +178,11 @@ Configure Zabbix Discovery to scan the specified network for hosts.
     $ docker restart zabbix-server
     ```
 
-## Configure Agent on Zabbix Server (Docker Container)
+## Configure Zabbix Agent on the Zabbix Server (Docker Container)
 
 Configure Zabbix Agent to gather data for the Zabbix Server.
 
-1. On the Zabbix GUI, go to `Monitoring` > `Hosts`, then click on the `Zabbix Server` > `Host` and configur it with the parameters below:
+1. On the Zabbix GUI, go to `Monitoring` > `Hosts`, then click on the `Zabbix Server` > `Host` and configure it with the parameters below:
     - Host name: `zabbix-host`
     - Visible name: `Zabbix Server`
     - Templates:
@@ -201,17 +201,17 @@ Configure Zabbix Agent to gather data for the Zabbix Server.
         ```
     - The parameters should be as below:
         ```yml
-        Server=zabbix-server                    # Zabbix Server IP/DNS name
-        ServerActive=zabbix-server:10051        # Zabbix Server IP/DNS:Port
+        Server=zabbix-server                    # Zabbix Server (Docker) IP/DNS name
+        ServerActive=zabbix-server:10051        # Zabbix Server (Docker) IP/DNS:Port
         Hostname=zabbix-host                    # Hostname set at Zabbix UI
         ```
 3. Run the command below on the zabbix-server to reload the configuration file if needed:
     ```bash
     $ docker exec -it zabbix-server zabbix_server -R config_cache_reload
     ```
-4. After a couple of minutes check if the host status on the Zabbix GUI becomes green.
+4. After a couple of minutes, check if the host status on the Zabbix GUI becomes green.
 
-## Configure the Zabbix Agent on the Docker Host
+## Configure Zabbix Agent on the Docker Host (Kali Linux)
 
 The steps below show how to configure the Zabbix Agent on the Docker host, which is an Debian-based Linux distribution (Kali Linux):
 
@@ -226,7 +226,7 @@ The steps below show how to configure the Zabbix Agent on the Docker host, which
         - Port: `10052`
     - Then click `Update`.
 2. Go to `Data collection` > `Discovery`, Then click on `Local network`:
-    1. On `IP range`, remove the Docker Host IP address to avoid the Zabbix Discovery to be adding the default Zabbix agent listening port (10050).
+    1. On `IP range`, remove the Docker Host IP address to avoid the Zabbix Discovery to be, adding the default Zabbix agent listening port (10050).
 3. On the Kali Linux, install the Zabbix Agent:
     ```bash
     $ sudo apt install zabbix-agent
@@ -238,9 +238,9 @@ The steps below show how to configure the Zabbix Agent on the Docker host, which
         ```
     - Set the parameters below:
         ```yml
-        Server=172.18.0.2                    # Zabbix Server IP address
-        ListenPort=10052                     # Zabbix Agent listen port
-        ServerActive=172.18.0.2:10051        # Zabbix Server IP:Port
+        Server=172.18.0.2                    # Zabbix Server (Docker) IP address
+        ListenPort=10052                     # Zabbix Agent (Host) listen port
+        ServerActive=172.18.0.2:10051        # Zabbix Server (Docker) IP:Port
         Hostname=kali                        # Hostname set at Zabbix GUI
         ```
 5. Enable and restart the Zabbix Agent:
@@ -248,13 +248,13 @@ The steps below show how to configure the Zabbix Agent on the Docker host, which
      $ sudo systemctl enable zabbix-agent
     $ sudo systemctl restart zabbix-agent
     ```
-6. Run the command below using the zabbix-server container id:
+6. Run the command below using the zabbix-server container ID:
     ```bash
     $ docker exec -it zabbix-server zabbix_server -R config_cache_reload
     ```
-7. After a couple of minutes check if the host status on the Zabbix GUI becomes green.
+7. After a couple of minutes, check if the host status on the Zabbix GUI becomes green.
 
-## Configure Zabbix Agent on an VirtualBox VM
+## Configure Zabbix Agent on an VirtualBox VM (Ubuntu Server)
 
 The steps below show how to configure the Zabbix Agent on an VirtualBox VM, which is an Debian-based Linux distribution (Ubuntu Server):
 
@@ -264,11 +264,11 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
     - Templates: `Templates/Operating systems` > `Linux by Zabbix agent`
     - Host groups: `Virtual machines`
     - Interfaces:
-        - Ip address: `192.168.57.3`
+        - IP address: `192.168.57.3`
         - Connect to: `IP`
         - Port: `10050`
     - Then click `Update`.
-2. On the Unbuntu Server, install the Zabbix Agent:
+2. On the Ubuntu Server, install the Zabbix Agent:
     ```bash
     $ sudo apt install zabbix-agent
     ```
@@ -279,8 +279,8 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
         ```
     - Set the parameters below:
         ```yml
-        Server=192.168.57.1                        # Zabbix Server IP Address (Docker Host IP)
-        ServerActive=192.168.57.1:10051            # Zabbix Server IP:Port
+        Server=192.168.57.1                        # Zabbix Server (Docker) IP Address
+        ServerActive=192.168.57.1:10051            # Zabbix Server (Docker) IP:Port
         Hostname=ubuntu-server                     # Hostname set at Zabbix GUI
         ```
 4. Enable and restart the Zabbix Agent:
@@ -288,11 +288,11 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
      $ sudo systemctl enable zabbix-agent
     $ sudo systemctl restart zabbix-agent
     ```
-5. Run the command below using the zabbix-server container id:
+5. Run the command below using the zabbix-server container ID:
     ```bash
     $ docker exec -it zabbix-server zabbix_server -R config_cache_reload
     ```
-6. After a couple of minutes check if the host status on the Zabbix GUI becomes green.
+6. After a couple of minutes, check if the host status on the Zabbix GUI becomes green.
 
 ## TROUBLESHOOTING
 
@@ -320,4 +320,3 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
         ```bash
         $ sudo nano /etc/zabbix/zabbix_agentd.conf
         ```
-
