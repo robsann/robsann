@@ -12,15 +12,15 @@ To set up Zabbix on Docker, we will utilize Docker Compose to install the `zabbi
 To perform the installation follow the steps below:
 
 1. First, create a directory to store the Docker Compose file:
-	```bash
+    ```bash
     $ mkdir zabbix && cd zabbix
-	```
+    ```
 2. Then, create the Docker Compose file:
-	```bash
-	$ nano docker-compose.yml
-	```
-	- Save the content below to the file:
-	```yml
+    ```bash
+    $ nano docker-compose.yml
+    ```
+    - Save the content below to the file:
+    ```yml
     services:
       zabbix-server:
         container_name: "zabbix-server"
@@ -139,15 +139,15 @@ To perform the installation follow the steps below:
 
     volumes:
       zbx_db16:
-	```
+    ```
 3. Then run the docker compose with the command below:
-	```bash
-	$ docker compose up -d
-	```
+    ```bash
+    $ docker compose up -d
+    ```
 4. Verify if Zabbix is up and running:
-	```bash
-	$ docker ps
-	```
+    ```bash
+    $ docker ps
+    ```
 5. To access the Zabbix UI, go to `localhost:8080`. If you encounter an error, wait for the database to start and try again. Sign in using the credentials `Admin:zabbix`.
 
 ## Zabbix Discover Hosts
@@ -155,104 +155,103 @@ To perform the installation follow the steps below:
 Configure Zabbix Discovery to scan the specified network for hosts.
 
 1. On the Zabbix UI, go to `Alerts` > `Actions` > `Discovery actions`, then click on `Create action`.
-	1. On the `Action` tab, set the `Name`, then click on `Add` under `Conditions` and set:
-		- Type: `Discovery rule`
-		- Operator: `equals`
-		- Discovery rules: `Local network`
-		- Click `Add`.
-	2. On the `Operations` tab, click on `Add` under `Operations`, then set:
-		- Operations: `Add host`
-		- Click `Add`.
-	3. Click `Add`.
+    1. On the `Action` tab, set the `Name`, then click on `Add` under `Conditions` and set:
+        - Type: `Discovery rule`
+        - Operator: `equals`
+        - Discovery rules: `Local network`
+        - Click `Add`.
+    2. On the `Operations` tab, click on `Add` under `Operations`, then set:
+        - Operations: `Add host`
+        - Click `Add`.
+    3. Click `Add`.
 2. Go to `Data collection` > `Discovery`, then click on the `Local network` and set:
-	1. IP range: `192.168.57.1-10`
-	2. Update interval: `5m`
-	3. Under `Checks` > `Actions` set:
-		1. Remove the `system.uname`.
-		2. Add the `ICMP ping`.
-		3. Add the `HTTP` on port `80`.
-		4. Add the `SSH` on port `22`.
-	4. Check the `Enable` box, then click on `Update`.
+    1. IP range: `192.168.57.1-10`
+    2. Update interval: `5m`
+    3. Under `Checks` > `Actions` set:
+        1. Remove the `system.uname`.
+        2. Add the `ICMP ping`.
+        3. Add the `HTTP` on port `80`.
+        4. Add the `SSH` on port `22`.
+    4. Check the `Enable` box, then click on `Update`.
 3. Wait a few minutes for the hosts to appear in `Monitoring` > `Hosts`, or restart the zabbix-server container using the command below:
-	```bash
-	$ docker restart zabbix-server
-	```
+    ```bash
+    $ docker restart zabbix-server
+    ```
 
 ## Configure Agent on Zabbix Server (Docker Container)
 
 Configure Zabbix Agent to gather data for the Zabbix Server.
 
 1. On the Zabbix GUI, go to `Monitoring` > `Hosts`, then click on the `Zabbix Server` > `Host` and configur it with the parameters below:
-	- Host name: `zabbix-host`
-	- Visible name: `Zabbix Server`
-	- Templates:
-		- `Linux by Zabbix agent`
-		- `Zabbix server health`
-	- Host groups: `Zabbix servers`
-	- Interface:
-		- DNS name: `zabbix-agent`
-		- Connect to: `DNS`
-		- Port: 10050
-	- Then click on `Update`.
+    - Host name: `zabbix-host`
+    - Visible name: `Zabbix Server`
+    - Templates:
+        - `Linux by Zabbix agent`
+        - `Zabbix server health`
+    - Host groups: `Zabbix servers`
+    - Interface:
+        - DNS name: `zabbix-agent`
+        - Connect to: `DNS`
+        - Port: 10050
+    - Then click on `Update`.
 2. Check the configuration of the Zabbix Agent:
-	- Open the configuration file:
-		```bash
-		$ docker exec -it zabbix-agent vi /etc/zabbix/zabbix_agentd.conf
-		```
-	- The parameters should be as below:
-		```yml
-		Server=zabbix-server					# Zabbix Server IP/DNS name
-		ServerActive=zabbix-server:10051		# Zabbix Server IP/DNS:Port
-		Hostname=zabbix-host					# Hostname set at Zabbix UI
-		```
+    - Open the configuration file:
+        ```bash
+        $ docker exec -it zabbix-agent vi /etc/zabbix/zabbix_agentd.conf
+        ```
+    - The parameters should be as below:
+        ```yml
+        Server=zabbix-server                    # Zabbix Server IP/DNS name
+        ServerActive=zabbix-server:10051        # Zabbix Server IP/DNS:Port
+        Hostname=zabbix-host                    # Hostname set at Zabbix UI
+        ```
 3. Run the command below on the zabbix-server to reload the configuration file if needed:
-	```bash
-	$ docker exec -it zabbix-server zabbix_server -R config_cache_reload
-	```
+    ```bash
+    $ docker exec -it zabbix-server zabbix_server -R config_cache_reload
+    ```
 4. After a couple of minutes check if the host status on the Zabbix GUI becomes green.
-
 
 ## Configure the Zabbix Agent on the Docker Host
 
 The steps below show how to configure the Zabbix Agent on the Docker host, which is an Debian-based Linux distribution (Kali Linux):
 
 1. On the Zabbix GUI, go to `Monitoring` > `Hosts`, on the hosts list click on the `IP address` corresponding to the `Docker host`, then click on `Host` to set the parameters below:
-	- Host name: `kali`
-	- Visible name: `Kali Linux`
-	- Templates: `Templates/Operating systems` > `Linux by Zabbix agent`
-	- Host groups: `Discovered hosts`
-	- Interfaces:
-		- IP Address: `192.168.57.1`
-		- Connect to: `IP`
-		- Port: `10052`
-	- Then click `Update`.
+    - Host name: `kali`
+    - Visible name: `Kali Linux`
+    - Templates: `Templates/Operating systems` > `Linux by Zabbix agent`
+    - Host groups: `Discovered hosts`
+    - Interfaces:
+        - IP Address: `192.168.57.1`
+        - Connect to: `IP`
+        - Port: `10052`
+    - Then click `Update`.
 2. Go to `Data collection` > `Discovery`, Then click on `Local network`:
-	1. On `IP range`, remove the Docker Host IP address to avoid the Zabbix Discovery to be adding the default Zabbix agent listening port (10050).
+    1. On `IP range`, remove the Docker Host IP address to avoid the Zabbix Discovery to be adding the default Zabbix agent listening port (10050).
 3. On the Kali Linux, install the Zabbix Agent:
-	```bash
-	$ sudo apt install zabbix-agent
-	```
+    ```bash
+    $ sudo apt install zabbix-agent
+    ```
 4. Configure server IP address at the Zabbix Agent config file:
-	- Open the configuration file:
-		```bash
-		$ sudo nano /etc/zabbix/zabbix_agentd.conf
-		```
-	- Set the parameters below:
-		```yml
-		Server=172.18.0.2					# Zabbix Server IP address
-		ListenPort=10052					# Zabbix Agent listen port
-		ServerActive=172.18.0.2:10051		# Zabbix Server IP:Port
-		Hostname=kali						# Hostname set at Zabbix GUI
-		```
+    - Open the configuration file:
+        ```bash
+        $ sudo nano /etc/zabbix/zabbix_agentd.conf
+        ```
+    - Set the parameters below:
+        ```yml
+        Server=172.18.0.2                    # Zabbix Server IP address
+        ListenPort=10052                    # Zabbix Agent listen port
+        ServerActive=172.18.0.2:10051        # Zabbix Server IP:Port
+        Hostname=kali                        # Hostname set at Zabbix GUI
+        ```
 5. Enable and restart the Zabbix Agent:
-	```bash
- 	$ sudo systemctl enable zabbix-agent
-	$ sudo systemctl restart zabbix-agent
-	```
+    ```bash
+     $ sudo systemctl enable zabbix-agent
+    $ sudo systemctl restart zabbix-agent
+    ```
 6. Run the command below using the zabbix-server container id:
-	```bash
-	$ docker exec -it zabbix-server zabbix_server -R config_cache_reload
-	```
+    ```bash
+    $ docker exec -it zabbix-server zabbix_server -R config_cache_reload
+    ```
 7. After a couple of minutes check if the host status on the Zabbix GUI becomes green.
 
 ## Configure Zabbix Agent on an VirtualBox VM
@@ -260,39 +259,39 @@ The steps below show how to configure the Zabbix Agent on the Docker host, which
 The steps below show how to configure the Zabbix Agent on an VirtualBox VM, which is an Debian-based Linux distribution (Ubuntu Server):
 
 1. On the Zabbix GUI, go to `Monitoring` > `Hosts`, on the hosts list click on the `IP address` corresponding to the `VirtualBox VM`, then click on `Host` to set the parameters below:
-	- Host name: `ubuntu-server`
-	- Visible name: `Ubuntu Server`
-	- Templates: `Templates/Operating systems` > `Linux by Zabbix agent`
-	- Host groups: `Virtual machines`
-	- Interfaces:
-		- Ip address: `192.168.57.3`
-		- Connect to: `IP`
-		- Port: `10050`
-	- Then click `Update`.
+    - Host name: `ubuntu-server`
+    - Visible name: `Ubuntu Server`
+    - Templates: `Templates/Operating systems` > `Linux by Zabbix agent`
+    - Host groups: `Virtual machines`
+    - Interfaces:
+        - Ip address: `192.168.57.3`
+        - Connect to: `IP`
+        - Port: `10050`
+    - Then click `Update`.
 2. On the Unbuntu Server, install the Zabbix Agent:
-	```bash
-	$ sudo apt install zabbix-agent
-	```
+    ```bash
+    $ sudo apt install zabbix-agent
+    ```
 3. Configure server IP address at the Zabbix Agent config file:
-	- Open the configuration file:
-		```bash
-		$ sudo nano /etc/zabbix/zabbix_agentd.conf
-		```
-	- Set the parameters below:
-		```yml
-		Server=192.168.57.1						# Zabbix Server IP Address (Docker Host IP)
-		ServerActive=192.168.57.1:10051			# Zabbix Server IP:Port
-		Hostname=ubuntu-server					# Hostname set at Zabbix GUI
-		```
+    - Open the configuration file:
+        ```bash
+        $ sudo nano /etc/zabbix/zabbix_agentd.conf
+        ```
+    - Set the parameters below:
+        ```yml
+        Server=192.168.57.1                        # Zabbix Server IP Address (Docker Host IP)
+        ServerActive=192.168.57.1:10051            # Zabbix Server IP:Port
+        Hostname=ubuntu-server                    # Hostname set at Zabbix GUI
+        ```
 4. Enable and restart the Zabbix Agent:
-	```bash
- 	$ sudo systemctl enable zabbix-agent
-	$ sudo systemctl restart zabbix-agent
-	```
+    ```bash
+     $ sudo systemctl enable zabbix-agent
+    $ sudo systemctl restart zabbix-agent
+    ```
 5. Run the command below using the zabbix-server container id:
-	```bash
-	$ docker exec -it zabbix-server zabbix_server -R config_cache_reload
-	```
+    ```bash
+    $ docker exec -it zabbix-server zabbix_server -R config_cache_reload
+    ```
 6. After a couple of minutes check if the host status on the Zabbix GUI becomes green.
 
 ## TROUBLESHOOTING
@@ -300,25 +299,25 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
 ### Important files for troubleshooting
 
 1. Zabbix files on docker:
-	- Log files:
-		```bash
-		$ docker logs zabbix-server
-		$ docker logs zabbix-agent
-		$ docker logs zabbix-web
-		$ docker logs zabbix-db
-		```
-	- Configuration files:
-		```bash
-		$ docker exec -it zabbix-server vi /etc/zabbix/zabbix_server.conf
-		$ docker exec -it zabbix-agent vi /etc/zabbix/zabbix_agentd.conf
-		```
+    - Log files:
+        ```bash
+        $ docker logs zabbix-server
+        $ docker logs zabbix-agent
+        $ docker logs zabbix-web
+        $ docker logs zabbix-db
+        ```
+    - Configuration files:
+        ```bash
+        $ docker exec -it zabbix-server vi /etc/zabbix/zabbix_server.conf
+        $ docker exec -it zabbix-agent vi /etc/zabbix/zabbix_agentd.conf
+        ```
 2. Zabbix files on Debian-based Linux distributions:
-	- Log file:
-		```bash
-		$ tail -f /var/log/zabbix/zabbix_agentd.log
-		```
-	- Configuration file:
-		```bash
-		$ sudo nano /etc/zabbix/zabbix_agentd.conf
-		```
+    - Log file:
+        ```bash
+        $ tail -f /var/log/zabbix/zabbix_agentd.log
+        ```
+    - Configuration file:
+        ```bash
+        $ sudo nano /etc/zabbix/zabbix_agentd.conf
+        ```
 
