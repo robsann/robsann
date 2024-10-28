@@ -281,7 +281,7 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
         ```yml
         Server=192.168.57.1                        # Zabbix Server IP Address (Docker Host IP)
         ServerActive=192.168.57.1:10051            # Zabbix Server IP:Port
-        Hostname=ubuntu-server                    # Hostname set at Zabbix GUI
+        Hostname=ubuntu-server                     # Hostname set at Zabbix GUI
         ```
 4. Enable and restart the Zabbix Agent:
     ```bash
