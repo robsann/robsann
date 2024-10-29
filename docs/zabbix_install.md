@@ -46,14 +46,16 @@ To perform the installation, follow the steps below:
         volumes:
           - /etc/localtime:/etc/localtime:ro
           - /etc/timezone:/etc/timezone:ro
-          - server_vol:/var/lib/zabbix/export
-          - server_vol:/var/lib/zabbix/snmptraps
+          - ./zabbix-server:/var/lib/zabbix/export
+          - ./zabbix-server:/var/lib/zabbix/snmptraps
         environment:
           ZBX_CACHESIZE: 4096M
           ZBX_HISTORYCACHESIZE: 1024M
           ZBX_HISTORYINDEXCACHESIZE: 1024M
           ZBX_TRENDCACHESIZE: 1024M
           ZBX_VALUECACHESIZE: 1024M
+          ZBX_EXPORTFILESIZE: 1G
+          ZBX_ENABLE_SNMP_TRAPS: "true"
           DB_SERVER_HOST: "zabbix-db"
           DB_PORT: 5432
           POSTGRES_USER: "zabbix"
