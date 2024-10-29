@@ -55,7 +55,7 @@ To perform the installation, follow the steps below:
           ZBX_TRENDCACHESIZE: 1024M
           ZBX_VALUECACHESIZE: 1024M
           ZBX_EXPORTFILESIZE: 1G
-          ZBX_ENABLE_SNMP_TRAPS: "true"
+          ZBX_ENABLE_SNMP_TRAPS: true
           DB_SERVER_HOST: "zabbix-db"
           DB_PORT: 5432
           POSTGRES_USER: "zabbix"
