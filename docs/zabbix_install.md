@@ -299,7 +299,7 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
 ### Important files for troubleshooting
 
 1. Zabbix files on docker:
-    - Log files:
+    - Display the log files:
         ```bash
         $ docker logs zabbix-server
         $ docker logs zabbix-agent
@@ -312,7 +312,7 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
         $ docker exec -it zabbix-agent vi /etc/zabbix/zabbix_agentd.conf
         ```
 2. Zabbix files on Debian-based Linux distributions:
-    - Print the whole log file:
+    - Print the entire log file:
         ```bash
         $ cat /var/log/zabbix/zabbix_agentd.log
         ```
