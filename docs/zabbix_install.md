@@ -21,6 +21,18 @@ To perform the installation, follow the steps below:
     ```
     - Save the content below to the file:
     ```yml
+    volumes:
+      server_vol:
+      db_vol:
+
+    networks:
+      local_net:
+        driver: bridge
+        ipam:
+          config:
+            - subnet: 172.18.0.0/16
+              gateway: 172.18.0.1
+
     services:
       zabbix-server:
         container_name: "zabbix-server"
@@ -29,11 +41,13 @@ To perform the installation, follow the steps below:
         ports:
           - 10051:10051
         networks:
-          zabbix-net:
+          local_net:
             ipv4_address: 172.18.0.2
         volumes:
           - /etc/localtime:/etc/localtime:ro
           - /etc/timezone:/etc/timezone:ro
+          - server_vol:/var/lib/zabbix/export
+          - server_vol:/var/lib/zabbix/snmptraps
         environment:
           ZBX_CACHESIZE: 4096M
           ZBX_HISTORYCACHESIZE: 1024M
@@ -56,19 +70,19 @@ To perform the installation, follow the steps below:
       zabbix-web:
         container_name: "zabbix-web"
         image: zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
+        depends_on:
+          - zabbix-server
         restart: always
         ports:
           - 8080:8080
           - 8443:8443
         networks:
-          zabbix-net:
+          local_net:
             ipv4_address: 172.18.0.3
         volumes:
           - /etc/localtime:/etc/localtime:ro
           - /etc/timezone:/etc/timezone:ro
           - ./cert/:/usr/share/zabbix/conf/certs/:ro
-        depends_on:
-          - zabbix-server
         environment:
           DB_SERVER_HOST: "zabbix-db"
           DB_PORT: 5432
@@ -98,10 +112,10 @@ To perform the installation, follow the steps below:
         ports:
           - 5432:5432
         networks:
-          zabbix-net:
+          local_net:
             ipv4_address: 172.18.0.4
         volumes:
-          - ./pgsql-volume:/var/lib/postgresql/data
+          - db_vol:/var/lib/postgresql/data
         environment:
           POSTGRES_USER: "zabbix"
           POSTGRES_PASSWORD: "zabbix123"
@@ -110,35 +124,24 @@ To perform the installation, follow the steps below:
       zabbix-agent:
         container_name: "zabbix-agent"
         image: zabbix/zabbix-agent:alpine-7.0-latest
+        depends_on:
+          - zabbix-server
         restart: always
         ports:
           - 10050:10050
           - 31999:31999
         networks:
-          zabbix-net:
+          local_net:
             ipv4_address: 172.18.0.5
         volumes:
           - /etc/localtime:/etc/localtime:ro
           - /etc/timezone:/etc/timezone:ro
           - /run/docker.sock:/var/run/docker.sock
-        depends_on:
-          - zabbix-server
         environment:
           ZBX_HOSTNAME: "zabbix-host"
           ZBX_SERVER_HOST: "zabbix-server"
           ZBX_ENABLEREMOTECOMMANDS: "1"
         stop_grace_period: 5s
-
-    networks:
-      zabbix-net:
-        driver: bridge
-        ipam:
-          config:
-            - subnet: 172.18.0.0/16
-              gateway: 172.18.0.1
-
-    volumes:
-      zbx_db16:
     ```
 3. Then run the docker compose with the command below:
     ```bash
@@ -167,11 +170,10 @@ Configure Zabbix Discovery to scan the specified network for hosts.
 2. Go to `Data collection` > `Discovery`, then click on the `Local network` and set:
     1. IP range: `192.168.57.1-10`
     2. Update interval: `5m`
-    3. Under `Checks` > `Actions` set:
-        1. Remove the `system.uname`.
-        2. Add the `ICMP ping`.
-        3. Add the `HTTP` on port `80`.
-        4. Add the `SSH` on port `22`.
+    3. Under `Checks` > `Actions` remove the `Zabbix agent system.uname`, then add:
+        1. Add the `ICMP ping`.
+        2. Add the `HTTP` on port `80`.
+        3. Add the `SSH` on port `22`.
     4. Check the `Enable` box, then click on `Update`.
 3. Wait a few minutes for the hosts to appear in `Monitoring` > `Hosts`, or restart the zabbix-server container using the command below:
     ```bash
@@ -190,6 +192,7 @@ Configure Zabbix Agent to gather data for the Zabbix Server.
         - `Zabbix server health`
     - Host groups: `Zabbix servers`
     - Interface:
+        - IP address: Leave empty
         - DNS name: `zabbix-agent`
         - Connect to: `DNS`
         - Port: 10050
@@ -285,7 +288,7 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
         ```
 4. Enable and restart the Zabbix Agent:
     ```bash
-     $ sudo systemctl enable zabbix-agent
+    $ sudo systemctl enable zabbix-agent
     $ sudo systemctl restart zabbix-agent
     ```
 5. After a couple of minutes, check if the host status on the Zabbix GUI becomes green.
