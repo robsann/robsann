@@ -288,11 +288,11 @@ The steps below show how to configure the Zabbix Agent on an VirtualBox VM, whic
      $ sudo systemctl enable zabbix-agent
     $ sudo systemctl restart zabbix-agent
     ```
-5. Run the command below using the zabbix-server container ID:
+5. After a couple of minutes, check if the host status on the Zabbix GUI becomes green.
+7. Run on the Docker Host the zabbix-server command below to reload the configuration file if needed:
     ```bash
     $ docker exec -it zabbix-server zabbix_server -R config_cache_reload
     ```
-6. After a couple of minutes, check if the host status on the Zabbix GUI becomes green.
 
 ## TROUBLESHOOTING
 
