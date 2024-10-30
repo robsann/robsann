@@ -37,16 +37,16 @@ To perform the installation, follow the steps below:
           - ./zabbix-server:/var/lib/zabbix/export
           - ./zabbix-server:/var/lib/zabbix/snmptraps
         environment:
-          ZBX_CACHESIZE: 4096M
-          ZBX_HISTORYCACHESIZE: 1024M
-          ZBX_HISTORYINDEXCACHESIZE: 1024M
-          ZBX_TRENDCACHESIZE: 1024M
-          ZBX_VALUECACHESIZE: 1024M
           DB_SERVER_HOST: "zabbix-db"
           DB_PORT: 5432
           POSTGRES_USER: "zabbix"
           POSTGRES_PASSWORD: "zabbix123"
           POSTGRES_DB: "zabbix-db"
+          ZBX_CACHESIZE: 4096M
+          ZBX_HISTORYCACHESIZE: 1024M
+          ZBX_HISTORYINDEXCACHESIZE: 1024M
+          ZBX_TRENDCACHESIZE: 1024M
+          ZBX_VALUECACHESIZE: 1024M
         labels:
           com.zabbix.description: "Zabbix server with PostgreSQL database support"
           com.zabbix.company: "Zabbix LLC"
