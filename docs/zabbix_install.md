@@ -21,18 +21,6 @@ To perform the installation, follow the steps below:
     ```
     - Save the content below to the file:
     ```yml
-    volumes:
-      server_vol:
-      db_vol:
-
-    networks:
-      local_net:
-        driver: bridge
-        ipam:
-          config:
-            - subnet: 172.18.0.0/16
-              gateway: 172.18.0.1
-
     services:
       zabbix-server:
         container_name: "zabbix-server"
@@ -41,7 +29,7 @@ To perform the installation, follow the steps below:
         ports:
           - 10051:10051
         networks:
-          local_net:
+          zabbix-net:
             ipv4_address: 172.18.0.2
         volumes:
           - /etc/localtime:/etc/localtime:ro
@@ -54,8 +42,6 @@ To perform the installation, follow the steps below:
           ZBX_HISTORYINDEXCACHESIZE: 1024M
           ZBX_TRENDCACHESIZE: 1024M
           ZBX_VALUECACHESIZE: 1024M
-          ZBX_EXPORTFILESIZE: 1G
-          ZBX_ENABLE_SNMP_TRAPS: true
           DB_SERVER_HOST: "zabbix-db"
           DB_PORT: 5432
           POSTGRES_USER: "zabbix"
@@ -72,14 +58,13 @@ To perform the installation, follow the steps below:
       zabbix-web:
         container_name: "zabbix-web"
         image: zabbix/zabbix-web-nginx-pgsql:alpine-7.0-latest
+        restart: always
         depends_on:
           - zabbix-server
-        restart: always
         ports:
           - 8080:8080
-          - 8443:8443
         networks:
-          local_net:
+          zabbix-net:
             ipv4_address: 172.18.0.3
         volumes:
           - /etc/localtime:/etc/localtime:ro
@@ -111,10 +96,8 @@ To perform the installation, follow the steps below:
         container_name: "zabbix-db"
         image: postgres:16-bullseye
         restart: always
-        ports:
-          - 5432:5432
         networks:
-          local_net:
+          zabbix-net:
             ipv4_address: 172.18.0.4
         volumes:
           - db_vol:/var/lib/postgresql/data
@@ -126,14 +109,11 @@ To perform the installation, follow the steps below:
       zabbix-agent:
         container_name: "zabbix-agent"
         image: zabbix/zabbix-agent:alpine-7.0-latest
+        restart: always
         depends_on:
           - zabbix-server
-        restart: always
-        ports:
-          - 10050:10050
-          - 31999:31999
         networks:
-          local_net:
+          zabbix-net:
             ipv4_address: 172.18.0.5
         volumes:
           - /etc/localtime:/etc/localtime:ro
@@ -144,6 +124,18 @@ To perform the installation, follow the steps below:
           ZBX_SERVER_HOST: "zabbix-server"
           ZBX_ENABLEREMOTECOMMANDS: "1"
         stop_grace_period: 5s
+
+    networks:
+      zabbix-net:
+        name: zabbix-net
+        driver: bridge
+        ipam:
+          config:
+            - subnet: 172.18.0.0/16
+              gateway: 172.18.0.1
+
+    volumes:
+      db_vol:
     ```
 3. Then run the docker compose with the command below:
     ```bash
@@ -153,7 +145,16 @@ To perform the installation, follow the steps below:
     ```bash
     $ docker ps
     ```
-5. To access the Zabbix UI, go to `localhost:8080`. If you encounter an error, wait for the database to start and try again. Sign in using the credentials `Admin:zabbix`.
+5. To identify listening ports on the container, follow these steps:
+    1. Get the PID of the Docker container:
+    ```bash
+    $ docker inspect -f '{{.State.Pid}}' <CONTAINER_NAME_OR_ID>
+    ```
+    2. Use `nsenter` to run `ss -ltn` inside the container namespace:
+    ```bash
+    $ sudo nsenter -t <PID> -n ss -ltn
+    ```
+6. To access the Zabbix UI, go to `localhost:8080`. If you encounter an error, wait for the database to start and try again. Sign in using the credentials `Admin:zabbix`.
 
 ## Zabbix Discover Hosts
 
@@ -172,7 +173,7 @@ Configure Zabbix Discovery to scan the specified network for hosts.
 2. Go to `Data collection` > `Discovery`, then click on the `Local network` and set:
     1. IP range: `192.168.57.1-10`
     2. Update interval: `5m`
-    3. Under `Checks` > `Actions` remove the `Zabbix agent system.uname`, then add:
+    3. Under `Checks`, remove the `Zabbix agent "system.uname"`, then add:
         1. Add the `ICMP ping`.
         2. Add the `HTTP` on port `80`.
         3. Add the `SSH` on port `22`.
