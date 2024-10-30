@@ -71,13 +71,13 @@ To perform the installation, follow the steps below:
           - /etc/timezone:/etc/timezone:ro
           - ./cert/:/usr/share/zabbix/conf/certs/:ro
         environment:
+          ZBX_MEMORYLIMIT: "1024M"
+          ZBX_SERVER_HOST: "zabbix-server"
           DB_SERVER_HOST: "zabbix-db"
           DB_PORT: 5432
           POSTGRES_USER: "zabbix"
           POSTGRES_PASSWORD: "zabbix123"
           POSTGRES_DB: "zabbix-db"
-          ZBX_MEMORYLIMIT: "1024M"
-          ZBX_SERVER_HOST: "zabbix-server"
         labels:
           com.zabbix.description: "Zabbix frontend on Nginx web-server with PostgreSQL database support"
           com.zabbix.company: "Zabbix LLC"
