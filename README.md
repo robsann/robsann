@@ -135,7 +135,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="cyber-security-resources">The NIST Cybersecurity Framework (CSF) 2.0</h3>
+<h3 id="cyber-security-resources">🔎 The NIST Cybersecurity Framework (CSF) 2.0</h3>
 </summary>
 
 - The NIST Cybersecurity Framework (CSF) 2.0 is a set of guidelines and best practices for **managing cyber security risks**.
@@ -159,7 +159,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary flex-shrink="0">
-<h3 id="nist-sp-800-12">NIST SP 800-12 Rev. 1:<br> An Introduction to Information Security</h3>
+<h3 id="nist-sp-800-12">🔎 NIST SP 800-12 Rev. 1: An Introduction to Information Security</h3>
 </summary>
 
 - NIST SP 800-12 Rev. 1 is a publication that serves as an introduction to information security.
@@ -187,7 +187,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-37">NIST SP 800-37 Rev. 2:<br> Risk Management Framework for Information Systems and Organizations</h3>
+<h3 id="nist-sp-800-37">🔎 NIST SP 800-37 Rev. 2: Risk Management Framework for Information Systems and Organizations</h3>
 </summary>
 
 - NIST SP 800-37 Rev. 2 is a publication that outlines a structured approach to managing risks associated with information systems and organizations.
@@ -209,7 +209,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-53">NIST SP 800-53 Rev. 5:<br> Security and Privacy Controls for Information Systems and Organizations</h3>
+<h3 id="nist-sp-800-53">🔎 NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems and Organizations</h3>
 </summary>
 
 - NIST SP 800-53 Rev. 5 is a publication that provides a comprehensive set of security and privacy controls for information systems and organizations.
@@ -231,7 +231,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-61">NIST SP 800-61 Rev 2:<br> Computer Security Incident Handling Guide</h3>
+<h3 id="nist-sp-800-61">🔎 NIST SP 800-61 Rev 2: Computer Security Incident Handling Guide</h3>
 </summary>
 
 - NIST SP 800-61 Rev 2 is a comprehensive guide to help organizations effectively respond to and manage computer security incidents.
@@ -256,7 +256,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-63-3">NIST SP 800-63-3:<br> Digital Identity Guidelines</h3>
+<h3 id="nist-sp-800-63-3">🔎 NIST SP 800-63-3: Digital Identity Guidelines</h3>
 </summary>
 
 - NIST SP 800-63-3 is a set of guidelines created to help organizations improve the security and usability of digital identity systems.
@@ -282,7 +282,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-82">NIST SP 800-82 Rev. 3:<br> Guide to Operational Technology (OT) Security</h3>
+<h3 id="nist-sp-800-82">🔎 NIST SP 800-82 Rev. 3: Guide to Operational Technology (OT) Security</h3>
 </summary>
 
 - NIST SP 800-82 Rev. 3 is a guide developed to help organizations secure their Operational Technology (OT) systems.
@@ -306,7 +306,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-115">NIST SP 800-115:<br> Technical Guide to Information Security Testing and Assessment</h3>
+<h3 id="nist-sp-800-115">🔎 NIST SP 800-115: Technical Guide to Information Security Testing and Assessment</h3>
 </summary>
 
 - NIST SP 800-115 is a technical guide that provides organizations with guidance on conducting information security testing and assessments.
@@ -342,7 +342,7 @@ Executive Summary
 
 <details>
 <summary>
-<h3 id="isoiec-27001">ISO/IEC 27001:2022:<br> Information Security Management System (ISMS)</h3>
+<h3 id="isoiec-27001">🔎 ISO/IEC 27001:2022: Information Security Management System (ISMS)</h3>
 </summary>
 
 - ISO/IEC 27001 is an internationally recognized standard that outlines the requirements for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS).
@@ -369,7 +369,7 @@ Executive Summary
 
 <details>
 <summary>
-<h3 id="isoiec-27002">ISO/IEC 27002:2022:<br> Information security controls</h3>
+<h3 id="isoiec-27002">🔎 ISO/IEC 27002:2022: Information security controls</h3>
 </summary>
 
 - ISO/IEC 27002 is a globally recognized standard that provides guidelines and best practices for implementing information security controls within an organization.
@@ -395,7 +395,7 @@ Executive Summary
 
 <details>
 <summary>
-<h3 id="isoiec-27005">ISO/IEC 27005:2022:<br> Guidance on managing information security risks</h3>
+<h3 id="isoiec-27005">🔎 ISO/IEC 27005:2022: Guidance on managing information security risks</h3>
 </summary>
 
 - ISO/IEC 27005 is a standard that provides guidelines for implementing an effective information security risk management process.
@@ -423,7 +423,7 @@ Executive Summary
 
 <details>
 <summary>
-<h3 id="isoiec-27017">ISO/IEC 27017:2015:<br> Code of Practice for Information Security Controls for Cloud Services</h3>
+<h3 id="isoiec-27017">🔎 ISO/IEC 27017:2015: Code of Practice for Information Security Controls for Cloud Services</h3>
 </summary>
 
 - ISO/IEC 27017 is a code of practice that provides guidelines for implementing information security controls in cloud services.
@@ -458,7 +458,7 @@ Executive Summary
 
 <details>
 <summary>
-<h3 id="isoiec-27018">ISO/IEC 27018:2019:<br> Code of practice for protection of personally identifiable information (PII)<br> in public clouds acting as PII processors</h3>
+<h3 id="isoiec-27018">🔎 ISO/IEC 27018:2019: Code of practice for protection of personally identifiable information (PII)<br> in public clouds acting as PII processors</h3>
 </summary>
 
 - ISO/IEC 27018 is a code of practice that provides guidelines for protecting personal data in the cloud.
@@ -493,7 +493,7 @@ Executive Summary
 
 <details>
 <summary>
-<h3 id="isoiec-27701">ISO/IEC 27701:2019:<br> Privacy Information Management System (PIMS)</h3>
+<h3 id="isoiec-27701">🔎 ISO/IEC 27701:2019: Privacy Information Management System (PIMS)</h3>
 </summary>
 
 - ISO/IEC 27701 is a standard that provides guidelines for establishing, implementing, maintaining, and continually improving a Privacy Information Management System (PIMS).
