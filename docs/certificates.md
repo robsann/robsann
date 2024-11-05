@@ -28,7 +28,7 @@
 
 <details>
     <summary>
-        <a href="https://app.letsdefend.io/certificate/show/5c1ff4b6-5dfb-4712-8a2c-2ecfafe13d35"><b>1. Incident Responder Path</b></a>
+        <b>1. Incident Responder Path - </b><a href="https://app.letsdefend.io/certificate/show/5c1ff4b6-5dfb-4712-8a2c-2ecfafe13d35"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
 
@@ -61,7 +61,7 @@
 
 <details>
     <summary>
-        <a href="https://app.letsdefend.io/certificate/show/c2cf0d01-1e64-4daf-bfba-449a645dd8ba"><b>2. Malware Analysis Skill Path</b></a>
+        <b>2. Malware Analysis Skill Path - </b><a href="https://app.letsdefend.io/certificate/show/c2cf0d01-1e64-4daf-bfba-449a645dd8ba"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
 
@@ -80,7 +80,7 @@
 
 <details>
     <summary>
-        <a href="https://app.letsdefend.io/certificate/show/f3801d83-a93f-4376-a7cd-509f422cc5cc"><b>3. SOC Analyst Learning Path</b></a>
+        <b>3. SOC Analyst Learning Path - </b><a href="https://app.letsdefend.io/certificate/show/f3801d83-a93f-4376-a7cd-509f422cc5cc"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
 
@@ -114,7 +114,7 @@
 
 <details>
     <summary>
-    	<a href="https://app.letsdefend.io/certificate/show/4dc903dd-58c1-4287-a8f0-5b31fa0c6b9a"><b>4. Cybersecurity for Studens</b></a>
+    	<b>4. Cybersecurity for Studens - </b><a href="https://app.letsdefend.io/certificate/show/4dc903dd-58c1-4287-a8f0-5b31fa0c6b9a"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
 
@@ -158,7 +158,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png"><b>1 - Cyber Defense (48h)</b></a>
+        <b>1 - Cyber Defense (48h)</b> - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDWZCEDZNB.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>Cyber Defense Introduction</b><br>
@@ -178,7 +178,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png"><b>2 - CompTIA Pentest+ (51h)</b></a>
+        <b>2 - CompTIA Pentest+ (51h)</b> - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AS1Y8ZECZE.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>Planning and Scoping</b><br>
@@ -194,7 +194,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png"><b>3 - Offensive Pentesting (47h)</b></a>
+        <b>3 - Offensive Pentesting (47h) - </b><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BK1ZQSSBLA.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>Getting Started</b><br>
@@ -212,7 +212,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png"><b>4 - Jr Penetration Tester (64h)</b></a>
+        <b>4 - Jr Penetration Tester (64h)</b><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YKIYGO0U0C.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>Introduction to Cyber Security</b><br>
@@ -236,7 +236,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png"><b>5 - Web Fundamentals (32h)</b></a>
+        <b>5 - Web Fundamentals (32h) - </b><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JER5JERLO7.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>How The Web Works</b><br>
@@ -253,7 +253,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png"><b>6 - Introduction to Cyber Security (24h)</b></a>
+        <b>6 - Introduction to Cyber Security (24h) - </b><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VLUVDNTLG2.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>Introduction to Cyber Security</b><br>
@@ -267,7 +267,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png"><b>7 - Pre Security (40h)</b></a>
+        <b>7 - Pre Security (40h) - </b><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9KSENCI8L.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>Introduction to Cyber Security</b><br>
@@ -285,7 +285,7 @@
 
 <details>
     <summary>
-        <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png"><b>8 - Complete Beginner (64h)</b></a>
+        <b>8 - Complete Beginner (64h) - </b><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQTWY3GABR.png"><b>LetsDefend link</b></a>
     </summary>
     <span style="color:black">
         &emsp;&emsp;1. <b>Complete Beginner Introduction</b><br>
