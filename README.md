@@ -739,7 +739,7 @@ The Dynamic Host Configuration Protocol (DHCP) is a network management protocol 
 
 ### DNS
 
-The Domain Name System (DNS) is a naming database that translates human-readable domain names (e.g., www.example.com) to machine-readable IP addresses (e.g., 93.184.216.34) used for device communication. If the website is not cached, the DNS resolver will query Root Servers, Top-Level Domain (TLD) Servers, and Authoritative Nameservers to retrieve the IP address.
+The Domain Name System (DNS) is a naming database that translates human-readable domain names (e.g., www.google.com) to machine-readable IP addresses (e.g., 172.217.29.238) used for device communication. Whenever a website's IP address is not cached, a DNS resolver from your ISP will query Root Servers, Top-Level Domain (TLD) Servers, and Authoritative Nameservers to retrieve the IP address.
 
 <div align="center">
 <img src='images/dns.png' width="85%">
