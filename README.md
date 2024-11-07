@@ -187,7 +187,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-37">🔎 NIST SP 800-37 Rev. 2: Risk Management Framework for Information Systems and Organizations</h3>
+<h3 id="nist-sp-800-37">🔎 NIST SP 800-37 Rev. 2: Risk Management Framework for Information Systems and Orgs</h3>
 </summary>
 
 - NIST SP 800-37 Rev. 2 is a publication that outlines a structured approach to managing risks associated with information systems and organizations.
@@ -209,7 +209,7 @@ Standards in cyber security are guidelines and best practices that organizations
 
 <details>
 <summary>
-<h3 id="nist-sp-800-53">🔎 NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems and Organizations</h3>
+<h3 id="nist-sp-800-53">🔎 NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems and Orgs</h3>
 </summary>
 
 - NIST SP 800-53 Rev. 5 is a publication that provides a comprehensive set of security and privacy controls for information systems and organizations.
