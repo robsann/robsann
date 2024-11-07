@@ -458,7 +458,7 @@ Executive Summary
 
 <details>
 <summary>
-<h3 id="isoiec-27018">🔎 ISO/IEC 27018:2019: Code of practice for protection of personally identifiable information (PII)<br> in public clouds acting as PII processors</h3>
+<h3 id="isoiec-27018">🔎 ISO/IEC 27018:2019: Code of practice for protection of PII in public clouds acting as PII processors</h3>
 </summary>
 
 - ISO/IEC 27018 is a code of practice that provides guidelines for protecting personal data in the cloud.
